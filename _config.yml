@@ -1,11 +1,8 @@
-title: Your awesome title
+title: João Gilberto N. Saraiva
 author:
-  name: GitHub User
-  email: your-email@domain.com
-description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  name: 0jonjo
+  email: joaogilberto@tuta.io
+description: > Site pessoal com blog, projetos, aulas, materiais didáticos, currículo e publicação do Prof. Dr. João Gilberto N. Saraiva.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -22,13 +19,13 @@ minima:
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    # instagram: jekyll
-    # linkedin: jekyll
+    instagram: 0jonjo
+    linkedin: 0jonjo
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
-    # telegram: jekyll
+    telegram: jonjo0
     # googleplus: +jekyll
     # microdotblog: jekyll
     # keybase: jekyll
