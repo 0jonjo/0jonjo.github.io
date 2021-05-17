@@ -1,5 +1,5 @@
 title: João Gilberto N. Saraiva
-author:
+author: 
   name: 0jonjo
   email: joaogilberto@tuta.io
 description: Site pessoal com blog, projetos, aulas, materiais didáticos, currículo, publicações e contatos.
@@ -47,8 +47,8 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-- about.md
 - publications.md
+- projects.md
 - materiais.md
 
 # Build settings
