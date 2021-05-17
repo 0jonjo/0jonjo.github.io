@@ -1,18 +1,9 @@
 ---
-title: Currículo e Publicações
+title: Publicações
 layout: page
 permalink: /publications/
 published: true
 ---
-
-**Currículo**
-
-Possui Doutorado em História Social pela Universidade Federal Fluminense (2019), Mestrado (2015) e Graduação (2012) em História pela Universidade Federal do Rio Grande do Norte (UFRN). Desenvolve pesquisas sobre as relações entre Poder, Mídias e Tecnologias. Temas de interesse: História Digital, Internet, Relações Internacionais, História, Imprensa, Educação e Ensino de História. É professor de História na Rede Municipal de Parnamirim-RN, programador web e escritor com crônicas e contos publicados em livros e sites.
-
-- [Currículo Lattes](http://lattes.cnpq.br/5459229452533929)
-- [Currículo ORCID](https://orcid.org/0000-0002-2094-8216)
-
-**Publicações**
 
 - No front das redações: construindo o Nordeste nas páginas do The New York Times [(2021, Capítulo de livro)](https://www.ideiaeditora.com.br/produto/nordeste-do-brasil-na-ii-guerra-mundial/)
 - Por que ainda criar um blog em tempos de Instagram? Revendo possibilidades numa experiência de Ensino de História na ‘Galáxia dos Celulares’ [(2020, Capítulo de livro)](https://simpohis2020midias.blogspot.com/p/joao-gilberto-neves-saraiva.html)

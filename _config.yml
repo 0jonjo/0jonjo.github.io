@@ -1,59 +1,65 @@
+### your site title here
+
 title: João Gilberto N. Saraiva
-author: 
-  name: 0jonjo
-  email: joaogilberto@tuta.io
-description: Site pessoal com blog, projetos, aulas, materiais didáticos, currículo, publicações e contatos.
+description: Professor, escritor, programador
 
-show_excerpts: false # set to true to show excerpts on the homepage
+baseurl: /0jonjo #name of GitHub repository
+url: #custom url to be used instead of GitHub repository
+email: joaogilberto@tuta.io
 
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
 
-  # generate social links in footer
-  social_links:
-    twitter: 0jonjo
-    github:  0jonjo
-    # devto: jekyll
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    instagram: 0jonjo
-    linkedin: 0jonjo
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    telegram: jonjo0
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
+highlighter: rouge
+markdown: kramdown
 
-    # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
+# Pagination
+paginate: 4
+permalink: /blog/:year/:title/
+paginate_path: /blog/page:num/
 
-    # GitLab instances
-    # gitlab:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
+# Social media links in footer
+facebook: 
+twitter: 0jonjo
+linkedin: 0jonjo
+github: 0jonjo
+researchgate: 
+orcid: 0000-0002-2094-8216
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-header_pages:
-- publications.md
-- projects.md
-- materiais.md
+highlighter: rouge
+markdown: kramdown
 
-# Build settings
-theme: minima
+# Tracker
+analytics: G-RB17NVMEMV
+
+#optimization -> compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+
+#collection
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+
+exclude:
+  - README.md
+  - LICENSE.md
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-email-protect
+  - jekyll-target-blank

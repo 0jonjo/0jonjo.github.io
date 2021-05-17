@@ -1,20 +1,51 @@
+---
+# layout: compress
+---
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html>
 
-  {%- include head.html -%}
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+        <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css">
 
-  <body>
+        <h2 class="post-headline">{{site.title}}</h2>
+        <h3 class="post-description">{{site.description}}</h3>
 
-    {%- include header.html -%}
+        {% include navigation.html %}
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
+        {% seo %}
 
-    {%- include footer.html -%}
+        {% include favicon.html %}
 
-  </body>
+        <!-- Load fontawesome here for faster loadtimes: https://stackoverflow.com/a/35880730/9523246 -->
+        <script type="text/javascript"> (function() { var css = document.createElement('link'); css.href = 'https://use.fontawesome.com/releases/v5.11.0/css/all.css'; css.rel = 'stylesheet'; css.type = 'text/css'; document.getElementsByTagName('head')[0].appendChild(css); })(); </script>
+
+    </head>
+
+    <body>
+        <main>
+            <article>
+                {{ content }}
+            </article>
+        </main>
+
+        <footer>
+            
+          {% include social-footer.html %}
+            
+          <p class="copy">
+            <small> &copy; {{site.title}} {{ site.time | date: '%Y' }}
+                    | Powered by Jekyll and
+                    <a target="_blank" href="https://github.com/jitinnair1/gradfolio/">Gradfolio</a>.
+                    Last updated on {{ site.time | date_to_long_string }}
+            </small>
+          </p>
+
+        </footer>
+
+        {% include analytics.html %}
+
+    </body>
 
 </html>

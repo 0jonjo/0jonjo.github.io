@@ -1,9 +1,14 @@
 ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-layout: home
+layout: about
+permalink: /
+profile:
+  align: right
+  image: profile.png
+published: true
 ---
+
+Década e meia entre salas de aula, computadores e livros de História, Educação, Tecnologia e Literatura.
+
+🌎 [Textos, aulas e links recentes](https://linktr.ee/joaogilberto)
+
+🖨️ [Currículo Lattes](http://lattes.cnpq.br/5459229452533929)
