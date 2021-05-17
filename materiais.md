@@ -28,7 +28,7 @@ PIBID História (UERN - Mossoró)
 **Aulas** 
 
 História dos Estados Unidos (UFRN - Natal)
-- [O NYT e as transformações da imprensa nos Estados Unidos dos anos 1930 até o fim da Segunda Guerra](hhttps://0jonjo.github.io/2021/03/23/nyt1930.html)
+- [O NYT e as transformações da imprensa nos Estados Unidos dos anos 1930 até o fim da Segunda Guerra](https://0jonjo.github.io/2021/03/23/nyt1930.html)
 
 Concurso para Professor Substituto de Antiga e Medieval (UFRN - Natal)
 - [Mare Nostrum: a Roma Antiga e a integração a partir do Mar Mediterrâneo](https://www.notion.so/joaogilberto/Mare-Nostrum-a-Roma-Antiga-e-a-integra-o-a-partir-do-Mar-Mediterr-neo-373ce2d03c76448093ad013b2b8794f6)
