@@ -3,7 +3,7 @@
 title: João Gilberto N. Saraiva
 description: Professor, escritor, programador
 
-baseurl: /0jonjo #name of GitHub repository
+baseurl: #name of GitHub repository
 url: #custom url to be used instead of GitHub repository
 email: joaogilberto@tuta.io
 
