@@ -2,7 +2,7 @@ title: João Gilberto N. Saraiva
 author:
   name: 0jonjo
   email: joaogilberto@tuta.io
-description: > Site pessoal com blog, projetos, aulas, materiais didáticos, currículo e publicação do Prof. Dr. João Gilberto N. Saraiva.
+description: Site pessoal com blog, projetos, aulas, materiais didáticos, currículo e publicação do Prof. Dr. João Gilberto N. Saraiva.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -13,8 +13,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: 0jonjo
+    github:  0jonjo
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
