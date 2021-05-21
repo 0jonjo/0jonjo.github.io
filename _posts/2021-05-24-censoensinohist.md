@@ -3,14 +3,13 @@ layout: post
 title: "Pesquisa censitária e formulários online no Ensino de História na Educação Básica"
 description: "7º Simpósio Eletrônico Internacional de Ensino de História"
 tags: historia educacao ensino remoto tecnologia educacao forms congresso texto evento
-image: 
+image: https://user-images.githubusercontent.com/64807181/119190482-cc71e400-ba53-11eb-8a7c-7c61b0d463b6.png 
 youtubeId: 
 ---
 
 Abaixo texto completo da minha participação na Mesa [Tecnologias da Informação e Comunicação](https://simpohist2021tecnologias.blogspot.com/) do [7º Simpósio Eletrônico Internacional de Ensino de História](https://simpohist2021.blogspot.com/) que acontece entre os dias 24 e 28 de maio. A interação neste congresso se dá por meio de comentários no texto de cada trabalho. Para dúvidas, críticas e comentários sobre o trabalho, é só clicar no link a seguir: [https://simpohist2021tecnologias.blogspot.com/2021/05/joao-gilberto-neves-saraiva.html](https://simpohist2021tecnologias.blogspot.com/2021/05/joao-gilberto-neves-saraiva.html). No mais, boa leitura!
 
-![image](https://user-images.githubusercontent.com/64807181/119185785-929ddf00-ba4d-11eb-8f84-0d11df71b9a2.png)
-
+![image](https://user-images.githubusercontent.com/64807181/119190482-cc71e400-ba53-11eb-8a7c-7c61b0d463b6.png)
 
 A realização de recenseamentos é uma prática com raízes históricas profundas. Os grandes impérios da Antiguidade, como Roma e China, já utilizavam pesquisas censitárias para saber número de habitantes, sexo, profissão, renda, entre outros dados com o objetivo de nortear suas ações. Essa prática continua desde então, conhecer em detalhes a distribuição social, étnica, espacial, econômica, etc. das populações é cada vez mais uma informação vital para a administração dos Estados. No caso do Brasil, data do terço final do século XIX – na época de D. Pedro II – os primeiros censos da população brasileira. Ao longo do século XX, notadamente após a criação do Instituto Brasileiro de Geografia e Estatística em 1936, a prática tornou-se sistemática e passou a abranger temas cada vez mais amplos (IBGE, 1987, p. 20). A cada virada de década, a população brasileira é recenseada em pesquisas com temas diversificados, além de amplas e variadas amostragens. Dada a pandemia do coronavírus desde o início de 2020, bem como diversas questões políticas e econômicas, o censo desta década ainda não foi realizado. Recentemente, o governo federal anunciou que ele também não será feito em 2021 (ROCHA, 2021). Isso é muito preocupante para o planejamento e execução de políticas públicas em áreas como a saúde, a educação, o uso de recursos energéticos e hídricos, entre outras.
 
