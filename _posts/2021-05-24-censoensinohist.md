@@ -7,7 +7,7 @@ image:
 youtubeId: 
 ---
 
-Abaixo texto completo da minha participação na Mesa [Tecnologias da Informação e Comunicação](https://simpohist2021tecnologias.blogspot.com/) do [7º Simpósio Eletrônico Internacional de Ensino de História](https://simpohist2021.blogspot.com/) que acontece entre os dias 24 e 28 de maio. A interação neste congresso se dá por meio de comentários no texto de cada trabalho. Para dúvidas, críticas e comentários do texto, é só clicar no link a seguir: [https://simpohist2021tecnologias.blogspot.com/2021/05/joao-gilberto-neves-saraiva.html](https://simpohist2021tecnologias.blogspot.com/2021/05/joao-gilberto-neves-saraiva.html). No mais, boa leitura!
+Abaixo texto completo da minha participação na Mesa [Tecnologias da Informação e Comunicação](https://simpohist2021tecnologias.blogspot.com/) do [7º Simpósio Eletrônico Internacional de Ensino de História](https://simpohist2021.blogspot.com/) que acontece entre os dias 24 e 28 de maio. A interação neste congresso se dá por meio de comentários no texto de cada trabalho. Para dúvidas, críticas e comentários sobre o trabalho, é só clicar no link a seguir: [https://simpohist2021tecnologias.blogspot.com/2021/05/joao-gilberto-neves-saraiva.html](https://simpohist2021tecnologias.blogspot.com/2021/05/joao-gilberto-neves-saraiva.html). No mais, boa leitura!
 
 ![image](https://user-images.githubusercontent.com/64807181/119185785-929ddf00-ba4d-11eb-8f84-0d11df71b9a2.png)
 
