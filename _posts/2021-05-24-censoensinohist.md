@@ -46,16 +46,16 @@ Cada uma das diversas etapas desde a formulação das questões até a análise 
 
 BRASIL. Base Nacional Comum Curricular: educação é a base. Brasília: MEC/CONSED/ UNDIME, 2018. Disponível em http://download.basenacionalcomum.mec.gov.br/ Acesso em: 10 jan. 2020.
 
-CARVALHO, Bruno Leal Pastor de. Professor de História desenvolve jogo inovador utilizando apenas formulário do Google (Notícia). In: Café História: história feita com cliques. Disponível em: https://www.cafehistoria.com.br/professor-de-historia-cria-jogo-inovador. Publicado em: 1 mai. 2020. ISSN: 2674-5917. Acesso: 10 dez. 2020.
+CARVALHO, Bruno Leal Pastor de. Professor de História desenvolve jogo inovador utilizando apenas formulário do Google (Notícia). In: Café História: história feita com cliques. Disponível em: [https://www.cafehistoria.com.br/professor-de-historia-cria-jogo-inovador](https://www.cafehistoria.com.br/professor-de-historia-cria-jogo-inovador). Publicado em: 1 mai. 2020. ISSN: 2674-5917. Acesso: 10 dez. 2020.
 
 DUDENEY, Gavin; HOCKLY, Nicky; PEGRUM, Mark, Letramentos Digitais. São Paulo: Parábola, 2016.
 
-HISTORIAR-SE. Como usar o Google Forms em Sala de Aula. Produzido por: Cadu Barzotto. 2 mai. 2021. 1 vídeo (10 min). Disponível em https://www.youtube.com/watch?v=9m4thukPztM Acesso em: 2 mai. 2021.
+HISTORIAR-SE. Como usar o Google Forms em Sala de Aula. Produzido por: Cadu Barzotto. 2 mai. 2021. 1 vídeo (10 min). Disponível em [https://www.youtube.com/watch?v=9m4thukPztM](https://www.youtube.com/watch?v=9m4thukPztM) Acesso em: 2 mai. 2021.
 
-IBGE. Acesso à internet e à televisão e posse de telefone móvel celular para uso pessoal 2018. Rio de Janeiro: IBGE, 2020. Disponível em https://biblioteca.ibge.gov.br/visualizacao/livros/liv101705_informativo.pdf Acesso em 10 jan. 2021.
+IBGE. Acesso à internet e à televisão e posse de telefone móvel celular para uso pessoal 2018. Rio de Janeiro: IBGE, 2020. Disponível em [https://biblioteca.ibge.gov.br/visualizacao/livros/liv101705_informativo.pdf](https://biblioteca.ibge.gov.br/visualizacao/livros/liv101705_informativo.pdf) Acesso em 10 jan. 2021.
 
-IBGE. Estatísticas Históricas do Brasil: Séries econômicas, demigráficas e sociais de 1500 a 1985. Rio de Janeiro: IBGE, 1987. Disponível em: https://biblioteca.ibge.gov.br/visualizacao/livros/liv17983_v3.pdf Acesso em: 2 abr. 2021.
+IBGE. Estatísticas Históricas do Brasil: Séries econômicas, demigráficas e sociais de 1500 a 1985. Rio de Janeiro: IBGE, 1987. Disponível em: [https://biblioteca.ibge.gov.br/visualizacao/livros/liv17983_v3.pdf](https://biblioteca.ibge.gov.br/visualizacao/livros/liv17983_v3.pdf) Acesso em: 2 abr. 2021.
 
-ROCHA, Camilo. O novo cancelamento do Censo. E a falta de perspectiva para fazê-lo. Nexo Jornal, São Paulo, 23 abr. 2021. Disponível em https://www.nexojornal.com.br/expresso/2021/04/23/O-novo-cancelamento-do-Censo.-E-a-falta-de-perspectiva-para-fazê-lo Acesso em: 24 abr. 2021.
+ROCHA, Camilo. O novo cancelamento do Censo e a falta de perspectiva para fazê-lo. Nexo Jornal, São Paulo, 23 abr. 2021. Disponível em [https://www.nexojornal.com.br/expresso/2021/04/23/O-novo-cancelamento-do-Censo.-E-a-falta-de-perspectiva-para-fazê-lo](https://www.nexojornal.com.br/expresso/2021/04/23/O-novo-cancelamento-do-Censo.-E-a-falta-de-perspectiva-para-fazê-lo) Acesso em: 24 abr. 2021.
 
-SARAIVA, João Gilberto N. Por que ainda criar um blog em tempos de Instagram? Revendo possibilidades numa experiência de Ensino de História na 'Galáxia dos Celulares'. In: BUENO, André; NETO, José Maria. (Org.). Ensino de História: Mídias e Tecnologias. Rio de Janeiro: Sobre Ontens/UERJ, 2020. Disponível em https://simpohis2020midias.blogspot.com/p/joao-gilberto-neves-saraiva.html Acesso em 10 dez. 2020. 
+SARAIVA, João Gilberto N. Por que ainda criar um blog em tempos de Instagram? Revendo possibilidades numa experiência de Ensino de História na 'Galáxia dos Celulares'. In: BUENO, André; NETO, José Maria. (Org.). Ensino de História: Mídias e Tecnologias. Rio de Janeiro: Sobre Ontens/UERJ, 2020. Disponível em [https://simpohis2020midias.blogspot.com/p/joao-gilberto-neves-saraiva.html](https://simpohis2020midias.blogspot.com/p/joao-gilberto-neves-saraiva.html) Acesso em 10 dez. 2020. 
