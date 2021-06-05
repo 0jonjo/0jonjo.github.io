@@ -4,7 +4,7 @@ title: "Live História Pública Digital e Educação"
 description: Live no Canal PensarEdu
 tags: historia ensino digital digital history education humanities educacao tecnologias tdics
 categories: misc
-image: https://user-images.githubusercontent.com/64807181/117352963-f9d06680-ae85-11eb-88eb-a785ad56a1f7.png
+image: https://user-images.githubusercontent.com/64807181/120908188-3e465200-c63e-11eb-9443-fd3515727748.png
 ---
 
 Como pensamos e lidamos com o passado da educação? Como usamos a informática para produzir conhecimentos e democratizar o acesso a conteúdos da história? O PENSAR ao Vivo do dia 11 de novembro conversa sobre “história pública digital” e a educação. Esse bate papo reunirá Olivia Morais de Medeiros Neta, professora da UFRN; João Gilberto Neves Saraiva, professor da Educação Básica no RN; Vinícius Monção, pós-doutorando na USP; Anita Lucchesi, doutora em História Digital e História Pública pela Universidade de Luxemburgo, e Vanessa Macêdo, do Pensar a Educação, Pensar o Brasil. A live aborda a relação entre a história pública digital e os usos de mídias na difusão e produção de conhecimento à educação e à história.
@@ -23,4 +23,4 @@ A Live “História digital e educação” será no dia 11 de novembro, às 17h
 
 [Clique aqui para acessar](https://www.youtube.com/watch?v=m8-9FT8OCrg)
 
-![image](https://user-images.githubusercontent.com/64807181/117352963-f9d06680-ae85-11eb-88eb-a785ad56a1f7.png)
+![image](https://user-images.githubusercontent.com/64807181/120908188-3e465200-c63e-11eb-9443-fd3515727748.png)
