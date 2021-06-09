@@ -27,6 +27,9 @@ PIBID História (UERN - Mossoró)
 
 **Aulas** 
 
+Concurso para Professor Substituto de História (IFRN)
+- [Do trabalho escravo para o trabalho livre no Brasil](https://www.notion.so/joaogilberto/Do-trabalho-escravo-para-o-trabalho-livre-no-Brasil-19224557e8d64ea781f5697ffd333aaf)
+
 História dos Estados Unidos (UFRN - Natal)
 - [O NYT e as transformações da imprensa nos Estados Unidos dos anos 1930 até o fim da Segunda Guerra](https://0jonjo.github.io/blog/2021/nyt1930/)
 
