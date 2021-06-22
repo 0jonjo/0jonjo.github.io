@@ -12,6 +12,10 @@ published: true
 
 **Oficinas, Cursos e Lives**
 
+Programa Campus - UERJ TV
+
+- [Youtube - A revolução do computador pessoal](https://www.youtube.com/watch?v=Eys_D0tslzU)
+
 XI Seminário Didática e Ensino de História (UFRN)
 - [Youtube - Mesa de abertura: Os desafios do ensino de História em tempos de ensino remoto emergencial](https://www.youtube.com/watch?v=4N0qngKDMy0)
 
