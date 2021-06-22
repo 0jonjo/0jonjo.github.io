@@ -18,3 +18,4 @@ Vale muito a pena assistir o programa para descobrir!
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
+Fotografia: [IBM PC Portable with developed life forms in its keyboard at #chaosconstructions"](https://www.flickr.com/photos/68931440@N00/14906602068) by svofski is licensed under CC BY-SA 2.0.  
