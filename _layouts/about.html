@@ -10,12 +10,10 @@ layout: default
 
 {{ content }}
 
-<div class="article-list">
-  {% for post in paginator.posts %}
+{% for post in paginator.posts %}
     <h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3>
     <p>{{post.excerpt | strip_html}}</p>
-  {% endfor %}
-</div>
+{% endfor %}
 
 <!-- pagination -->
 {% if paginator.total_pages > 1 %}
