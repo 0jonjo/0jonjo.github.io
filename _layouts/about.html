@@ -21,6 +21,6 @@ layout: default
 	<h3><small>{{ post.date | date: '%B %Y' }}</small></h3>
 	{% endif %}
 	{% endunless %}
-    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}{{page.date | date: '%d %B %Y'}}</a><br>
+    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}{{post.date | date: '%d %B %Y'}}</a><br>
 	{% endfor %}
 </div>
