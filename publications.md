@@ -5,6 +5,7 @@ permalink: /publications/
 published: true
 ---
 
+- Introdução ao Markdown (Tradução de lição de Sarah Simpkin) [2021, Artigo em Revista](https://doi.org/10.46430/phpt0008)
 - Pesquisa censitária e formulários online no ensino de História na Educação Básica [(2021, Capítulo de livro)](https://simpohist2021tecnologias.blogspot.com/2021/05/joao-gilberto-neves-saraiva.html)
 - No front das redações: construindo o Nordeste nas páginas do The New York Times [(2021, Capítulo de livro)](https://www.ideiaeditora.com.br/produto/nordeste-do-brasil-na-ii-guerra-mundial/)
 - Por que ainda criar um blog em tempos de Instagram? Revendo possibilidades numa experiência de Ensino de História na ‘Galáxia dos Celulares’ [(2020, Capítulo de livro)](https://simpohis2020midias.blogspot.com/p/joao-gilberto-neves-saraiva.html)
