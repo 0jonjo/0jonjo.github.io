@@ -12,8 +12,10 @@ published: true
 
 **Oficinas, Cursos e Lives**
 
-Programa Campus - UERJ TV
+Lançamento do livro "O Nordeste Brasileiro na Segund Guerra"
+- [Youtube - Live de lançamento da 2ª edição](https://www.youtube.com/watch?v=-YLuiqfTKqE)
 
+Programa Campus - UERJ TV
 - [Youtube - A revolução do computador pessoal](https://www.youtube.com/watch?v=Eys_D0tslzU)
 
 XI Seminário Didática e Ensino de História (UFRN)
