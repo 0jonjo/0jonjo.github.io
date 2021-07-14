@@ -4,7 +4,7 @@ title: "Live O Nordeste do Brasil Segunda Guerra Mundial"
 description: Participação em live de lançamento do livro
 tags: historia memoria rn brasil history natal nordeste educacao guerra IIguerra segundaguerra
 categories: misc
-youtubeId: YLuiqfTKqE
+youtubeId: -YLuiqfTKqE
 image: https://user-images.githubusercontent.com/64807181/125664598-6982533b-dee4-43e3-8b30-9982bd546df2.png
 ---
 
