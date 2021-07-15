@@ -12,7 +12,7 @@ published: true
 
 **Oficinas, Cursos e Lives**
 
-Lançamento do livro "O Nordeste Brasileiro na Segund Guerra"
+Lançamento do livro "O Nordeste Brasileiro na Segunda Guerra"
 - [Youtube - Live de lançamento da 2ª edição](https://www.youtube.com/watch?v=-YLuiqfTKqE)
 
 Programa Campus - UERJ TV
