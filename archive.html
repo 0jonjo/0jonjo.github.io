@@ -16,5 +16,6 @@ title: Archive
 	{% endif %}
 	{% endunless %}
     <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
+    <p>{{post.excerpt | strip_html}}</p>
 	{% endfor %}
 </div>
