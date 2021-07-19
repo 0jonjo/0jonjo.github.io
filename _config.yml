@@ -1,7 +1,7 @@
 ### your site title here
 
-title: João Gilberto N. Saraiva
-description: Professor, escritor e pesquisador
+title: 0jonjo
+description: João Gilberto N. Saraiva
 
 baseurl: #name of GitHub repository
 url: #custom url to be used instead of GitHub repository
@@ -44,7 +44,7 @@ compress_html:
 #collection
 collections:
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
 
 sass:
