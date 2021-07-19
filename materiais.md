@@ -10,7 +10,7 @@ published: true
 - Projeto Arcada - E. M. Ivanira Paisinho  [Website e blogs](https://0jonjo.github.io/arcada) 
 - Lançamento do livro O Nordeste Brasileiro na Segunda Guerra, 2ª edição [Youtube](https://www.youtube.com/watch?v=-YLuiqfTKqE)
 - Programa Campus UERJ TV - A revolução do computador pessoal [Youtube](https://www.youtube.com/watch?v=Eys_D0tslzU)
-- XI Seminário Didática e Ensino de História - Mesa de abertura: Os desafios do ensino de História em tempos de ensino remoto emergencial[Youtube](https://www.youtube.com/watch?v=4N0qngKDMy0)
+- XI Seminário Didática e Ensino de História - Mesa de abertura: Os desafios do ensino de História em tempos de ensino remoto emergencial [Youtube](https://www.youtube.com/watch?v=4N0qngKDMy0)
 - Ciclo de Debates LAHISD (UFU) - Ensino de História e produção de material didático digital [Youtube](https://www.youtube.com/watch?v=jNVQJjDxcdc) - [Material didático](https://www.notion.so/joaogilberto/Ensino-de-Hist-ria-e-produ-o-de-material-did-tico-digital-b4c022b019ae4a1fa2ac81d8555944ee)
 - PIBID História UFRN - Aperte Start: primeiros passos entre História Digital e Ensino de História [Material didático](https://www.notion.so/joaogilberto/Aperte-Start-primeiros-passos-entre-Hist-ria-Digital-e-Ensino-de-Hist-ria-689f50857fcd4221ab49789d413b2921)
 - PIBID História UERN - Materiais Didáticos Digitais [Material didático](https://www.notion.so/joaogilberto/Materiais-Did-ticos-Digitais-1f6e452d587f472a9a6d121f30d49379)
