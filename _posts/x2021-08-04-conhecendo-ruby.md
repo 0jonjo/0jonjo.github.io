@@ -18,3 +18,4 @@ A obra é disponibilizada gratuitamente em pdf pelo autor no site Leanpub (link 
 
 ![image](https://user-images.githubusercontent.com/64807181/127940047-e0935efb-2d5c-4b85-bf52-9e0ce142bcb7.png)
 
+Imagem: "The Evolution of Computer Programming Languages #C #Fortran #Java #Ruby" de dullhunk sob licença CC BY 2.0 [https://creativecommons.org/licenses/by/2.0/](https://creativecommons.org/licenses/by/2.0/) 
