@@ -5,7 +5,7 @@ description: Livro que estamos utilizando no curso de programação
 tags: ruby ensino markdown programming tdics education portugues code programacao curso rubyonrails rails
 categories: misc
 youtubeId:
-image: https://user-images.githubusercontent.com/64807181/124165335-06350200-da78-11eb-89ec-3eb374e73817.png
+image: https://user-images.githubusercontent.com/64807181/127940047-e0935efb-2d5c-4b85-bf52-9e0ce142bcb7.png
 ---
 
 No mês passado fui um dos 20 selecionados para uma excelente iniciativa capitaneada por [Marcelo Castellani](https://twitter.com/mfcastellani), cantor, escritor e programador fundador do [GURU-SP](https://www.gurusp.org/) (Grupo de usuários Ruby de São Paulo). Ele se propôs - com a ajuda de voluntários e empresas parceiras - a propiciar um curso gratuito, de um semestre, de programação em linguagem Ruby[(Clique para saber o que é isso)](https://pt.wikipedia.org/wiki/Ruby_%28linguagem_de_programa%C3%A7%C3%A3o%29) com encontros e atividades semanais. O público-alvo foi de iniciantes e pessoas querendo mudar de área de trabalho. Somos vinte pessoas de regiões, idades, contextos sociais e educacionais distintos conhecendo melhor e praticando com o Ruby, Git e outras tecnologias utilizadas no mercado da programação hoje a partir de atividades de uma empresa fictícia - a Dragon Rentals. O CNPJ não é real, mas os aprendizados sim! Ainda estamos na quarta aula de curso, mas já deu para aprender muita coisa. 
@@ -14,7 +14,7 @@ Um dos livros que estamos utilizando se chama "Conhecendo Ruby: aprenda de forma
 
 A obra é disponibilizada gratuitamente em pdf pelo autor no site Leanpub (link abaixo) , vale muito baixar quem quer entrar no mundo do Ruby ou que deseja dar os primeiros passos no mundo da programação. 
 
-[Clique aqui ou na imagem para o download do livro](https://leanpub.com/conhecendo-ruby)
+[Clique aqui para fazer o download do livro](https://leanpub.com/conhecendo-ruby)
 
-![image](https://user-images.githubusercontent.com/64807181/124165335-06350200-da78-11eb-89ec-3eb374e73817.png)
+![image](https://user-images.githubusercontent.com/64807181/127940047-e0935efb-2d5c-4b85-bf52-9e0ce142bcb7.png)
 
