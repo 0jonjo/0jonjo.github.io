@@ -8,6 +8,7 @@ published: true
 #### 2021
 
 - Projeto Arcada - E. M. Ivanira Paisinho  [Website e blogs](https://0jonjo.github.io/arcada) 
+- O mundo em guerra [Material didático](https://www.notion.so/joaogilberto/O-mundo-em-guerra-e1727640852a4935b3307c3e6b3bd8c4)
 - Lançamento do livro O Nordeste Brasileiro na Segunda Guerra, 2ª edição [Youtube](https://www.youtube.com/watch?v=-YLuiqfTKqE)
 - Programa Campus UERJ TV - A revolução do computador pessoal [Youtube](https://www.youtube.com/watch?v=Eys_D0tslzU)
 - XI Seminário Didática e Ensino de História - Mesa de abertura: Os desafios do ensino de História em tempos de ensino remoto emergencial [Youtube](https://www.youtube.com/watch?v=4N0qngKDMy0)
