@@ -18,19 +18,12 @@ O retorno presencial a escola foi em um momento propício para estudarmos o temp
 
 
 "A história até final ainda contém várias surpresas
-
 Para o bem e para o mal, que tal?
-
 Uma por uma as verdades vêm à tona
-
 Olha que beleza, tijolo por tijolo, máscara por máscara
-
 Do estilingue vai à pedra, da banana vai à casca
-
 [...]
-
 É a semente que voa com o vento
-
 É energia de primeira qualidade em movimento"
 
 Abaixo o link para três das atividades desenvolvidas no Projeto Arcada:
