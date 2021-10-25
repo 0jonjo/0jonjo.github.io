@@ -31,8 +31,3 @@ Abaixo o link para três das atividades desenvolvidas no Projeto Arcada:
 - [O racismo estrutural no Brasil](https://0jonjo.github.io/arcada/2021/10/04/9ano-3bim-atv3.html)
 - [Uma história da cultura afro-brasileira](https://0jonjo.github.io/arcada/2021/10/11/9ano-3bim-atv4.html)
 - [A uberização da sociedade](https://0jonjo.github.io/arcada/2021/10/25/9ano-3bim-atv5.html)
-
-
-![image](https://user-images.githubusercontent.com/64807181/138679223-0ecc3864-0ade-4145-808b-51890e059751.png)
-
-
