@@ -3,7 +3,7 @@ layout: post
 title: "Racismo estrutural? Uberização? O que é isso?"
 description: "Materiais do 9º ano no Ensino Híbrido"
 tags: historia educacao ensino remoto educacao racismo escravidao raca racismo hibrido escola negro
-image: https://user-images.githubusercontent.com/64807181/119190482-cc71e400-ba53-11eb-8a7c-7c61b0d463b6.png 
+image: https://user-images.githubusercontent.com/64807181/138679223-0ecc3864-0ade-4145-808b-51890e059751.png 
 youtubeId: 
 ---
 
@@ -32,5 +32,6 @@ Abaixo o link para três das atividades desenvolvidas no Projeto Arcada:
 - [Uma história da cultura afro-brasileira](https://0jonjo.github.io/arcada/2021/10/11/9ano-3bim-atv4.html)
 - [A uberização da sociedade](https://0jonjo.github.io/arcada/2021/10/25/9ano-3bim-atv5.html)
 
-![image](https://user-images.githubusercontent.com/64807181/119190482-cc71e400-ba53-11eb-8a7c-7c61b0d463b6.png)
+[image](https://user-images.githubusercontent.com/64807181/138679223-0ecc3864-0ade-4145-808b-51890e059751.png)
+
 
