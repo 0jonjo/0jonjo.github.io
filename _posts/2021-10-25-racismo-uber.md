@@ -10,14 +10,14 @@ youtubeId:
 "Professor, o que é racismo estrutural?"
 "Poxa, a escravidão durou mais de 300 anos!"
 "Uberização é tipo trabalhar em Uber, tipo isso né?
-"Há entendi, os direitos é que estão em jogo!"
+"Ah entendi, os direitos é que estão em jogo!"
 
-O retorno presencial a escola foi em um momento propício para estudarmos o tempo presente com as turmas de 9º ano (das quais capturei as frases acima). A escola é um espaço de descobertas, de compreensão e ressignificação do mundo nos cerca. Por isso, considero que evidenciar a dimensão histórica para questões de hoje é uma das perspectivas mais importantes para se ensinar História. Nessa direção, e em diálogo com o estudado na disciplina de Língua Portuguesa, passamos a tratar de temas como o racismo estrutural e as relações de trabalho uberizadas. Os alunos trabalharam com charges, vídeos do Youtube, trechos de documentários, notícias, verbetes e outros. 
+O retorno presencial a escola foi em um momento propício para estudarmos o tempo presente com as turmas de 9º ano (das quais capturei as frases acima). A escola é um espaço de descobertas, de compreensão e ressignificação do mundo que nos cerca. Por isso, considero que evidenciar a dimensão histórica para questões de hoje é uma das perspectivas mais importantes para se ensinar História. Nessa direção, e em diálogo com o estudado na disciplina de Língua Portuguesa, passamos a tratar de temas como o racismo estrutural e as relações de trabalho uberizadas. Os alunos trabalharam com charges, vídeos do Youtube, trechos de documentários, notícias, verbetes e outros. 
 
 É muito bom presenciar os alunos e alunas conversando, escrevendo no caderno, assistindo vídeos, pesquisando, escolhendo links, em suma, relendo o mundo com olhos de História. Como canta o rapper B'Negão em ["Alteração"](https://youtu.be/EmCgOADirkg?t=97):
 
 
-"A história até final ainda contém várias surpresas.
+"A história até o final ainda contém várias surpresas.
 Para o bem e para o mal, que tal?
 Uma por uma as verdades vêm à tona,
 Olha que beleza, tijolo por tijolo, máscara por máscara,
