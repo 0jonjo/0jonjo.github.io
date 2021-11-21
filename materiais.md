@@ -7,6 +7,7 @@ published: true
 
 #### 2021
 
+- Revisão ENEM 2021 - Primeiro dia de Provas [Material Didático](https://www.notion.so/joaogilberto/Primeiro-dia-do-ENEM-2021-d7e2847bb9cb48b8ac8cc6f144ad238e)
 - Projeto Arcada - E. M. Ivanira Paisinho  [Website e blogs](https://0jonjo.github.io/arcada) 
 - O mundo em guerra [Material didático](https://www.notion.so/joaogilberto/O-mundo-em-guerra-e1727640852a4935b3307c3e6b3bd8c4)
 - Lançamento do livro O Nordeste Brasileiro na Segunda Guerra, 2ª edição [Youtube](https://www.youtube.com/watch?v=-YLuiqfTKqE)
