@@ -3,7 +3,7 @@ layout: post
 title: "O preço do amanhã - Mostra de trabalhos Expotec"
 description: "Mostra de trabalhos dos alunos de História II - IFRN"
 tags: historia educacao ensino tiktok tecnologia educacao forms 2021 humanas instagram prova podcast video
-image: https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5eba59da-1fc1-4f8c-bfc3-99d959f13647%2Fexpotec1.jpeg?table=block&id=f5d03c7d-84c4-4341-bb59-d54ad2597959&spaceId=62ec5948-95c8-4b99-8ba8-8bc3f2779c85&width=2000&userId=59896eb0-a45d-45ec-b05a-3fb1a88c8224&cache=v2
+image: https://user-images.githubusercontent.com/64807181/148265058-87d21f0b-3303-44a6-8def-5fa3dd19a821.png
 youtubeId: 
 ---
 
@@ -14,3 +14,5 @@ Entre as apresentações está uma mostra virtual de trabalhos dos meus alunos d
 Os alunos e alunas das turmas INFO4M, INFO4V, MEC4V e REFRI4M produziram jornais, imagens, podcasts, vídeos, etc. sobre questões críticas do tempo presente a partir de reflexões do filme [“O preço do Amanhã” (2011)](https://pt.wikipedia.org/wiki/In_Time) - [clique aqui para assistir trailer](https://www.youtube.com/watch?v=XUSt9oZUTrs). Uma ficção científica escrita e digirida por Andrew Niccolque se passa em um futuro em que a moeda corrente é o tempo. Nela se discutem diversas questões contemporâneas: o tempo como um direito, significado do trabalho, meritocracia, desigualdade espacial e social, etc. Os trabalhos selecionados foram organizados em duas linhas temáticas: "A pressa nossa de cada dia" e "Meritocracia em um mundo desigual".
 
 **[Clique aqui para abrir a Mostra de Trabalhos - O Preço do Amanhã: questões do tempo presente](https://joaogilberto.notion.site/Primeiro-dia-do-ENEM-2021-d7e2847bb9cb48b8ac8cc6f144ad238e)** 
+
+![image](https://user-images.githubusercontent.com/64807181/148265058-87d21f0b-3303-44a6-8def-5fa3dd19a821.png)
