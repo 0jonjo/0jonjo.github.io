@@ -7,7 +7,7 @@ image: https://user-images.githubusercontent.com/64807181/148265058-87d21f0b-330
 youtubeId: 
 ---
 
-Entre os dias 10 e 11/01 acontece a [Exposição Científica, Tecnológica e Cultural – EXPOTEC](https://expotec-sc.herokuapp.com/) é um evento promovido pelo [Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, campus Santa Cruz](https://portal.ifrn.edu.br/campus/santacruz). Ele conta com a a apresentação de alunos de Ensino Médio Integrado, Técnico Subsequente e Graduação em diversas áreas incluindo Informática, Matemática, Física, Mecânica e outros.
+Entre os dias 10 e 11/01 acontece a [Exposição Científica, Tecnológica e Cultural – EXPOTEC](https://expotec-sc.herokuapp.com/), um evento promovido pelo [Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, campus Santa Cruz](https://portal.ifrn.edu.br/campus/santacruz). Ele conta com a a apresentação de alunos de Ensino Médio Integrado, Técnico Subsequente e Graduação em diversas áreas incluindo Informática, Matemática, Física, Mecânica e outros.
 
 Entre as apresentações está uma mostra virtual de trabalhos dos meus alunos de História II (cerca de 100 alunos concluintes do Ensino Médio) intitulada [O Preço do Amanhã: questões do tempo presente](https://www.notion.so/joaogilberto/Mostra-de-Trabalhos-O-Pre-o-do-Amanh-quest-es-do-tempo-presente-f5d03c7d84c44341bb59d54ad2597959)
 
