@@ -7,7 +7,7 @@ published: true
 
 #### 2022
 
-- [Mostra de trabalhos - O Preço do Amanhã: questões do tempo presente](https://www.notion.so/joaogilberto/Mostra-de-Trabalhos-O-Pre-o-do-Amanh-quest-es-do-tempo-presente-f5d03c7d84c44341bb59d54ad2597959)
+- Mostra de trabalhos - O Preço do Amanhã: questões do tempo presente [Notion](https://www.notion.so/joaogilberto/Mostra-de-Trabalhos-O-Pre-o-do-Amanh-quest-es-do-tempo-presente-f5d03c7d84c44341bb59d54ad2597959)
 
 #### 2021
 
