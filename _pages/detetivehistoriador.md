@@ -7,9 +7,7 @@ categories: misc
 image: https://user-images.githubusercontent.com/64807181/120908982-5a4df180-c646-11eb-963e-85330716e3ca.png
 ---
 
-*Curso FIC - Entre tempos: uso da técnica, tecnologia e razão que moldaram a História da humanidade*
-
-# Do detetive ao historiador: perguntas e conceitos que movem o conhecimento
+> Curso FIC - Entre tempos: uso da técnica, tecnologia e razão que moldaram a História da humanidade
 
 O que vem a sua mente quando você pensa em **Ciência**? E em **Tecnologia**?
 
