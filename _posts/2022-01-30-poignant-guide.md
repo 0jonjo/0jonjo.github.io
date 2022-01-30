@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Um estranho e incrível guia"
+title: "Um estranho e incrível guia de programação"
 description: Aprendendo com o Poignant Guide to Ruby
 tags: ruby ensino livro programming poignant education guide code why lucky  stiff rubyonrails rails
 categories: misc
