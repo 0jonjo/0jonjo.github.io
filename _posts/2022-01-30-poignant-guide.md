@@ -14,7 +14,7 @@ Publicado como uma página de internet e pdf sob licença Creative Commons, o li
 
 Não há como passar indiferente pelo livro, sua fusão de programação e literatura é odiada por uns e amada por muitos outros [(como bem mostram os comentários no Goodreads)](https://www.goodreads.com/book/show/463882.Why_s_Poignant_Guide_to_Ruby). Cada um dos sete capítulos apresentam desenhos, quadrinhos, textos, exemplos de uso do Ruby, montagens e há até espaço para um pequeno RPG de batalhas em que você é um coelho que enfrenta monstros até chegar no desafio final, um dragão.
 
-Eu gostei bastante porque por um lado me aprofundei em Ruby (linguagem que estudo desde o ano passado) e por outro me outro surpreendi e diverti com as histórias mirabolantes e piadas sem sentido do livro.
+Um amigo fã de literatura e Ruby, [Brenno](https://twitter.com/brennovich), tinha me indicado esta leitura tem um bom tempo, mas eu só acabei atentando para o livro no final de 2021. Eu gostei bastante porque por um lado me aprofundei em Ruby (linguagem que estudo desde o ano passado) e por outro me outro surpreendi e diverti com as histórias mirabolantes e piadas sem sentido do livro.
 
 Fiz até um [caderninho de anotações do meu aprendizado com o livro](https://0jonjo.github.io/_pages/poigant-guide/).
 
