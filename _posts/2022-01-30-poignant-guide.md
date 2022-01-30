@@ -20,9 +20,9 @@ Fiz até um [caderninho de anotações do meu aprendizado com o livro](https://0
 
 Ficou curioso? Eu li a versão em inglês, mas há também a versão em português (hospedada por Carlos Brando).
 
-- [Link para livro em inglês](http://poignant.guide/book/chapter-1.html)
+- [Link para livro em inglês](http://poignant.guide/book/)
 
-- [Link para a versão em português](http://why.carlosbrando.com/chapter-1.html)
+- [Link para a versão em português](http://why.carlosbrando.com/index.html)
 
 ![image](https://user-images.githubusercontent.com/64807181/151700590-d8106d96-e183-49ff-bb65-deedaa03030d.png)
 
