@@ -5,7 +5,7 @@ description: Aprendendo com o Poignant Guide to Ruby
 tags: ruby ensino livro programming poignant education guide code why lucky  stiff rubyonrails rails
 categories: misc
 youtubeId:
-image: https://user-images.githubusercontent.com/64807181/151700336-62677d12-cc66-44c9-830e-945cb63a826a.png
+image: https://user-images.githubusercontent.com/64807181/151715936-4173995d-50db-45e1-a8ee-d591edce5933.png
 ---
 
 Um quadrinho de humor ácido? Guia de programação? Literatura non-sense? Livro de metalinguagem? É difícil classificar o [Poignant Guide to Ruby](http://poignant.guide/book/) porque ele é isso tudo ao mesmo tempo. Nos seus capítulos, [why the lucky stiff (pseudônimo atribuído a Jonathan Gillette)](https://en.wikipedia.org/wiki/Why_the_lucky_stiff), mobiliza toda sua criatividade como escritor, músico, desenhista e desenvolvedor para ensinar o leitor a utilizar a linguagem de programação [Ruby](https://www.ruby-lang.org/pt/) do passo zero a técnicas mais avançadas. 
@@ -28,6 +28,6 @@ Ficou curioso? Eu li a versão em inglês, mas há também a versão em portugu�
 
 ![image](https://user-images.githubusercontent.com/64807181/151700674-691fb0f6-deb8-4bfc-9e3b-2b452a2bc14d.png)
 
-![image](https://user-images.githubusercontent.com/64807181/151700336-62677d12-cc66-44c9-830e-945cb63a826a.png)
+![image](https://user-images.githubusercontent.com/64807181/151715936-4173995d-50db-45e1-a8ee-d591edce5933.png)
 
 Imagens: Capa da versão em inglês e algumas tirinhas das primeiras páginas das versões em inglês e português. 
