@@ -1,5 +1,5 @@
 ---
-title: "Poignant Guide to Ruby - Anotações João Gilberto"
+title: "Poignant Guide to Ruby - Anotações"
 description: "Caderno de anotações da leitura do livro"
 layout: post
 tags: ruby rails poignant guide why livro book caderno anotacoes
