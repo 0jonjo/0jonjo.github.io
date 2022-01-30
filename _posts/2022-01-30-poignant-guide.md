@@ -5,7 +5,7 @@ description: Aprendendo com o Poignant Guide to Ruby
 tags: ruby ensino livro programming poignant education guide code why lucky  stiff rubyonrails rails
 categories: misc
 youtubeId:
-image: 
+image: https://user-images.githubusercontent.com/64807181/151700336-62677d12-cc66-44c9-830e-945cb63a826a.png
 ---
 
 Um quadrinho de humor ácido? Guia de programação? Literatura non-sense? Livro de metalinguagem? É difícil classificar o [Poignant Guide to Ruby](http://poignant.guide/book/) porque ele é isso tudo ao mesmo tempo. Nos seus capítulos, [why the lucky stiff (pseudônimo atribuído a Jonathan Gillette)](https://en.wikipedia.org/wiki/Why_the_lucky_stiff), mobiliza toda sua criatividade como escritor, músico, desenhista e desenvolvedor para ensinar o leitor a utilizar a linguagem de programação [Ruby](https://www.ruby-lang.org/pt/) do passo zero a técnicas mais avançadas. 
@@ -16,7 +16,7 @@ Não há como passar indiferente pelo livro, sua fusão de programação e liter
 
 Eu gostei bastante porque por um lado me aprofundei em Ruby (linguagem que estudo desde o ano passado) e por outro me outro surpreendi e diverti com as histórias mirabolantes e piadas sem sentido do livro.
 
-Fiz até um [caderninho de anotações do meu aprendizado com o livro]().
+Fiz até um [caderninho de anotações do meu aprendizado com o livro](https://0jonjo.github.io/_pages/poigant-guide/).
 
 Ficou curioso? Eu li a versão em inglês, mas há também a versão em português (hospedada por Carlos Brando).
 
@@ -24,6 +24,10 @@ Ficou curioso? Eu li a versão em inglês, mas há também a versão em portugu�
 
 - [Link para a versão em português](http://why.carlosbrando.com/chapter-1.html)
 
-Abaixo algumas imagens do livro:
+![image](https://user-images.githubusercontent.com/64807181/151700590-d8106d96-e183-49ff-bb65-deedaa03030d.png)
 
-Imagem: "The Evolution of Computer Programming Languages #C #Fortran #Java #Ruby" de dullhunk sob licença CC BY 2.0 [https://creativecommons.org/licenses/by/2.0/](https://creativecommons.org/licenses/by/2.0/) 
+![image](https://user-images.githubusercontent.com/64807181/151700674-691fb0f6-deb8-4bfc-9e3b-2b452a2bc14d.png)
+
+![image](https://user-images.githubusercontent.com/64807181/151700336-62677d12-cc66-44c9-830e-945cb63a826a.png)
+
+Imagens: Capa da versão em inglês e algumas tirinhas das primeiras páginas das versões em inglês e português. 
