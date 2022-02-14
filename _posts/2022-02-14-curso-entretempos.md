@@ -3,7 +3,7 @@ layout: post
 title: "Entre tempos: usos da técnica, tecnologia e razão que moldaram a História da humanidade "
 description: "Curso 20h pelo IFRN Campus Santa Cruz"
 tags: historia educacao ensino renascimento tecnologia educacao navegacao tecnologia tecnica 2022 humanas curso prova iluminismo
-image: 
+image: https://user-images.githubusercontent.com/64807181/153931038-f78bdbd2-3a1c-4e8e-8d9a-097bb718e3b8.png 
 youtubeId: 
 ---
 
@@ -17,4 +17,5 @@ Inscrições até 22/02.
 
 [Link para inscrições no curso FIC](https://docs.google.com/forms/d/e/1FAIpQLSdnbn6UDN5nLOje-_6CKHHLZW6FiurWNsMniplNT5nCHrjdhw/viewform) 
 
-![image](https://user-images.githubusercontent.com/64807181/142515617-02b36a32-8c63-49d6-84e1-fa2c008eca9b.png)
+![image](https://user-images.githubusercontent.com/64807181/153931038-f78bdbd2-3a1c-4e8e-8d9a-097bb718e3b8.png)
+
