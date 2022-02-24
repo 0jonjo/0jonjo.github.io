@@ -75,7 +75,7 @@ Uma determinada Tecnologia é formada por uma série de saberes e técnicas. Div
 
 Podemos dizer que transformações nas técnicas e tecnologias - impulsionadas pelo pensamento racional e científico -  foram determinantes para a História da humanidade nos últimos cinco séculos. Em contextos como Renascimento, Grandes Navegações, Iluminismo e Revolução Industrial, razão, tecnologias e técnicas possibilitaram revolucionar os modos de pensar e agir das sociedades.
 
-[!image](https://www.meme-arsenal.com/memes/6cec25ddda4b0fd41a8c00b57113fdde.jpg)
+![image](https://www.meme-arsenal.com/memes/6cec25ddda4b0fd41a8c00b57113fdde.jpg)
 
 > ATENÇÃO: Isso de modo algum quer dizer que apenas mudanças tecnológicas e científicas foram responsáveis pelas profundas mudanças sociais, culturais, políticas e econômicas dos últimos 500 anos. Isso seria reducionista por não levar em conta múltiplos fatores relevantes desses contextos.
 
