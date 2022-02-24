@@ -17,4 +17,4 @@ image: https://user-images.githubusercontent.com/64807181/120908982-5a4df180-c64
 ## Aula 2: Construindo conceitos
 
 - [Link da aula síncrona via Google Meet]()
-- [Material didático](https://www.notion.so/joaogilberto/Entre-Tempos-1-Viajando-ao-passado-em-Paris-e4b76d9f0dc747ddaaf3b8eb089f431e)
+- [Material didático](https://0jonjo.github.io/_pages/construindo-conceitos/)
