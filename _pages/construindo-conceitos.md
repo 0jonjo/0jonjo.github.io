@@ -5,7 +5,8 @@ layout: post
 tags: historia historiador ciencia tecnica tecnologia razao curso ifrn history fic metodo cientifico ideia
 categories: misc
 image: https://live.staticflickr.com/2238/1861148468_1a8408921b_b.jpg
-youtubeId: x-e2B6ywHik
+youtubeId1: x-e2B6ywHik
+youtubeId2: morhyHwA1XM
 ---
 
 > [Curso FIC - Entre tempos: uso da técnica, tecnologia e razão que moldaram a História da humanidade](https://0jonjo.github.io/_pages/entretempos/)
@@ -55,11 +56,12 @@ Modelo geocêntrico com Terra Plana.
 Tecnologia vai além de aparelhos eletrônicos com funções avançadas, naves, robôs, etc. Ela é fundamental para as transformações sociais da humanidade desde a Pré-História. 
 
 ![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.quizur.com%2Ff%2Fimg5e15f485cf0640.84233017.jpeg%3FlastEdited%3D1578497184&f=1&nofb=1)
+
 "[- Ô loco meu!" O dia em que uma churrasqueira com controle remoto pegou fogo ao vivo no Faustão.](https://www.youtube.com/watch?v=iEwfczXUc-A)
 
 Vamos ao exemplo do fogo. Assista esse trecho do clássico filme "Guerra do Fogo".
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=page.youtubeId1 %}
 
 Como podemos conceituar Tecnologia?
  
@@ -70,3 +72,17 @@ A tecnologia está intimamente ligada a técnica, mas é diferente dela.
 > Técnica corresponde a um procedimento para realizar uma atividade.
 
 Uma determinada Tecnologia é formada por uma série de saberes e técnicas. Diversas tecnologias foram produzidas a partir da Ciência, mas, como vimos no caso do uso do fogo - existe técnica e tecnologia muito desde muito antes.
+
+Podemos dizer que transformações nas técnicas e tecnologias - impulsionadas pelo pensamento racional e científico -  foram determinantes para a História da humanidade nos últimos cinco séculos. Em contextos como Renascimento, Grandes Navegações, Iluminismo e Revolução Industrial, razão, tecnologias e técnicas possibilitaram revolucionar os modos de pensar e agir das sociedades.
+
+[!image](https://www.meme-arsenal.com/memes/6cec25ddda4b0fd41a8c00b57113fdde.jpg)
+
+> ATENÇÃO: Isso de modo algum quer dizer que apenas mudanças tecnológicas e científicas foram responsáveis pelas profundas mudanças sociais, culturais, políticas e econômicas dos últimos 500 anos. Isso seria reducionista por não levar em conta múltiplos fatores relevantes desses contextos.
+
+## Mas...
+
+Estamos falando de usos de racionalismo, razão, Iluminismo... o que isso tem haver com Ciência e Tecnologia?
+
+{% include youtubePlayer.html id=page.youtubeId2 %}
+
+> Cenas dos próximos capítulos.
