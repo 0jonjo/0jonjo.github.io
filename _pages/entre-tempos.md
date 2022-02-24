@@ -7,14 +7,9 @@ categories: misc
 image: https://user-images.githubusercontent.com/64807181/120908982-5a4df180-c646-11eb-963e-85330716e3ca.png
 ---
 
-# Entre tempos: uso da técnica, tecnologia e razão que moldaram a História da humanidade
+## Entre tempos: uso da técnica, tecnologia e razão que moldaram a História da humanidade
 
-## Aula 1: Viajando ao passado em Paris
+Materiais didáticos
 
-- [Link da aula síncrona via Google Meet](https://meet.google.com/tbw-xjss-buc)
-- [Material didático](https://www.notion.so/joaogilberto/Entre-Tempos-1-Viajando-ao-passado-em-Paris-e4b76d9f0dc747ddaaf3b8eb089f431e)
-
-## Aula 2: Construindo conceitos
-
-- [Link da aula síncrona via Google Meet]()
-- [Material didático](https://0jonjo.github.io/_pages/construindo-conceitos/)
+- [Aula 1: Viajando ao passado em Paris](https://www.notion.so/joaogilberto/Entre-Tempos-1-Viajando-ao-passado-em-Paris-e4b76d9f0dc747ddaaf3b8eb089f431e)
+- [Aula 2: Construindo conceitos](https://0jonjo.github.io/_pages/construindo-conceitos/)
