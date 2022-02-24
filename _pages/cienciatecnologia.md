@@ -2,9 +2,10 @@
 title: "Entre Tempos 2: Construindo conceitos"
 description: "Aula 02 - Curso FIC sobre razão, técnica e tecnologia"
 layout: post
-tags: historia historiador ciencia tecnica tecnologia razao curso ifrn history fic detetive metodo cientifico ideia
+tags: historia historiador ciencia tecnica tecnologia razao curso ifrn history fic metodo cientifico ideia
 categories: misc
 image: https://live.staticflickr.com/2238/1861148468_1a8408921b_b.jpg
+youtubeId: x-e2B6ywHik
 ---
 
 > [Curso FIC - Entre tempos: uso da técnica, tecnologia e razão que moldaram a História da humanidade](https://0jonjo.github.io/_pages/entretempos/)
@@ -28,16 +29,16 @@ Alguns pontos sobre o que respondemos:
 
 ![image](https://i.pinimg.com/originals/54/a1/39/54a139feca94859581bf51ccb7ab319b.jpg)
 
-## Reconceituando
+## Reconceituando Ciência
 
 Vamos utilizar o [Projeto Político-Pedagógico do IFRN - clique para abrir](https://portal.ifrn.edu.br/institucional/projeto-politico-pedagogico-1), uma instituição com foco nessas áreas, para buscar concepções mais precisas.
 
 > "A compreensão moderna de ciência (de scientia, que significa “conhecimento”, em latim) como uma totalidade de conhecimentos adquiridos por meio de um método (científico) particular evoluiu, gradativamente, durante os séculos XVII, XVIII e XIX" (p. 40).
 
-A Ciência é muito importante para as transformações históricas da humanidade, mas ela é a única forma de se construir conhecimento? A detendora da verdade sempre?
+A Ciência é muito importante para as transformações históricas da humanidade, mas ela é a única forma de se construir conhecimento? A detentora da verdade sempre?
 
 > a percepção de que a ciência nunca oferece explicações completas e
-definitivas ganha força. Passa-se ao entendimento de que, na ciência, nunca se lida com a verdade, em um sentido preciso, entre as descrições e os fenômenos descritos. Sempre se lida com a incerteza, com o conhecimento limitado e aproximado. Isso garante as rupturas, a formulação de novos modelos e de teorias aproximadas para descrever a teia sem fim de fenômenos interligados (ampliados e melhorados, sistematicamente, pela ciência).
+definitivas ganha força. Passa-se ao entendimento de que, na ciência, nunca se lida com a verdade, em um sentido preciso, entre as descrições e os fenômenos descritos. Sempre se lida com a incerteza, com o conhecimento limitado e aproximado. Isso garante as rupturas, a formulação de novos modelos e de teorias aproximadas para descrever a teia sem fim de fenômenos interligados (ampliados e melhorados, sistematicamente, pela ciência). (p. 41)
 
 Você consegue pensar em usos negativos da Ciência? E em modelos científicos que caíram por terra diante de novas descobertas e ideias? Lembre das notícias atuais e também seu conhecimento sobre a História. Vamos utilizar duas imagens para refletir.
 
@@ -49,3 +50,23 @@ E esse aqui?
 ![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-Pw6ycCSsAbA%2FWXjhZpJ41xI%2FAAAAAAAAHKY%2FmMxSV3ObXH0LwW2GSyZEg1tZvZPkZbetQCLcBGAs%2Fs1600%2Fterra-plana-teoria.jpg&f=1&nofb=1)
 Modelo geocêntrico com Terra Plana.
 
+## O que é Tecnologia? Qual a diferença para a Técnica?
+
+Tecnologia vai além de aparelhos eletrônicos com funções avançadas, naves, robôs, etc. Ela é fundamental para as transformações sociais da humanidade desde a Pré-História. 
+
+![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.quizur.com%2Ff%2Fimg5e15f485cf0640.84233017.jpeg%3FlastEdited%3D1578497184&f=1&nofb=1)
+"[- Ô loco meu!" O dia em que uma churrasqueira com controle remoto pegou fogo ao vivo no Faustão.](https://www.youtube.com/watch?v=iEwfczXUc-A)
+
+Vamos ao exemplo do fogo. Assista esse trecho do clássico filme "Guerra do Fogo".
+
+{% include youtubePlayer.html id=page.youtubeId %}
+
+Como podemos conceituar Tecnologia?
+ 
+> Um conjunto articulado de saberes aplicados com algum fim específico, seja ele cultural, econômico, político ou social. 
+
+A tecnologia está intimamente ligada a técnica, mas é diferente dela.
+
+> Técnica corresponde a um procedimento para realizar uma atividade.
+
+Uma determinada Tecnologia é formada por uma série de saberes e técnicas. Diversas tecnologias foram produzidas a partir da Ciência, mas, como vimos no caso do uso do fogo - existe técnica e tecnologia muito desde muito antes.
