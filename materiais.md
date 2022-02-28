@@ -7,6 +7,7 @@ published: true
 
 #### 2022
 
+- Curso FIC - Entre tempos: uso da técnica, tecnologia e razão que moldaram a História da humanidade [Materiais didáticos](https://0jonjo.github.io/_pages/entre-tempos/) 
 - Projeto Arcada 2022 [Website](https://0jonjo.github.io/arcada/)
 - Mostra de trabalhos - O Preço do Amanhã: questões do tempo presente [Notion](https://www.notion.so/joaogilberto/Mostra-de-Trabalhos-O-Pre-o-do-Amanh-quest-es-do-tempo-presente-f5d03c7d84c44341bb59d54ad2597959)
 
