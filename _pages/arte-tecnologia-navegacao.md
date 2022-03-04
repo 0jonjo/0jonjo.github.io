@@ -83,10 +83,3 @@ A grandes navegações só foram possíveis graças a diversas transformações 
  Há diversos livros sobre esse tema, um dos mais conhecidos é ["O roubo da História: Como europeus se apropriaram das ideias e invenções do oriente"](https://www.editoracontexto.com.br/produto/o-roubo-da-historia-como-os-europeus-se-apropriaram-das-ideias-e-invencoes-do-o/1496670) de Jack Goody. Se você se interessa sobre essa temática, vale procurar na biblioteca ou na Internet para dar uma lida. É bem legal!
 
  [Clique aqui para ler um trecho disponibilizado pela editora](https://www.dropbox.com/s/09sgslwdr7bxahj/Leia%20um%20trecho-Roubo%20da%20Hist%C3%B3ria.pdf?dl=0)
-
-
-uso do mapa mundi do google na Europa, mapa da escravidão, evolução dos mapas da antigudade até a grande navegação.
-
-Quadro com tecnologias de navegação e polvora aprendidas com os árabes e chineses.
-
-Lado negativo do uso dessas tecnologias, escravidão, racismo, guerras, etc.

@@ -13,6 +13,7 @@ Materiais didáticos
 
 - [Aula 1: Viajando ao passado em Paris](https://www.notion.so/joaogilberto/Entre-Tempos-1-Viajando-ao-passado-em-Paris-e4b76d9f0dc747ddaaf3b8eb089f431e)
 - [Aula 2: Construindo conceitos](https://0jonjo.github.io/_pages/construindo-conceitos/)
+- [Aula 3:  Arte, tecnologia e navegação](https://0jonjo.github.io/_pages/arte-tecnologia-navegacao/)
 
 Atividades
 - [Atividade 01 - Conceitos importantes](https://forms.gle/fLNegf4vsaDt15UF7)
