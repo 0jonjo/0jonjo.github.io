@@ -93,6 +93,8 @@ Há diversas experiências famosas realizadas por Galileu. Duas delas você já 
 - [John Locke (1632 -1704)](https://pt.wikipedia.org/wiki/John_Locke): defensor da liberdade de pensamento e expressão, a tolerância ao diverso e a separação entre Igreja e Estado.
 - [Isaac Newton (1643 -1727)](https://pt.wikipedia.org/wiki/Isaac_Newton): a busca sistemática por leis universais da natureza passíveis de serem testadas e demonstradas por meio da razão.
 
+> OPA! Mas só existem homens que se dedicaram a ciência? Claro que não! As mulheres contribuíram com estudos, conceitos, ideias e experimentos essenciais para as transformações da ciência. Um exemplo é a matemática Ada Lovelace [(clique para saber mais sobre ela e importância do seu trabalho até o presente!)](https://www.beecrowd.com.br/home/blog/a-historia-da-mulher-ada-lovelace/) 
+
 ## E os impactos da Ciência hoje?
 
 Poderíamos fazer uma lista infinita de homens e mulheres que contribuíram para a Ciência. Certo é que como todos nós respondemos em aulas anteriores, ela é responsável por boa parte das técnicas e tecnologias que nos cercam.
