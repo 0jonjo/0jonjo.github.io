@@ -9,7 +9,7 @@ youtubeId1: x-e2B6ywHik
 youtubeId2: morhyHwA1XM
 ---
 
-> [Curso FIC - Entre tempos: uso da técnica, tecnologia e razão que moldaram a História da humanidade](https://0jonjo.github.io/_pages/entretempos/)
+> [Curso FIC - Entre tempos: uso da técnica, tecnologia e razão que moldaram a História da humanidade](https://0jonjo.github.io/_pages/entre-tempos/)
 
 ## Para começar
 
