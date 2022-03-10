@@ -121,6 +121,6 @@ Fonte: Trailer do filme "O preço do amanhã" (2011), direção de Andrew Niccol
 
 > O tempo como um direito, significado do trabalho, meritocracia, desigualdade espacial e social - a pobreza de muitos para que poucos desfrutem uma vida luxuosa - são alguns dos temas trabalhados nesse filme.. 
 
-Vivemos em **um mundo cada vez mais acelerado e cronometrado**. **Somos instigados a** trabalhar, estudar, **agir sem descanso a todo momento** Além disso, com **profundas desigualdades** no acesso a saneamento básico, educação, alimentos de qualidade, e acesso a trabalho digno e informação (incluindo a Internet).
+Vivemos em **uma realidade cada vez mais acelerada e cronometrada**. **Somos instigados a** trabalhar, estudar, correr, **agir sem descanso a todo momento**. Além disso, há **profundas desigualdades** no acesso a saneamento básico, educação, alimentos de qualidade, e acesso a trabalho digno e informação (incluindo a Internet).
 
-> Compreende-lô, analisá-lo e transformá-lo requer conhecer a História e as relações entre razão, técnica e tecnologia que construíram a realidade que vivemos.
+### Compreender, analisar e transformar esse mundo requer conhecer a História e as relações entre razão, técnica e tecnologia que o formaram.
