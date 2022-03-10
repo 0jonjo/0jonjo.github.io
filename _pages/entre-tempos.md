@@ -15,6 +15,7 @@ Materiais didáticos
 - [Aula 2: Construindo conceitos](https://0jonjo.github.io/_pages/construindo-conceitos/)
 - [Aula 3:  Arte, tecnologia e navegação](https://0jonjo.github.io/_pages/arte-tecnologia-navegacao/)
 - [Aula 4:  Razão e ação](https://0jonjo.github.io/_pages/razao-e-acao/)
+- [Aula 5:  O mundo das máquinas](https://0jonjo.github.io/_pages/mundo-maquina/)
 
 Atividades
 - [Atividade 01 - Conceitos importantes](https://forms.gle/fLNegf4vsaDt15UF7)
