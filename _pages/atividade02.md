@@ -11,8 +11,6 @@ youtubeId1: Sa04YavneaM
 
 > [Curso FIC - Entre tempos: uso da técnica, tecnologia e razão que moldaram a História da humanidade](https://0jonjo.github.io/_pages/entre-tempos/)
 
-## Atividade 02
-
 Você e sua família se informam através de notícias? Seja no papel, rádio, televisão ou Internet, o jornalismo é uma atividade essencial para nós mantermos conectados com o mundo ao nosso redor. Mesmo quando realizamos uma busca na navegador do celular ou computador sobre um tema de nosso interesse, é provável que boa parte daqueles milhares de resultados que aparecerem na tela tenham como fonte o trabalho de jornalistas.
 
 {% include vimeoPlayer.html id=page.vimeoId %}

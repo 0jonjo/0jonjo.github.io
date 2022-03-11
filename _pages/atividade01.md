@@ -9,8 +9,6 @@ image: https://live.staticflickr.com/2238/1861148468_1a8408921b_b.jpg
 
 > [Curso FIC - Entre tempos: uso da técnica, tecnologia e razão que moldaram a História da humanidade](https://0jonjo.github.io/_pages/entre-tempos/)
 
-## Atividade 01
-
 Responda no formulário abaixo ou envie por e-mail
 
 - Nome
