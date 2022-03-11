@@ -19,3 +19,4 @@ Materiais didáticos
 
 Atividades
 - [Atividade 01 - Conceitos importantes](https://forms.gle/fLNegf4vsaDt15UF7)
+- [Atividade 02 - Jornal Histórico](https://0jonjo.github.io/_pages/atividade02/)
