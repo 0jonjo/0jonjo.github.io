@@ -18,5 +18,5 @@ Materiais didáticos
 - [Aula 5:  O mundo das máquinas](https://0jonjo.github.io/_pages/mundo-maquina/)
 
 Atividades
-- [Atividade 01 - Conceitos importantes](https://forms.gle/fLNegf4vsaDt15UF7)
+- [Atividade 01 - Conceitos importantes](https://0jonjo.github.io/_pages/atividade01/)
 - [Atividade 02 - Jornal Histórico](https://0jonjo.github.io/_pages/atividade02/)
