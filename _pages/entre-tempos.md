@@ -11,7 +11,7 @@ image: https://user-images.githubusercontent.com/64807181/120908982-5a4df180-c64
 
 Materiais didáticos
 
-- [Aula 1: Viajando ao passado em Paris](https://www.notion.so/joaogilberto/Entre-Tempos-1-Viajando-ao-passado-em-Paris-e4b76d9f0dc747ddaaf3b8eb089f431e)
+- [Aula 1: Viajando ao passado](https://0jonjo.github.io/_pages/viajando-passado/)
 - [Aula 2: Construindo conceitos](https://0jonjo.github.io/_pages/construindo-conceitos/)
 - [Aula 3:  Arte, tecnologia e navegação](https://0jonjo.github.io/_pages/arte-tecnologia-navegacao/)
 - [Aula 4:  Razão e ação](https://0jonjo.github.io/_pages/razao-e-acao/)
