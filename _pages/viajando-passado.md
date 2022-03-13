@@ -27,11 +27,11 @@ Vamos conhecer um pouco sobre cada um de nós.
 
 {% include youtubePlayer.html id=page.youtubeId1 %}
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d167998.12179446057!2d2.206952164367434!3d48.85877000312214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e1f06e2b70f%3A0x40b82c3688c9460!2sParis%2C%20France!5e0!3m2!1sen!2sbr!4v1647171444267!5m2!1sen!2sbr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
 ## Um passeio em Quartier Pigalle
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d167998.12179446057!2d2.206952164367434!3d48.85877000312214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e1f06e2b70f%3A0x40b82c3688c9460!2sParis%2C%20France!5e0!3m2!1sen!2sbr!4v1647171444267!5m2!1sen!2sbr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 Bairro do norte de Paris, historicamente famoso por sua boemia seus bares, casas de show e cabarés. Lar de artistas das mais variadas trupes - como Pablo Picasso e Jean-Léon Gérôme -, onde hoje circulam hipster e intelectuais. Para além disso, um bairro residencial em que donas de casa e idosos saem com seus carrinhos de compras.
 
@@ -111,7 +111,7 @@ Veja com atenção este vídeo com cenas das ruas de Paris da Belle Époque entr
 
 É interessante observar os hábitos e a circulação das pessoas, suas vestimentas e veículos. Você viu a roda-gigante, barcos à motor, postes, a entrada para o metrô e outras coisas comuns nos dias de hoje?
 
-É importante notar que **tecnologias que usamos tem raízes históricas**. Muitas delas surgiram graças as questões econômicas, culturais e políticas de contextos sociais que nem imaginamos.
+É importante notar que **técnicas e tecnologias que usamos tem raízes históricas**. Muitas delas surgiram graças as questões econômicas, culturais e políticas de contextos sociais que nem imaginamos.
 
 ## Mas afinal, o que é Técnica e Tecnologia?
 
