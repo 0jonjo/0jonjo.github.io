@@ -20,4 +20,6 @@ O material foi produzido utilizando Markdown e Github Pages e está disponível 
 
 [Clique aqui para acessar o material completo](https://0jonjo.github.io/_pages/entre-tempos/)
 
+Imagem: [lion in race car by James Vaughan](https://www.flickr.com/photos/40143737@N02/4421140135). Sob licença [CreativeCommons](https://search.openverse.engineering/image/abeb453f-98fe-4665-b564-4b86e7cc9906).
+
 ![image](https://user-images.githubusercontent.com/64807181/158088124-6e5c28a4-4a32-4a83-878e-4619633c31f4.png)
