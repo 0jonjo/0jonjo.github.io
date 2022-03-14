@@ -10,6 +10,8 @@ Já está disponível o material didático completo das 5 aulas síncronas e ati
 
 São abordados conceitos basilares de ciência, técnica e tecnologia, perguntas, métodos e caminhos da disciplina de História, conjunturas e questões do Renascimento, Grandes Navegações, Iluminismo e Revolução Industrial. A perspectiva foi evidenciar ao longo do curso dimensões sociais, políticas, econômicas e sociais das transformações tecnológicas. 
 
+O material foi produzido utilizando Markdown e Github Pages e está disponível como página de internet. Ele utiliza questões interativas do Mentimeter, vídeos do Youtube e Vimeo, mapas, fotografias, pinturas, músicas, etc. de períodos variados.
+
 - [Aula 1: Viajando ao passado](https://0jonjo.github.io/_pages/viajando-passado/)
 - [Aula 2: Construindo conceitos](https://0jonjo.github.io/_pages/construindo-conceitos/)
 - [Aula 3:  Arte, tecnologia e navegação](https://0jonjo.github.io/_pages/arte-tecnologia-navegacao/)
