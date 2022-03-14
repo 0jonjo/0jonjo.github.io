@@ -14,11 +14,11 @@ youtubeId3: XUSt9oZUTrs
 
 ## De olho nas imagens
 
-![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/53eea5de-32c2-4ba3-a43e-6af674107149/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220310%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220310T100534Z&X-Amz-Expires=86400&X-Amz-Signature=17eb806b2389a004fc3036859b5611b519834fb00bc9e9eb506bba12411bd190&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![image](https://pbs.twimg.com/media/CDrerEyWAAAHFvQ?format=png&name=small)
 
 Fonte: [Quadrinhos dos anos 10, Andre Dahmer](https://www.instagram.com/andredahmer/).
 
-![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/29b37dd9-ff47-4752-b65f-b6dff542e5c1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220310%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220310T101121Z&X-Amz-Expires=86400&X-Amz-Signature=4aaeb219144150d7500c9ebcbbaa6c4be1b2f1520176b7c2b9ec36013f7698a6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![image](https://scontent.fnat1-1.fna.fbcdn.net/v/t31.18172-8/14468305_1807138432897203_1734347257918591532_o.jpg?_nc_cat=110&ccb=1-5&_nc_sid=9267fe&_nc_ohc=AwYuCUslgdkAX-VYHQ8&_nc_ht=scontent.fnat1-1.fna&oh=00_AT-8L3tmTFru_q9yNG_sNikVY5j-RFRJWLU8am1NER-Mzg&oe=62544164)
 
 Fonte: O mesmo lugar e a mesma memória, 58 anos depois, [Weird History, Twitter](https://twitter.com/weird_hist/status/1359921151951200256).
 
