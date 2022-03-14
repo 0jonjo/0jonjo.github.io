@@ -3,7 +3,7 @@ title: "Curso Entre Tempos - Material didático completo"
 description: "Materiais do curso Entre tempos: uso da técnica, tecnologia e razão que moldaram a História da humanidade"
 layout: post
 tags: historia historiador ciencia tecnica tecnologia razao curso ifrn history fic detetive metodo cientifico ideia
-image: https://user-images.githubusercontent.com/64807181/120908982-5a4df180-c646-11eb-963e-85330716e3ca.png
+image: https://user-images.githubusercontent.com/64807181/158088124-6e5c28a4-4a32-4a83-878e-4619633c31f4.png
 ---
 
 Já está disponível o material didático completo das 5 aulas síncronas e atividades assíncronas do curso FIC "Entre tempos: usos da técnica, tecnologia e razão que moldaram a História da humanidade”.
@@ -19,3 +19,5 @@ O material foi produzido utilizando Markdown e Github Pages e está disponível 
 - [Aula 5:  O mundo das máquinas](https://0jonjo.github.io/_pages/mundo-maquina/)
 
 [Clique aqui para acessar o material completo](https://0jonjo.github.io/_pages/entre-tempos/)
+
+![image](https://user-images.githubusercontent.com/64807181/158088124-6e5c28a4-4a32-4a83-878e-4619633c31f4.png)
