@@ -14,7 +14,7 @@ youtubeId3: XUSt9oZUTrs
 
 ## De olho nas imagens
 
-![image](https://pbs.twimg.com/media/CDrerEyWAAAHFvQ?format=png&name=small)
+![image](https://pbs.twimg.com/media/CNvd8PDWgAA59W9?format=png&name=small)
 
 Fonte: [Quadrinhos dos anos 10, Andre Dahmer](https://www.instagram.com/andredahmer/).
 
