@@ -18,7 +18,7 @@ youtubeId3: XUSt9oZUTrs
 
 Fonte: [Quadrinhos dos anos 10, Andre Dahmer](https://www.instagram.com/andredahmer/).
 
-![image](https://scontent.fnat1-1.fna.fbcdn.net/v/t31.18172-8/14468305_1807138432897203_1734347257918591532_o.jpg?_nc_cat=110&ccb=1-5&_nc_sid=9267fe&_nc_ohc=AwYuCUslgdkAX-VYHQ8&_nc_ht=scontent.fnat1-1.fna&oh=00_AT-8L3tmTFru_q9yNG_sNikVY5j-RFRJWLU8am1NER-Mzg&oe=62544164)
+![image](https://i.imgur.com/3QmNTt1.jpeg)
 
 Fonte: O mesmo lugar e a mesma memória, 58 anos depois, [Weird History, Twitter](https://twitter.com/weird_hist/status/1359921151951200256).
 
