@@ -69,34 +69,57 @@ Parte desses métodos e técnicas são possíveis de serem realizados por meio d
 ### Bibliografia Básica
 
 BETHELL, Leslie. História da América Latina – Volume I,II, III – América Latina Colonial. São Paulo/Brasília, Edusp/Fundação Alexandre Gusmão, 1997.
+
 CARDOSO, Ciro Flamarion. Deuses, Múmias e Ziguratts : um estudo comparado das religiões do Egito e Mesopotâmia. Porto Alegre: Edpucrs, 1998.
+
 ______. Sete Olhares sobre a Antiguidade Brasília: Ed. Universidade de Brasília, 1994.
 FIGUEIREDO, Luciano (Org.). Raízes africanas. Rio de Janeiro: Sabin, 2009. (Coleção Revista de História no Bolso; 6)
+
 FRANCO JUNIOR, Hilário. A Idade Média: o nascimento do Ocidente – São Paulo: Editora Brasiliense, 2001.
+
 ______. O ano 1000. Tempo de medo ou de esperança?. São Paulo: Companhia das Letras, 1999. 110 p. (Coleção Virando Séculos)
+
 FUNARI, P. P. A. (Org.) . As religiões que o mundo esqueceu. 1. ed. São Paulo: Contexto, 2009. v. 1. 224 p.
+
 FUNARI, P. P. A. ; NOELLI, F. S. Pré-História do Brasil. 3a. ed., 1a. reimpressão 2009. 3a.. ed. São Paulo: Contexto, 2009. v. 1. 110 p.
+
 GRUZINSKI, Serge. A passagem do século 1480-1520: as origens da globalização. São Paulo: Companhia das Letras, 1999. (Coleção Virando Séculos)
+
 HERMANN, Jacqueline. 1580-1600: o sonho da salvação. São Paulo: Companhia da. Letras, 2000. 120 p.(Coleção Virando Séculos)
+
 KI-ZERBO, Joseph (editor.). História geral da África. v. I-VIII 2.ed. rev. – Brasília : UNESCO, 2010.
+
 LE GOFF, Jacques. A civilização do Ocidente Medieval. São Paulo: EDUSC, 2005.
+
 LEROI-GOURHAN, André. Pré-História. São Paulo: Pioneira/USP, 1981.
+
 MONTEIRO, Denise Mattos. Introdução à história do Rio Grande do Norte. 2. ed. Natal: EDUFRN, 2002.
+
 PELEGRINI, S. ; FUNARI, P. P. A. . O que é patrimônio cultural imaterial 4a. reimpressão. 4a. ed. São Paulo: Brasiliense, 2011. v. 1. 116 p.
 
 ### Bibliografia Complementar
 
 ANDERSON, Perry. Passagens da antiguidade ao feudalismo. São Paulo : Brasiliense 1992.
+
 BITTENCOURT, Circe Maria Fernandes. Ensino de História: fundamentos e métodos. São Paulo: Cortez, 2004. p. 102.
+
 BRASIL, Ministério da Educação e Cultura. PCN+ Ensino Médio: orientações educacionais complementares aos Parâmetros Curriculares Nacionais. Brasília, 2005.
+
 CARDOSO, Ciro Flamarion. Sociedades do Antigo Oriente Próximo. São Paulo: Ática, 1994.
-DEAN, Warren. A ferro e fogo: a história e a devastação da Mata Atlântica brasileira. 1. ed. São Paulo: Cia.
-das Letras, 2004. 484 p.
+DEAN, Warren. A ferro e fogo: a história e a devastação da Mata Atlântica brasileira. 1. ed. São Paulo: Cia.das Letras, 2004. 484 p.
+
 FRANCO JÚNIOR, H. . O ano 1000. Tempo de medo ou de esperança?. São Paulo: Companhia das Letras,1999. 110 p.
+
 FUNARI, P. P. A. ; PINON, A. A temática indígena na escola: subsídios para os professores. 1. ed. São Paulo: Contexto, 2011. v. 1. 128 p.
+
 FUNARI, P. P. A. Antiguidade Clássica: a História e a cultura a partir dos documentos. 2a.. ed. Campinas: Editora da Unicamp, 2003. 155 p.
+
 FUNARI, P. P. A. . Grécia e Roma. 4a. ed., 2a. reimpressão. 4. ed. São Paulo: Contexto, 2009. v. 1. 144 p.
+
 MATTOS, Regiane A. de . História e Cultura Afro-Brasileira. 1. ed. São Paulo: Contexto, 2007. v. 1. 217 p.
+
 PINSKY, Jaime. 100 Textos de História Antiga. 7. ed. São Paulo: Contexto, 2000. (Textos e Documentos: 1).
+
 _____. (org.). História da América através de textos. 5.ed. São Paulo: Contexto, 1994. (Textos e Documentos, 4).
+
 SILVA, Marcos; FONSECA, Selva Guimarães. Ensinar história no século XXI: em busca do tempo entendido. Campinas: Papirus, 2007.
