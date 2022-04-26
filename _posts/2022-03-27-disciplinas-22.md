@@ -2,7 +2,7 @@
 title: "Início do semestre 2022.1 no IFRN-SC - Ementas"
 description: "Materiais do curso Entre tempos: uso da técnica, tecnologia e razão que moldaram a História da humanidade"
 layout: post
-tags: historia historiador ciencia tecnica tecnologia razao curso ifrn history fic detetive metodo cientifico ideia
+tags: historia historiador ciencia tecnica tecnologia razao curso ifrn history fic detetive metodo cientifico ideia educacao ensino
 image: https://user-images.githubusercontent.com/64807181/165304034-52a5bcac-6368-432b-b6f3-fbf74282fbb8.png 
 ---
 
