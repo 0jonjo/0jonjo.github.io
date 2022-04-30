@@ -7,6 +7,4 @@ profile:
 published: true
 ---
 
-🌎 [Projeto Arcada](https://0jonjo.github.io/arcada/)
-
-🖨️ [Currículo Lattes](http://lattes.cnpq.br/5459229452533929)
+🌎  [Currículo Lattes](http://lattes.cnpq.br/5459229452533929)

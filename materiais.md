@@ -7,13 +7,13 @@ published: true
 
 #### 2022
 
+- Ementas das disciplinas de História e Educação ministradas no IFRN-SC [Website](https://0jonjo.github.io/blog/2022/disciplinas-22/)
 - Curso FIC - Entre tempos: uso da técnica, tecnologia e razão que moldaram a História da humanidade [Materiais didáticos](https://0jonjo.github.io/_pages/entre-tempos/) 
-- Projeto Arcada 2022 [Website](https://0jonjo.github.io/arcada/)
 - Mostra de trabalhos - O Preço do Amanhã: questões do tempo presente [Notion](https://www.notion.so/joaogilberto/Mostra-de-Trabalhos-O-Pre-o-do-Amanh-quest-es-do-tempo-presente-f5d03c7d84c44341bb59d54ad2597959)
 
 #### 2021
 
-- Projeto Arcada 2021 [Website](https://0jonjo.github.io/arcada/about)
+- Projeto Arcada [Website](https://0jonjo.github.io/arcada/)
 - Revisão ENEM 2021 - Primeiro dia de Provas [Material Didático](https://www.notion.so/joaogilberto/Primeiro-dia-do-ENEM-2021-d7e2847bb9cb48b8ac8cc6f144ad238e) 
 - O mundo em guerra [Material didático](https://www.notion.so/joaogilberto/O-mundo-em-guerra-e1727640852a4935b3307c3e6b3bd8c4)
 - Lançamento do livro O Nordeste Brasileiro na Segunda Guerra, 2ª edição [Youtube](https://www.youtube.com/watch?v=-YLuiqfTKqE)
