@@ -16,7 +16,7 @@ Não há como passar indiferente pelo livro, sua fusão de programação e liter
 
 Um amigo fã de literatura e Ruby, [Brenno](https://twitter.com/brennovich), tinha me indicado esta leitura tem um bom tempo, mas eu só acabei atentando para o livro no final de 2021. Eu gostei bastante porque por um lado me aprofundei em Ruby (linguagem que estudo desde o ano passado) e por outro me outro surpreendi e diverti com as histórias mirabolantes e piadas sem sentido do livro.
 
-Fiz até um [caderninho de anotações do meu aprendizado com o livro](https://0jonjo.github.io/_pages/poigant-guide/).
+Fiz até um [caderninho de anotações do meu aprendizado com o livro](https://github.com/0jonjo/notebook/blob/main/README.md).
 
 Ficou curioso? Eu li a versão em inglês, mas há também a versão em português (hospedada por Carlos Brando).
 

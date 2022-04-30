@@ -12,10 +12,10 @@ Ao longo do ano publicarei algumas das nossas  atividades e materiais didáticos
 
 Segue a ementa de cada disciplina (retiradas dos documentos oficiais da instituição)
 
-- [História I](https://0jonjo.github.io/_pages/historiaI/)
-- [História II](https://0jonjo.github.io/_pages/historiaII/)
-- [Fundamentos da Educação I](https://0jonjo.github.io/_pages/fundamentosI/)
-- [Seminário de Orientação ao Desenvolvimento de Práticas Educativas e Formação Docente I ](https://0jonjo.github.io/_pages/seminario-praticas-I/)
+- [História I](/_pages/ementas2022/historiaI/)
+- [História II](/_pages/ementas2022/historiaII/)
+- [Fundamentos da Educação I](/_pages/ementas2022/fundamentosI/)
+- [Seminário de Orientação ao Desenvolvimento de Práticas Educativas e Formação Docente I ](/_pages/ementas2022/seminario-praticas-I/)
 
 Imagem: [Bem-vindos(as) ao ano letivo 2022](https://www.instagram.com/p/CcN4Y1LOsrj/). Retirado do [perfil do IFRN-SC no Instagram](https://www.instagram.com/ifrnsantacruz/).
 

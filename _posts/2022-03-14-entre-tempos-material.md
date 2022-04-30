@@ -12,13 +12,7 @@ São abordados conceitos basilares de ciência, técnica e tecnologia, perguntas
 
 O material foi produzido utilizando Markdown e Github Pages e está disponível como página de internet. Ele utiliza questões interativas do Mentimeter, vídeos do Youtube e Vimeo, mapas, fotografias, pinturas, músicas, etc. de períodos variados.
 
-- [Aula 1: Viajando ao passado](https://0jonjo.github.io/_pages/viajando-passado/)
-- [Aula 2: Construindo conceitos](https://0jonjo.github.io/_pages/construindo-conceitos/)
-- [Aula 3:  Arte, tecnologia e navegação](https://0jonjo.github.io/_pages/arte-tecnologia-navegacao/)
-- [Aula 4:  Razão e ação](https://0jonjo.github.io/_pages/razao-e-acao/)
-- [Aula 5:  O mundo das máquinas](https://0jonjo.github.io/_pages/mundo-maquina/)
-
-[Clique aqui para acessar o material completo](https://0jonjo.github.io/_pages/entre-tempos/)
+[Clique aqui para acessar o material completo](/_pages/entre-tempos/entre-tempos/)
 
 Imagem: [lion in race car by James Vaughan](https://www.flickr.com/photos/40143737@N02/4421140135). Sob licença [CreativeCommons](https://search.openverse.engineering/image/abeb453f-98fe-4665-b564-4b86e7cc9906).
 
