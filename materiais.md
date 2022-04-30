@@ -7,13 +7,13 @@ published: true
 
 #### 2022
 
-- Ementas das disciplinas de História e Educação ministradas no IFRN-SC [Website](https://0jonjo.github.io/blog/2022/disciplinas-22/)
-- Curso FIC - Entre tempos: uso da técnica, tecnologia e razão que moldaram a História da humanidade [Materiais didáticos](https://0jonjo.github.io/_pages/entre-tempos/) 
+- Ementas das disciplinas de História e Educação ministradas no IFRN-SC [Website](/blog/2022/disciplinas-22/)
+- Curso FIC - Entre tempos: uso da técnica, tecnologia e razão que moldaram a História da humanidade [Materiais didáticos](/_pages/entre-tempos/) 
 - Mostra de trabalhos - O Preço do Amanhã: questões do tempo presente [Notion](https://www.notion.so/joaogilberto/Mostra-de-Trabalhos-O-Pre-o-do-Amanh-quest-es-do-tempo-presente-f5d03c7d84c44341bb59d54ad2597959)
 
 #### 2021
 
-- Projeto Arcada [Website](https://0jonjo.github.io/arcada/)
+- Projeto Arcada [Website](/arcada/)
 - Revisão ENEM 2021 - Primeiro dia de Provas [Material Didático](https://www.notion.so/joaogilberto/Primeiro-dia-do-ENEM-2021-d7e2847bb9cb48b8ac8cc6f144ad238e) 
 - O mundo em guerra [Material didático](https://www.notion.so/joaogilberto/O-mundo-em-guerra-e1727640852a4935b3307c3e6b3bd8c4)
 - Lançamento do livro O Nordeste Brasileiro na Segunda Guerra, 2ª edição [Youtube](https://www.youtube.com/watch?v=-YLuiqfTKqE)
@@ -23,7 +23,7 @@ published: true
 - PIBID História UFRN - Aperte Start: primeiros passos entre História Digital e Ensino de História [Material didático](https://www.notion.so/joaogilberto/Aperte-Start-primeiros-passos-entre-Hist-ria-Digital-e-Ensino-de-Hist-ria-689f50857fcd4221ab49789d413b2921)
 - PIBID História UERN - Materiais Didáticos Digitais [Material didático](https://www.notion.so/joaogilberto/Materiais-Did-ticos-Digitais-1f6e452d587f472a9a6d121f30d49379)
 - Aula Concurso Prof. Sub. IFRN - Do trabalho escravo para o trabalho livre no Brasil [Material didático](https://www.notion.so/joaogilberto/Do-trabalho-escravo-para-o-trabalho-livre-no-Brasil-19224557e8d64ea781f5697ffd333aaf)
-- História dos EUA UFRN - O NYT e as transformações da imprensa nos Estados Unidos dos anos 1930 até o fim da Segunda Guerra [Material didático](https://0jonjo.github.io/blog/2021/nyt1930/)
+- História dos EUA UFRN - O NYT e as transformações da imprensa nos Estados Unidos dos anos 1930 até o fim da Segunda Guerra [Material didático](/blog/2021/nyt1930/)
 - Aula Concurso Prof. Sub. UFRN -Mare Nostrum: a Roma Antiga e a integração a partir do Mar Mediterrâneo [Material didático](https://www.notion.so/joaogilberto/Mare-Nostrum-a-Roma-Antiga-e-a-integra-o-a-partir-do-Mar-Mediterr-neo-373ce2d03c76448093ad013b2b8794f6)
 - Ensino de História II UFRN - Planejar é replanejar: Ensino de História em tempos pandêmicos [Material didático](https://www.notion.so/joaogilberto/Planejar-replanejar-Ensino-de-Hist-ria-em-tempos-pand-micos-d71a43a869684294839a0040dfc367b5)
 
