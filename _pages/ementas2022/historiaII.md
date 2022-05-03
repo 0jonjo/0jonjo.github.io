@@ -35,7 +35,7 @@ I Tema: Trabalho e Acumulação de Riqueza
 - A acumulação primitiva de capital na transição do feudalismo para o capitalismo
 - Escravidão primitiva, clássica, medieval e moderna.
 - O tráfico negreiro e os fundamentos da formação econômica e sociocultural brasileira
-- Do trabalho escravo para o trabalho livre no Brasil.
+- Do trabalho escravo para o trabalho livre no Brasil. 
 II Tema: Formas de organização social e movimentos sociais
 2. Subtema - Cidadania e democracia: a luta pela conquista de direitos:
 - Democracia e cidadania: da Grécia ao mundo contemporâneo.
