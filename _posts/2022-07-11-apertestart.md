@@ -3,7 +3,7 @@ title: "Apert Start: História Digital e Ensino de História a partir dos Games"
 description: "Capitulo de livro recém-publicado "
 layout: post
 tags: historia historiador ciencia tecnica tecnologia livro capitulo ifrn history educacao ideia educacao ensino games digital gaming
-image: https://user-images.githubusercontent.com/64807181/173188287-9943f3d7-3a75-46bf-9ff9-138c3defdc3c.png  
+image: https://user-images.githubusercontent.com/64807181/178127771-a0789f36-2f60-496f-8939-2af771184228.png
 ---
 
 Acaba de ser lançado o livro ["Oficinas de História: desafios do ensino em tempos de pandemia"](https://editoracriacao.com.br/oficinas-de-historia-desafios-do-ensino-em-tempos-de-pandemia/), uma obra organizada por Ane Luise Santos e Magno Santos com textos escritos por professores e professoras apresentando registros de experiências do PIBID. A temática geral é o enfrentamento do Ensino de História em situações de crise, como a pandemia. 
@@ -15,6 +15,5 @@ Links:
 - [Download do livro "Oficinas de História: desafios do ensino em tempos de pandemia"](https://editoracriacao.com.br/oficinas-de-historia-desafios-do-ensino-em-tempos-de-pandemia/)
 - [Publicações do Marco Fornaciari para se aprofundar nas discussões sobre videogame](https://www.researchgate.net/profile/Marco-Fornaciari)
 
-![image](https://user-images.githubusercontent.com/64807181/173188287-9943f3d7-3a75-46bf-9ff9-138c3defdc3c.png)
-
-Fonte: [Instagram](https://www.instagram.com/p/CdDYxKhsyaB/)
+![image](https://user-images.githubusercontent.com/64807181/178127771-a0789f36-2f60-496f-8939-2af771184228.png)
+>Fonte: [https://www.instagram.com/0jonjo](https://www.instagram.com/0jonjo)
