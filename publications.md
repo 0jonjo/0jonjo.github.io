@@ -4,7 +4,7 @@ layout: page
 permalink: /publications/
 published: true
 ---
-
+- Aperte Start: primeiros passos entre História Digital e Ensino de História com Videogames [(2022, Capítulo de livro)](https://editoracriacao.com.br/oficinas-de-historia-desafios-do-ensino-em-tempos-de-pandemia/)
 - Introdução ao Markdown (Tradução) [(2021, Artigo em Revista)](https://doi.org/10.46430/phpt0008)
 - Pesquisa censitária e formulários online no ensino de História na Educação Básica [(2021, Capítulo de livro)](https://simpohist2021tecnologias.blogspot.com/2021/05/joao-gilberto-neves-saraiva.html)
 - No front das redações: construindo o Nordeste nas páginas do The New York Times [(2021, Capítulo de livro)](https://www.ideiaeditora.com.br/produto/nordeste-do-brasil-na-ii-guerra-mundial/)

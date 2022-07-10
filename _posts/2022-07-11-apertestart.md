@@ -1,0 +1,20 @@
+---
+title: "Apert Start: História Digital e Ensino de História a partir dos Games"
+description: "Capitulo de livro recém-publicado "
+layout: post
+tags: historia historiador ciencia tecnica tecnologia livro capitulo ifrn history educacao ideia educacao ensino games digital gaming
+image: https://user-images.githubusercontent.com/64807181/173188287-9943f3d7-3a75-46bf-9ff9-138c3defdc3c.png  
+---
+
+Acaba de ser lançado o livro ["Oficinas de História: desafios do ensino em tempos de pandemia"](https://editoracriacao.com.br/oficinas-de-historia-desafios-do-ensino-em-tempos-de-pandemia/), uma obra organizada por Ane Luise Santos e Magno Santos com textos escritos por professores e professoras apresentando registros de experiências do PIBID. A temática geral é o enfrentamento do Ensino de História em situações de crise, como a pandemia. 
+
+Escrevi um capítulo com o pesquisador, programador e amigo [Marco Fornaciari](https://twitter.com/mafornaciari) intitulado "Aperte Start: primeiros passos entre História Digital e Ensino de História com Videogames". Nele abordados conceitos introdutórios sobre o que é História Digital e suas contribuições para o ensino hoje - incluindo aproximações com a legislação educacional vigente no Brasil. Em sequência nos aprofundamos na temática de estudo do Marco, os games. O texto discute o que é um jogo e apresenta e problematiza como historiadores e professores de História utilizam os videogames a partir de [Civilization VI](https://civilization.com/pt-BR/). O norte é entender os games menos como possibilidades de ilustrar "um pano de fundo histórico" sobre algum tema e mais como uma mídia. Uma vez que compreender seus modos de fazer e aspectos específicos dentro da cultura digital ampliam e qualificam seu uso.    
+
+Links:
+
+- [Download do livro "Oficinas de História: desafios do ensino em tempos de pandemia"](https://editoracriacao.com.br/oficinas-de-historia-desafios-do-ensino-em-tempos-de-pandemia/)
+- [Publicações do Marco Fornaciari para se aprofundar nas discussões sobre videogame](https://www.researchgate.net/profile/Marco-Fornaciari)
+
+![image](https://user-images.githubusercontent.com/64807181/173188287-9943f3d7-3a75-46bf-9ff9-138c3defdc3c.png)
+
+Fonte: [Instagram](https://www.instagram.com/p/CdDYxKhsyaB/)
