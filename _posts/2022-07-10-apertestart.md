@@ -1,5 +1,5 @@
 ---
-title: "Aperte Start: História Digital e Ensino de História e Games"
+title: "Aperte Start: História Digital, Ensino de História e Games"
 description: "Capitulo de livro recém-publicado"
 layout: post
 tags: historia historiador ciencia tecnica tecnologia livro capitulo ifrn history educacao ideia educacao ensino games digital gaming
