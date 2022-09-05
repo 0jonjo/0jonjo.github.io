@@ -5,12 +5,10 @@ description: Primeira metade do novo livro de William Oliveira
 tags: tech ensino livro programming trabalho education escola code psicologia carreira dev programacao
 categories: misc
 youtubeId:
-image: 
+image: https://user-images.githubusercontent.com/64807181/188456645-0de07f8e-e845-4682-8857-ec6aa720bf54.png 
 ---
 
 Estou na metade do livro novo do [William Oliveira](https://twitter.com/1ilhas) - desenvolvedor e educador social - e até o quinto capítulo ele já tratou sobre: aproveitar, respeitar/viver melhor as comunidades, formas e desafios do aprender, estratégias e armadilhas para o autodidata. Fez isso conectando diversas questões psicológicas, educacionais, trabalhistas, etc.
-
-Muito bom!
 
 Uma grata surpresa para um professor com uma década de carreira que a dois anos entrou no mundo da tecnologia.
 
@@ -20,5 +18,5 @@ Parabéns pela publicação William e [Casa do Código](https://www.casadocodigo
 
 [Link para comprar o livro (físico, kindle, epub, etc.)](https://www.casadocodigo.com.br/products/livro-navegando-universo)
 
-![image](https://www.casadocodigo.com.br/products/livro-navegando-universo)
+![image](https://user-images.githubusercontent.com/64807181/188456645-0de07f8e-e845-4682-8857-ec6aa720bf54.png)
 >Imagem: Divulgação do livro no site da Casa do Código
