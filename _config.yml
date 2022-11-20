@@ -1,7 +1,7 @@
 ### your site title here
 
-title: 0jonjo
-description: João Gilberto N. Saraiva
+title: João Gilberto Saraiva
+description: 0jonjo  
 
 baseurl: #name of GitHub repository
 url: #custom url to be used instead of GitHub repository
@@ -22,13 +22,13 @@ twitter: 0jonjo
 linkedin: 0jonjo
 github: 0jonjo
 researchgate: 
-orcid: 0000-0002-2094-8216
+orcid: 5459229452533929
 
 highlighter: rouge
 markdown: kramdown
 
 # Tracker
-analytics: G-T35CK1QYVQ
+analytics:
 
 #optimization -> compress.html
 compress_html:
