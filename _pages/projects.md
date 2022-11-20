@@ -2,7 +2,7 @@
 title:
 layout: default
 permalink: /projects/
-published: false
+published: true
 ---
 
 

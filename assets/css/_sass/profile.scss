@@ -6,6 +6,7 @@
     margin-right: 1rem;
     margin-bottom: 1rem;
     border-radius: 6px;
+    border-radius: 50%;
 }
 
 .left {
@@ -21,7 +22,7 @@
   @media screen and (max-width: $on-phone){
 
     .profile {
-      width: 30%;
+      width: 40%;
     }
 
   }

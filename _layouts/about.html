@@ -13,6 +13,6 @@ layout: default
 <div>
 	<h3><small>Postagens recentes</small></h3>
 	{% for post in site.posts limit:5 %}
-    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {{ post.date | date: '%d-%m-%Y' }}<br>
+    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {{ post.date | date: '%Y-%m-%d' }}<br>
 	{% endfor %}
 </div>
