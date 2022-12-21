@@ -8,14 +8,11 @@ youtubeId:
 image: https://user-images.githubusercontent.com/64807181/208911648-863e9921-7d7f-41ad-9945-a00a97c38f2c.png
 ---
 
-> A ponte não é de concreto, não é de ferro, não é de cimento
->
-> A ponte é até onde vai o meu pensamento
-> A ponte não é para ir nem pra voltar
->
-> A ponte é somente pra atravessar
->
-> Caminhar sobre as águas desse momento
+> A ponte não é de concreto, não é de ferro, não é de cimento.
+> A ponte é até onde vai o meu pensamento.
+> A ponte não é para ir nem pra voltar.
+> A ponte é somente pra atravessar.
+> Caminhar sobre as águas desse momento.
 
 O sábio Lenine canta - [(nesta música aqui)](https://www.youtube.com/watch?v=MAN70wd5npE) - sobre pontes que não são unicamente aquelas sobre as quais os carros vem e vão cotidianamente. [Palavra derivada do latim](https://dicionario.priberam.org/ponte), ponte significa tanto essas estruturas rodoviárias quanto a peça de madeira que faz violinos, guitarras e outros instrumentos de corda soar. De componente de uma prótese dentária que permite falar e comer melhor até dia útil entre feriados e também parte de um navio. 
 
