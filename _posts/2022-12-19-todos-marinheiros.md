@@ -5,13 +5,12 @@ description: "Resenha do livro Navegando no Universo da Programação de William
 tags: tech ensino resenha livro experiencia dev programacao trabalho aprendizado comunidade open source tech educacao
 categories: misc
 youtubeId:
-image: https://user-images.githubusercontent.com/64807181/204167833-cbb67375-bdd6-44a6-8442-50d722ace503.png
+image: https://user-images.githubusercontent.com/64807181/208911648-863e9921-7d7f-41ad-9945-a00a97c38f2c.png
 ---
 
 > A ponte não é de concreto, não é de ferro, não é de cimento
 >
 > A ponte é até onde vai o meu pensamento
->
 > A ponte não é para ir nem pra voltar
 >
 > A ponte é somente pra atravessar
@@ -35,7 +34,7 @@ No mais, creio que ["Navegando no Universo da Programação"](https://www.casado
 - [Clique aqui para conhecer e comprar o livro (ebook ou físico) no site da editora.](https://www.casadocodigo.com.br/products/livro-navegando-universo)
 - [Para saber mais sobre o autor, William Oliveira.](https://woliveiras.com.br/sobre)
 
-![image](https://user-images.githubusercontent.com/64807181/204167833-cbb67375-bdd6-44a6-8442-50d722ace503.png)
+![image](https://user-images.githubusercontent.com/64807181/208911648-863e9921-7d7f-41ad-9945-a00a97c38f2c.png)
 >Imagem: "Boat and Bridge" by Wilson Lam {WLQ}". Fonte: [Open Verse, Flickr, Creative Commons 2.0](https://www.flickr.com/photos/15721381@N00/17257095844)
 
 
