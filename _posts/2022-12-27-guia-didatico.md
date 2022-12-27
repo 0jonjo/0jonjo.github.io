@@ -18,5 +18,7 @@ O Guia Didático é uma excelente obra para quem quer aprender e ensinar a Hist�
 
 - [Link para download do Ebook em pdf](https://drive.google.com/file/d/1dHhpeu5HFUrm95Mn_0ZSRvWLeJLkttWn/view?usp=sharing)
 
-![image](https://user-images.githubusercontent.com/64807181/173188287-9943f3d7-3a75-46bf-9ff9-138c3defdc3c.png)
+![image](https://user-images.githubusercontent.com/64807181/209661534-edfb7af0-dafa-4106-b24e-47c89db10fda.png)
+![image](https://user-images.githubusercontent.com/64807181/209661562-e5c588fd-4675-48c6-8259-abca3c567adb.png)
+![image](https://user-images.githubusercontent.com/64807181/209661573-e06cab7d-0775-4c59-bdd3-f830b555b621.png)
 > Capa, sumário do Guia Didático e primeira página do capítulo sobre a Segunda Guerra. Publicação da Editora da UERN, 2022.
