@@ -14,13 +14,8 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 twitter: 0jonjo
 linkedin: 0jonjo
-stackoverflow:
 github: 0jonjo
-researchgate:
-orcid: 5459229452533929
-quora: 
-instagram:
-facebook:
+
 
 # Markdown
 highlighter: rouge
@@ -39,19 +34,6 @@ compress_html:
   blanklines: false
   profile: false
   startings: []
-
-#collection
-collections:
-  projects:
-    output: false
-    permalink: /projects/:name/
-    order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
 
 sass:
   sass_dir: /assets/css/_sass
