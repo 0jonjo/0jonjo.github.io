@@ -4,8 +4,7 @@ title: "Concluindo a jornada do CS50"
 description: "Último exercício da famosa disciplina de Harvard"
 tags: educacao ensino aprender aprendizado programacao imersao consciente cs50 harvard computacao computerscience curso flask code dev finance python
 categories: misc
-youtubeId:
-image: https://github.com/0jonjo/0jonjo.github.io/assets/64807181/9364065b-f8c8-489c-a2e3-55bff1acd8c1
+image: https://github.com/0jonjo/0jonjo.github.io/assets/64807181/35ae6c38-2855-44c4-9c40-bdc888178909
 ---
 
 Dando forma ao último exercício da disciplina [CS50](https://cs50.harvard.edu/college/2023/spring/), a famosa disciplina Ciência da Computação da universidade de Harvard. Ele é disponibilizado gratuitamente pela instituição com todos os vídeos, exercícios, etc. a partir de uma didática primorosa e conteúdos excelentes.
@@ -14,7 +13,8 @@ Na imagem uma o print da tela aplicação web em Flask (nada como o bom e velho 
 
 Mais para frente quero escrever uma resenha aqui no blog sobre ele, vale muito a pena fazer o curso!
 
-![image](https://github.com/0jonjo/0jonjo.github.io/assets/64807181/9364065b-f8c8-489c-a2e3-55bff1acd8c1)
+![image](https://github.com/0jonjo/0jonjo.github.io/assets/64807181/35ae6c38-2855-44c4-9c40-bdc888178909)
+
 
 
 
