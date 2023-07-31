@@ -2,7 +2,7 @@
 layout: post
 title: "Um estranho e incrível guia de programação"
 description: Aprendendo com o Poignant Guide to Ruby
-tags: ruby ensino livro programming poignant education guide code why lucky  stiff rubyonrails rails
+tags: ruby  livro programacao
 categories: misc
 youtubeId:
 image: https://user-images.githubusercontent.com/64807181/151715936-4173995d-50db-45e1-a8ee-d591edce5933.png

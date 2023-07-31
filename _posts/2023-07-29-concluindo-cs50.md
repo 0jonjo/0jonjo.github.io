@@ -2,7 +2,7 @@
 layout: post
 title: "Concluindo a jornada do CS50"
 description: "Último exercício da famosa disciplina de Harvard"
-tags: educacao ensino aprender aprendizado programacao imersao consciente cs50 harvard computacao computerscience curso flask code dev finance python
+tags:   aprender  programacao imersao consciente cs50 harvard computacao computerscience curso flask code dev  python
 categories: misc
 image: https://github.com/0jonjo/0jonjo.github.io/assets/64807181/35ae6c38-2855-44c4-9c40-bdc888178909
 ---

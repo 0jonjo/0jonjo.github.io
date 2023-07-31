@@ -2,7 +2,7 @@
 layout: post
 title: "Conhecendo Ruby"
 description: Livro que estamos utilizando no curso de programação
-tags: ruby ensino markdown programming tdics education portugues code programacao curso rubyonrails rails
+tags: ruby  markdown programacao curso
 categories: misc
 youtubeId:
 image: https://live.staticflickr.com/4092/4833512699_761a3fcc61_b.jpg
