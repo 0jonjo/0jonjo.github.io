@@ -8,7 +8,7 @@ youtubeId:
 image: https://github.com/0jonjo/0jonjo.github.io/assets/64807181/2cc9ba4b-6a9b-4477-a359-004b983aeef4
 ---
 
-Ao longo das primeiras semanas do curso [CS50](https://www.youtube.com/user/cs50tv), uma expressão repetida diversas vezes pelo professor [David Malan](https://www.instagram.com/davidjmalan/) chamou minha atenção: “see under the hood”. A tradução literal - “ver debaixo do capô” - não nos dá pistas seguras sobre o que Malan quer dizer. Ele está falando em aprender investigando como as coisas funcionam. Parece um conselho óbvio, ir além da superfície para compreender melhor algo. No entanto, é quase um pecado - em um mundo cada vez mais acelerado - aconselhar alguém a imitar [Alice](https://pt.wikipedia.org/wiki/Alice_no_Pa%C3%ADs_das_Maravilhas) e descer em um buraco perseguindo o Coelho Branco.
+Ao longo das primeiras semanas do curso [CS50](https://www.youtube.com/user/cs50tv), uma expressão repetida diversas vezes pelo professor [David Malan](https://www.instagram.com/davidjmalan/) chamou minha atenção: “see under the hood”. A tradução literal - “ver debaixo do capô” - não nos dá pistas seguras sobre o que Malan quer dizer. Ele está falando em aprender investigando como as coisas funcionam. Parece um conselho óbvio, ir além da superfície para compreender melhor algo. No entanto, é quase um crime - em um mundo cada vez mais acelerado - aconselhar alguém a imitar [Alice](https://pt.wikipedia.org/wiki/Alice_no_Pa%C3%ADs_das_Maravilhas) e descer em um buraco perseguindo o Coelho Branco.
 
 <img src="https://github.com/0jonjo/0jonjo.github.io/assets/64807181/54a4517d-e65d-4d5b-ba07-2909b169565a" width="50%" >
 
