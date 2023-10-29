@@ -8,7 +8,7 @@ youtubeId:
 image: https://live.staticflickr.com/8241/8544735354_452da43f4e_b.jpg
 ---
 
-Você já ouviu falar de polimorfia? Segundo o [dicionário](https://dicionario.priberam.org/polimorfismo), é "a particularidade daquilo que pode tomar formas muito diversas". Em poucas palavras, o poder de se transformar e assumir outra figura. Das histórias da mitologia grega até a Bela e Fera, por exemplo, há inúmeros casos de deuses, titãs e animais polimorfos. Tá, mas o que isso tem haver com programação?
+Você já ouviu falar de polimorfia? Segundo o [dicionário](https://dicionario.priberam.org/polimorfismo), é "a particularidade daquilo que pode tomar formas muito diversas". Em poucas palavras, o poder de se transformar e assumir outra figura. Das [histórias da mitologia grega até a Bela e Fera](https://pt.wikipedia.org/wiki/Transmorfo#Mitlogia_Greco-romana), por exemplo, há inúmeros casos de deuses, titãs e animais polimorfos. Tá, mas o que isso tem haver com programação?
 
 O [polimorfismo](https://pt.wikipedia.org/wiki/Polimorfismo_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o)) é um dos pilares da [programação orientada à objetos](https://www.devmedia.com.br/os-4-pilares-da-programacao-orientada-a-objetos/9264). É algo basilar para quem programa, mas eu nunca tinha acompanhado a implementação de associações polimórficas para resolver algo em um grande projeto Ruby on Rails. Fui pesquisar mais a fundo quando um colega de trabalho propôs utilizar isso numa feature nova de um produto com milhares de usuários. Entre os materiais encontrados, me deparei com um excelente texto introdutório da [Campus Code](https://www.linkedin.com/school/campus-code/).
 
