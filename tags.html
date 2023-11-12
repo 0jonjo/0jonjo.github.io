@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign sorted_tags = (site.tags | sort:0) %}
+{% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
   {% if tag[1].size > 3 %}
     <h3>{{ tag[0] }}</h3>
