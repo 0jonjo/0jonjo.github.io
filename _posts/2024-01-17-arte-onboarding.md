@@ -2,12 +2,12 @@
 layout: post
 title: "A arte do onboarding"
 description: "Cinco pontos para acelerar e qualificar seu onboarding"
-tags:  code refatoracao projeto dev ruby
+tags:  code aprendizado
 categories: misc
 image: https://live.staticflickr.com/1784/42898374451_c6cb68dd17_b.jpg
 ---
 
-Abrir uma porta e sentir que todas as pessoas daquela sala estão te olhando. Há uma sensação estranha quando somos recém-chegamos em um novo lugar, ela só vai sumir inteiramente quando nos sentimos integrados. Ao entrar em uma nova empresa ou projeto, há um período de adaptação e absorção de conhecimento mínimo sobre pessoas, processos e produtos. Esse período, comumente chamado de [onboarding](https://www.gupy.io/blog/onboarding), é fundamental para que o novo membro da equipe possa se situar e começar a contribuir de forma mais rápida e efetiva
+Abrir uma porta e sentir que todas as pessoas daquela sala estão te olhando. Há uma sensação estranha quando somos recém-chegamos em um novo lugar, ela só vai sumir inteiramente quando nos sentirmos integrados. Ao entrar em uma empresa ou projeto, há um período de adaptação e absorção de conhecimento mínimo sobre pessoas, processos e produtos. Esse período, comumente chamado de [onboarding](https://www.gupy.io/blog/onboarding), é fundamental para que o novo membro da equipe possa se situar e começar a contribuir de forma mais rápida e efetiva
 
 Cada empresa e time tem processos mais ou menos estruturados de onboarding, que variam em período de tempo total e horas semanais dedicadas a isso. Geralmente, é um período de ansiedade do novo membro da equipe e de descobertas mútuas. Um amigo que passou diversas vezes por esse processo nos dois lados da mesa diz que não há como esperar uma atuação a 100% da capacidade de alguém antes de três meses.
 
