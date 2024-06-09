@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How to implement JSON Web Token in Ruby on Rails?"
-description: "How to use JWT on a project"
+title: "Implementing JSON Web Token in Ruby on Rails"
+description: "How to code and decode JWT tokens in a Rest API"
 tags: code project dev ruby
 categories: misc
 image: https://nordicapis.com/wp-content/uploads/Why-Cant-I-Just-Send-JWTs-Without-OAuth-JWT.png
