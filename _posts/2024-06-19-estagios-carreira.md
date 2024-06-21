@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "O que fazer? Como evoluir em cada estágio da carreira?"
-description: Dica de uma excelente palestra com dicas práticas para cada estágio da carreira
+description: "Dica de palestra com dicas para cada estágio da carreira"
 tags: programacao aprendizado
 categories: misc
 youtubeId: 8iFvJE41eGs
