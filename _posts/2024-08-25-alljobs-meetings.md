@@ -8,9 +8,9 @@ youtubeId:
 image: https://live.staticflickr.com/1460/24941500440_abc92ac95c_b.jpg
 ---
 
-Nas últimas semanas venho me dedicando a um projeto de estudo em Spring Boot, um app de gestão de reuniões online para um sistema de balcão de empregos que vem sendo desenvolvido nos últimos 3 anos, o [Alljobs](https://github.com/0jonjo/alljobs).
+Nas últimas semanas venho me dedicando a um projeto de estudo em Spring Boot, um app de gestão de reuniões online para um sistema de balcão de empregos que vem sendo desenvolvido nos últimos 3 anos, o [Alljobs](https://github.com/0jonjo/alljobs). Como um desenvolvedor do universo Ruby e Python, aprender e escrever em Spring Boot tem sido uma boa oportunidade de errar, ou seja, aprender novas formas de pensar e implementar sistemas.
 
-A ideia é poder marcar reuniões entre recrutador e candidato a partir de uma chamada de API. Para isso, o [Alljobs Meetings](https://github.com/0jonjo/alljobs-meetings) deve realizar uma série de operações:
+A ideia é dessa aplicação é poder marcar reuniões entre recrutador e candidato a partir de uma chamada de API. Para isso, o [Alljobs Meetings](https://github.com/0jonjo/alljobs-meetings) deve realizar uma série de operações:
 
 1. Verificar se o usuário (user) e recrutador (headhunter) existem no banco de dados;
 2. Verificar a disponibilidade de horários registrada pelo recrutador e candidato;
