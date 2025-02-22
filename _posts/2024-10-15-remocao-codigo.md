@@ -2,7 +2,7 @@
 layout: post
 title: "Removendo código legado: algumas dicas práticas"
 description: "Notas para remoções e refatorações em grandes projetos"
-tags:  refatoracao projeto progamacao ruby
+tags:  refatoracao projeto progamacao
 categories: misc
 image: https://live.staticflickr.com/6179/6173981823_438e8634f6_b.jpg
 ---

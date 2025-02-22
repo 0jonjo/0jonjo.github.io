@@ -2,7 +2,7 @@
 layout: post
 title: "Diplomado 3 anos depois do primeiro if-else"
 description: Agradecimentos da conclusão da Especialização em Engenharia de Software
-tags: programming aprendizado
+tags: aprendizado
 categories: misc
 youtubeId:
 image: https://upload.wikimedia.org/wikipedia/commons/0/0f/Ada_lovelace.jpg
