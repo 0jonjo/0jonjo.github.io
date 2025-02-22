@@ -2,7 +2,7 @@
 layout: post
 title: "Extraindo palavras com Python"
 description: "Tutorial do Programming Historian para extrair palavras de um texto usando Python"
-tags: aprendizado programacao python
+tags: aprendizado programming python
 categories: misc
 image: https://programminghistorian.org/images/website/index/woman-using-tabulator.png
 ---

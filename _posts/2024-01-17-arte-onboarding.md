@@ -2,7 +2,7 @@
 layout: post
 title: "A arte do onboarding"
 description: "Cinco pontos para acelerar e qualificar seu onboarding"
-tags:  aprendizado programacao
+tags:  aprendizado programming
 categories: misc
 image: https://live.staticflickr.com/1784/42898374451_c6cb68dd17_b.jpg
 ---
@@ -54,7 +54,3 @@ Em resumo, o onboarding é um processo de descoberta que pode gerar ansiedade, e
 </table>
 
 >Imagem: [Apollo 11 momentos antes de pousar na Lua](https://openverse.org/image/a76c2702-2311-45b1-8052-515abe9d0855). Fonte: OpenVerse - licença Creative Commons 2.0.
-
-
-
-

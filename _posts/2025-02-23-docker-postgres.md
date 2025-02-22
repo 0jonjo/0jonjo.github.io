@@ -2,7 +2,7 @@
 layout: post
 title: A Quick Guide to PostgreSQL with Docker
 description: "A easy way to use a PostgreSQL database in a container to run tests and development"
-tags: programacao english
+tags: programming english
 categories: misc
 image: https://live.staticflickr.com/65535/51936373085_d70f7e8117_b.jpg
 ---

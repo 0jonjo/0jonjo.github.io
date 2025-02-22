@@ -2,7 +2,7 @@
 layout: post
 title: "Crescimento e diversidade nas comunidades de tecnologia"
 description: Para uma expansão acolhedora das comunidades
-tags: ruby programacao comunidade comunidades python
+tags: ruby programming comunidade comunidades python
 categories: misc
 youtubeId:
 image: https://live.staticflickr.com/4103/5027240951_2f16abde86_b.jpg
@@ -18,9 +18,10 @@ Já tive a oportunidade de participar de comitês e grupos de institutos e órg�
 
 Para que a inclusão não seja apenas um discurso vazio, precisamos agir para melhorar a qualidade das comunidades de tecnologia que participamos. Não basta as pessoas serem bem-vindas, precisamos construir um ambiente acolhedor para todos, inclusive iniciantes. Um espaço acolhedor e aberto ao debate e aprendizado é essencial para a saúde da comunidade. Tomo como exemplo, o incentivo a participação e a atenção dada a quem está começando no chat e eventos do [GRUPY-RN](https://blog.grupyrn.org/).
 
- No livro ["O universo da programação"](https://www.casadocodigo.com.br/products/livro-universo-programacao), o William Oliveira dedica um capítulo específico às comunidades de programação, explicando o que são, como aproveitá-las e como construir um ambiente acolhedor e respeitoso. Destaco dois textos pequenos do William sobre o tema, que dão o tom do que ele aborda no livro: ["Não desanime das comunidades de programação"](https://woliveiras.com.br/posts/nao-desanime-comunidades-programacao/) e [Não seja um(a) babaca de comunidade](https://woliveiras.com.br/posts/n%C3%A3o-seja-um-a-babaca-de-comunidade/). Além dos fatores comportamentais, como a construção de um diálogo aberto e receptivo, é importante também tomar ações práticas para promover a inclusão nas comunidades de tecnologia. Por exemplo, nos eventos do próprio GRUPY-RN, há atenção para o cardápio e o barulho das palmas para atender participantes com necessidades específicas.
+ No livro ["O universo da programação"](https://www.casadocodigo.com.br/products/livro-universo-programming), o William Oliveira dedica um capítulo específico às comunidades de programação, explicando o que são, como aproveitá-las e como construir um ambiente acolhedor e respeitoso. Destaco dois textos pequenos do William sobre o tema, que dão o tom do que ele aborda no livro: ["Não desanime das comunidades de programação"](https://woliveiras.com.br/posts/nao-desanime-comunidades-programming/) e [Não seja um(a) babaca de comunidade](https://woliveiras.com.br/posts/n%C3%A3o-seja-um-a-babaca-de-comunidade/). Além dos fatores comportamentais, como a construção de um diálogo aberto e receptivo, é importante também tomar ações práticas para promover a inclusão nas comunidades de tecnologia. Por exemplo, nos eventos do próprio GRUPY-RN, há atenção para o cardápio e o barulho das palmas para atender participantes com necessidades específicas.
 
 Algumas iniciativas legais relacionadas a diversidade no mundo da tecnologia:
+
 - [AfroPython](https://afropython.org/)
 - [PerifaCode](https://perifacode.com/)
 - [WomakersCode](https://womakerscode.org/)

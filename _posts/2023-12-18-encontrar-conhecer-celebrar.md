@@ -2,7 +2,7 @@
 layout: post
 title: "Encontrar, conhecer e celebrar: dois dedos de café e prosa"
 description: A oportunidade de conhecer e brindar com as pessoas
-tags: programacao
+tags: programming
 categories: misc
 youtubeId:
 image: https://live.staticflickr.com/7308/16195370169_0ab5cb9808_b.jpg
@@ -22,4 +22,4 @@ Semana passada tive a rara oportunidade de conhecer pessoalmente a sede e o time
 </td></tr>
 </table>
 
->Imagem: [Working hard for a cup of coffee de R. Halfpaap ](https://openverse.org/image/29dd4eda-3f9f-4ff2-b2aa-90234440e157). Fonte: OpenVerse - licença Creative Commons 2.0.
+>Imagem: [Working hard for a cup of coffee de R. Halfpaap](https://openverse.org/image/29dd4eda-3f9f-4ff2-b2aa-90234440e157). Fonte: OpenVerse - licença Creative Commons 2.0.

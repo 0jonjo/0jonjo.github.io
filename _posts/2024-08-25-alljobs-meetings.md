@@ -2,7 +2,7 @@
 layout: post
 title: "A beleza do erro: primeiros passos em um app Spring Boot"
 description: "Aprendizados projetando e implementando um sistema de reuniões para um balcão de empregos"
-tags: programacao aprendizado java
+tags: programming aprendizado java
 categories: misc
 youtubeId:
 image: https://live.staticflickr.com/1460/24941500440_abc92ac95c_b.jpg
