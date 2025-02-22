@@ -2,7 +2,7 @@
 layout: post
 title: "Encontrar, conhecer e celebrar: dois dedos de café e prosa"
 description: A oportunidade de conhecer e brindar com as pessoas
-tags: programming
+tags: programming aprendizado
 categories: misc
 youtubeId:
 image: https://live.staticflickr.com/7308/16195370169_0ab5cb9808_b.jpg

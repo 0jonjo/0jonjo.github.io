@@ -2,7 +2,7 @@
 layout: post
 title: "Ponte para todos os marinheiros"
 description: "Resenha do livro Navegando no Universo da Programação de William Oliveira"
-tags:  resenha experiencia dev programming trabalho aprendizado comunidade 
+tags: programming
 categories: misc
 youtubeId:
 image: https://user-images.githubusercontent.com/64807181/208911648-863e9921-7d7f-41ad-9945-a00a97c38f2c.png

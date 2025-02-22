@@ -2,7 +2,7 @@
 layout: post
 title: "Conhecendo Ruby"
 description: Livro que estamos utilizando no curso de programação
-tags: ruby  markdown programming curso
+tags: ruby
 categories: misc
 youtubeId:
 image: https://live.staticflickr.com/4092/4833512699_761a3fcc61_b.jpg

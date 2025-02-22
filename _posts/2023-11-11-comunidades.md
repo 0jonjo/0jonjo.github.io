@@ -2,7 +2,7 @@
 layout: post
 title: "Crescimento e diversidade nas comunidades de tecnologia"
 description: Para uma expansão acolhedora das comunidades
-tags: ruby programming comunidade comunidades python
+tags: programming comunidade comunidades
 categories: misc
 youtubeId:
 image: https://live.staticflickr.com/4103/5027240951_2f16abde86_b.jpg
