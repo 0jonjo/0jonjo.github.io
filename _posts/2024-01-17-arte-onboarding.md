@@ -2,7 +2,7 @@
 layout: post
 title: "A arte do onboarding"
 description: "Cinco pontos para acelerar e qualificar seu onboarding"
-tags:  aprendizado
+tags:  learning
 categories: misc
 image: https://live.staticflickr.com/1784/42898374451_c6cb68dd17_b.jpg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Da Alice ao Lego: aprendendo para além da superfície"
 description: "Um convite à curiosidade e experimentação"
-tags: aprendizado
+tags: learning
 categories: misc
 youtubeId:
 image: https://github.com/0jonjo/0jonjo.github.io/assets/64807181/2cc9ba4b-6a9b-4477-a359-004b983aeef4
@@ -22,4 +22,4 @@ No início do ano passado, comecei a aprender uma língua nova. Minha irmã, que
 
 Felizmente, não apenas as palavras e as peças de Lego - que nasceram ali perto, [numa carpintaria na Dinamarca](https://pt.wikipedia.org/wiki/Hist%C3%B3ria_do_Lego) - têm a característica de produzir novas formas a partir da junção de outras. O modo como entendemos o que nos rodeia é pessoal e apenas parcialmente transferível para outras pessoas. Não é um método eficiente de aprendizado simplesmente copiar o modo como outra pessoa aprende. É interessante, justamente, formar seus próprios blocos de conhecimento com peças que recolhemos em lugares e tempos diferentes. Encaixá-las de vários modos até chegar numa estrutura firme, mas ao mesmo tempo capaz de ser reformulada com novos saberes que vamos adquirindo ao longo do caminho ou reaproveitadas em situações diversas. Quanto mais fizermos isso, melhores seremos nessa reconfiguração de saberes. Quanto mais olharmos por trás dos panos, mais capazes seremos de entender os conceitos-chave e modelá-los de modo criativo. Não sei se David Malan já brincou um dia com peças de Lego ou leu Alice no País das Maravilhas, mas ele tem toda razão em insistir no “see under the hood”.
 
->Imagens: [Alice in Wonderland](https://openverse.org/image/3c272792-878b-48a8-ac85-54a7fe9e0c69) e [Unemployment was high in lego land ](https://openverse.org/image/c1321369-9be1-4fc1-862a-e6fc0486a0fc). Fonte: [Open Verse, Creative Commons 2.0](https://openverse.org/)
+>Imagens: [Alice in Wonderland](https://openverse.org/image/3c272792-878b-48a8-ac85-54a7fe9e0c69) e [Unemployment was high in lego land](https://openverse.org/image/c1321369-9be1-4fc1-862a-e6fc0486a0fc). Fonte: [Open Verse, Creative Commons 2.0](https://openverse.org/)
