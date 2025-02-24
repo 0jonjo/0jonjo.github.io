@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Quick Guide to PostgreSQL with Docker
+title: "A Quick Guide to PostgreSQL with Docker"
 description: "A easy way to use a PostgreSQL database in a container to run tests and development"
 tags: programming english
 categories: misc
