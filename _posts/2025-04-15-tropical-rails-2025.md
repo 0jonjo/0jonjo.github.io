@@ -5,7 +5,7 @@ description: "The Rails community of the World is in São Paulo, Brazil!"
 tags: programming english
 categories: misc
 youtubeId:
-image:
+image: https://github.com/user-attachments/assets/9980c90b-9b37-4fc4-a09e-d22b5a8e17e9
 ---
 
 I had the pleasure of attending the [Tropical on Rails 2025](https://tropicalonrails.com/) conference in São Paulo, Brazil, on April 03 and 04, 2025. It was a fantastic experience!
@@ -19,4 +19,8 @@ Impeccable organization in every detail. Thanks to Cirdes and everyone who made 
 
 In the next weeks the videos of the talks will be available on the [YouTube channel](https://www.youtube.com/@tropicalonrails) of the event. I highly recommend checking them out!
 
-![image](https://live.staticflickr.com/7374/11406977156_a70fe38d07_b.jpg)
+![image](https://github.com/user-attachments/assets/9980c90b-9b37-4fc4-a09e-d22b5a8e17e9)
+
+![image](https://github.com/user-attachments/assets/fdfe8647-278d-412c-ab02-a5c7e9f9a57c)
+
+
