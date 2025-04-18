@@ -2,7 +2,7 @@
 layout: post
 title: "Get Certified 2025 - Google Cloud Provider"
 description: "Aulas, exercícios e laboratórios práticos para a certificação de Associate Cloud Engineer"
-tags: programacao
+tags: programming
 categories: misc
 youtubeId:
 image: https://live.staticflickr.com/7374/11406977156_a70fe38d07_b.jpg
