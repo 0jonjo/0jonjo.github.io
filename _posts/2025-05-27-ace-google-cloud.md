@@ -17,5 +17,3 @@ I particularly enjoyed the blend of theory and hands-on practice. All exercises 
 If you're interested in cloud technology and considering getting certified, I highly recommend checking out the [Get Certified program](https://cloud.google.com/innovators/getcertified). It's a superb way to learn and prepare for the certification exam (FOR FREE!), with the added benefit of experienced instructors and a supportive community of learners.
 
 ![image](https://live.staticflickr.com/7374/11406977156_a70fe38d07_b.jpg)
-
->Imagem: [Cloud Computing - Abstract](https://openverse.org/image/424b89af-7295-4e20-896b-fb8c30563c04). Source: OpenVerse - license Creative Commons 2.0
