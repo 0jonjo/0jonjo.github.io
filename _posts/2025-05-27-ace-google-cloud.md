@@ -5,7 +5,7 @@ description: "Learning in classes, exercises, and practical labs of Google Cloud
 tags: programming english
 categories: misc
 youtubeId:
-image:
+image: https://github.com/user-attachments/assets/e3418219-382b-4806-9b8f-0b9da3a72f36
 ---
 
 After three months of classes, exercises, and practical labs, I'm excited to announce that I passed the exam and am now certified as an [Associate Cloud Engineer](https://cloud.google.com/learn/certification/cloud-engineer) by Google Cloud!
@@ -16,4 +16,5 @@ I particularly enjoyed the blend of theory and hands-on practice. All exercises 
 
 If you're interested in cloud technology and considering getting certified, I highly recommend checking out the [Get Certified program](https://cloud.google.com/innovators/getcertified). It's a superb way to learn and prepare for the certification exam (FOR FREE!), with the added benefit of experienced instructors and a supportive community of learners.
 
-![image](https://live.staticflickr.com/7374/11406977156_a70fe38d07_b.jpg)
+![Untitled](https://github.com/user-attachments/assets/e3418219-382b-4806-9b8f-0b9da3a72f36)
+
