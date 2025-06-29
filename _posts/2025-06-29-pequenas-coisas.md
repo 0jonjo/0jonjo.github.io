@@ -5,7 +5,7 @@ description: "Um crônica que pedala ao amanhacer"
 tags: learning literatura
 categories: misc
 youtubeId:
-image: https://live.staticflickr.com/8594/15735492707_9610f068ea_b.jpg
+image: https://github.com/user-attachments/assets/23959c59-053d-4b54-a086-8e1941fde5aa
 ---
 
 Distraídos sob o amanhecer, alguns acenos e sorrisos desabrocham quando eles passam. Uma bicicleta, uma cadeirinha, um par de luvas e dois capacetes descendo a ladeira às sete horas da manhã. Pai e filha seguem seu caminho matinal de casa até a escola. - Bom dia! Diz a criança com tranças. - Bom dia! Responde o jardineiro com um ciscador em mãos. - Bom dia! Responde a senhora catando recicláveis em frente a um condomínio. A menina de capacete rosa já faz parte do cotidiano dos aposentados na banca do jogo do bicho, dos policiais na padaria em frente e das pessoas que esperam o ônibus para ir trabalhar, mas sua passagem sempre os anima.
@@ -20,8 +20,8 @@ Uma década depois, já sob calor matinal da minha cidade natal, Ada me ensinou 
 
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tr><td align="center">
-  <img src="https://live.staticflickr.com/8594/15735492707_9610f068ea_b.jpg" width="450">
+  <img src="https://github.com/user-attachments/assets/23959c59-053d-4b54-a086-8e1941fde5aa" width="450">
 </td></tr>
 </table>
 
->Imagem: [Magic Rabbit de Gwydion M. Williams](https://openverse.org/image/263d94ce-2ac3-45f8-8d3e-a44c85bc1926). Fonte: [Open Verse, Creative Commons 2.0](https://openverse.org/)
+>Imagem: João e Ada a caminho da escola.
