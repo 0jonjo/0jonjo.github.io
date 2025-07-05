@@ -5,7 +5,7 @@ description: "Exploring Google's Generative AI Command Line Interface"
 tags: programming english ruby
 categories: misc
 youtubeId:
-image:
+image: https://github.com/user-attachments/assets/f062ff72-314b-4f33-9b95-b3b4cfbb2bdf
 ---
 
 A few weeks ago, the first public releases of [Gemini CLI](https://github.com/google-gemini/gemini-cli) were launched. I was curious to try out Google's solution for generative AI in the command line, similar to Claude Code or OpenAI CLI. I wanted to see it in action with a real project, so I decided to work on the next update of my gem [Calcpace](https://rubygems.org/gems/calcpace) with it. It's a project about calculations and conversions of distance, time and velocity that has more than 3,400 downloads on RubyGems.
@@ -31,5 +31,8 @@ Here is a summary of the main features of Gemini CLI that I found useful:
 One aspect I particularly do not like in Gemini CLI is that you cannot see it using your existing terminal, or suggest it to use your terminal to run commands like tests or start the server. You cannot directly interact with the terminal like you can with Copilot, which allows you to write code directly in the editor.
 
 In general: ~~sorry Sarah Connor, Gemini CLI is my best friend now.~~ I found Gemini CLI faster and more efficient than Github Copilot with Claude Sonnet 3.7 or 4.0. After this initial experience, I started to use both tools together: using Gemini CLI for project analysis and planning, and then leveraging Copilot for specific code changes, tests, and enhancements. This is my current strategy to learn more about both tools and how they can complement each other.
+
+![image](https://github.com/user-attachments/assets/f062ff72-314b-4f33-9b95-b3b4cfbb2bdf)
+
 
 Image: Meme of Sarah Connor (Linda Hamilton), from [The Exterminator](https://en.wikipedia.org/wiki/The_Terminator).
