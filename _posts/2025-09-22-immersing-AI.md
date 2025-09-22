@@ -5,7 +5,7 @@ description: "Parallels between an AI course and work as a developer on AI proje
 tags: programming learning
 categories: misc
 youtubeId:
-image:
+image: https://github.com/user-attachments/assets/3ea8d360-e1a1-4bf3-8f14-1adc3bc68134
 ---
 
 This semester, I chose Supervised Machine Learning and Ethics and Data as my first courses in the [Artificial Intelligence program at UFRN](https://pes.imd.ufrn.br/pes/index). The first deals with algorithms that learn from examples, covering everything from data collection, systematization, and adjustments to the construction of decision trees and artificial neural networks. The goal is that, by the end of the semester, we'll be able to build predictive models from real datasets. For example, a machine could receive a patient's exam data and predict whether or not they have a predisposition to a certain disease. The second course, on the other hand, covers the historical, philosophical, and legal dimensions of using data and algorithms, including topics like bias, privacy, transparency, and responsibility.
@@ -36,5 +36,6 @@ In Machine Learning, controlling bias is a constant concern, as it can lead to u
 
 In the relationship with AI models, managing private data is a constant concern. It is also critical to ensure compliance with privacy laws and regulations, such as the LGPD in Brazil. I have been studying legislation and best practices, adopting techniques and strategies to protect data privacy with secure and responsible approaches.
 
-![image](https://github.com/0jonjo/0jonjo.github.io/assets/64807181/9364065b-f8c8-489c-a2e3-55bff1acd8c1)
->Image: "Mergulho" de Anderson Freire. [Open Verse, Creative Commons 2.0](hhttps://openverse.org/image/b952887f-8c48-4bb7-a5b6-e9ea9f97a00d)
+<img width="551" height="1023" alt="image" src="https://github.com/user-attachments/assets/3ea8d360-e1a1-4bf3-8f14-1adc3bc68134" />
+
+Image: "Mergulho" de Anderson Freire. [Open Verse, Creative Commons 2.0](hhttps://openverse.org/image/b952887f-8c48-4bb7-a5b6-e9ea9f97a00d)
