@@ -5,7 +5,7 @@ description: "Aproximações entre o curso de Inteligência Artificional e o tra
 tags: programming learning
 categories: misc
 youtubeId:
-image:
+image: https://github.com/user-attachments/assets/3ea8d360-e1a1-4bf3-8f14-1adc3bc68134
 ---
 
 Escolhi neste semestre as disciplinas de Aprendizado de Máquina Supervisionado e Ética e Dados como minhas primeiras do curso de [Inteligência Artificial (UFRN)](https://pes.imd.ufrn.br/pes/index). A primeira trata de algoritmos que aprendem a partir de exemplos, desde a coleta, sistematização e ajustes de dados até a construção de árvores de decisão e redes neurais artificiais. A proposta é que, ao final do semestre, sejamos capazes de construir modelos preditivos a partir de conjuntos de dados reais. Por exemplo, a máquina receber os dados de exame de um paciente e prever se ele tem ou não predisposição a uma certa doença. Já a segunda trata de dimensões históricas, filosóficas e legais do uso de dados e algoritmos, como vieses, privacidade, transparência e responsabilidade.
