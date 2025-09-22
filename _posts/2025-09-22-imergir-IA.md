@@ -36,5 +36,6 @@ No Aprendizado de Máquina, o controle de vieses é preocupação constante, poi
 
 Na relação com modelos de IA, o gerenciamento de dados privados é uma preocupação constante. Também é fundamental garantir conformidade com leis e regulamentos de privacidade, como a LGPD no Brasil. Tenho estudado legislação e práticas, adotando técnicas e estratégias para proteger a privacidade dos dados com abordagens seguras e responsáveis.
 
-![image](https://github.com/0jonjo/0jonjo.github.io/assets/64807181/9364065b-f8c8-489c-a2e3-55bff1acd8c1)
->Imagem: "Mergulho" de Anderson Freire. [Open Verse, Creative Commons 2.0](hhttps://openverse.org/image/b952887f-8c48-4bb7-a5b6-e9ea9f97a00d)
+<img width="551" height="1023" alt="image" src="https://github.com/user-attachments/assets/3ea8d360-e1a1-4bf3-8f14-1adc3bc68134" />
+
+Imagem: "Mergulho" de Anderson Freire. [Open Verse, Creative Commons 2.0](https://openverse.org/image/b952887f-8c48-4bb7-a5b6-e9ea9f97a00d)
