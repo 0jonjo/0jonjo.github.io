@@ -44,6 +44,6 @@ You can read the full post here: [https://jetrockets.com/blog/building-a-resilie
 
 Together, these two articles provide a solid foundation for building AI applications in Ruby that are not only intelligent but also robust and reliable. I hope you find them useful!
 
-<img width="551" height="1023" alt="image" src="hhttps://betterimagesofai.org/ImagesAI/weaving-wires-2_hanna-barakat-aixdesign_archival-images-of-ai_3584x2490.png?nf_resize=fit&w=1080&q=75" />
+<img width="756" height="525" alt="image" src="https://github.com/user-attachments/assets/c4129e7b-8815-451e-bea3-1fc5bfad6c24" />
 
 Image: "Weaving Wires 2 by Hanna Barakat & Archival Images of AI + AIxDESIGN". [Better Images of AI, Creative Commons 4.0](https://betterimagesofai.org/)
