@@ -2,7 +2,7 @@
 layout: post
 title: "Imergindo na IA: notas de um desenvolvedor estudando Aprendizado de Máquina e Ética e Dados"
 description: "Aproximações entre o curso de Inteligência Artificial e o trabalho como desenvolvedor de projetos com IA"
-tags: programming learning
+tags: programming learning ai
 categories: misc
 youtubeId:
 image: https://github.com/user-attachments/assets/3ea8d360-e1a1-4bf3-8f14-1adc3bc68134

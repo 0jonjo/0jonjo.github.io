@@ -2,7 +2,7 @@
 layout: post
 title: "Immersing in AI: Notes from a Developer Studying Machine Learning, Ethics and Data"
 description: "Parallels between an AI course and work as a developer on AI projects"
-tags: programming learning english
+tags: programming learning ai english
 categories: misc
 youtubeId:
 image: https://github.com/user-attachments/assets/3ea8d360-e1a1-4bf3-8f14-1adc3bc68134
