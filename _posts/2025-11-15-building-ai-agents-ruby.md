@@ -5,7 +5,7 @@ description: "A roundup of my two new technical posts on building robust AI in R
 tags: programming ruby ai english
 categories: misc
 youtubeId:
-image: https://github.com/user-attachments/assets/3ea8d360-e1a1-4bf3-8f14-1adc3bc68134
+image: https://github.com/user-attachments/assets/c4129e7b-8815-451e-bea3-1fc5bfad6c24
 ---
 
 I've been busy writing this month and wanted to share two new technical posts I published over on the JetRockets blog. Both are focused on building more capable and reliable AI applications in Ruby, and they complement each other well.
