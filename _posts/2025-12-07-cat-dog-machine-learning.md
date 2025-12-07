@@ -51,6 +51,6 @@ The statistical analysis revealed that for this specific dataset, an MLP combine
 
 You can explore the full step-by-step workflow, organized in sequential Jupyter Notebooks, on my GitHub: [https://github.com/0jonjo/cat_dog_ml](https://github.com/0jonjo/cat_dog_ml)
 
-<img width="751" height="1223" alt="image" src="https://github.com/user-attachments/assets/af3b25bd-a228-4ee5-84e9-08e87fe5ebfe" />
+<img width="551" height="1023" alt="image" src="https://github.com/user-attachments/assets/af3b25bd-a228-4ee5-84e9-08e87fe5ebfe" />
 
 Image: "Ai is... Banner", Rick Payne and Team. [Better Images of AI, Creative Commons 4.0](https://betterimagesofai.org/images?artist=RickPayneandteam&title=Aiis...Banner)
