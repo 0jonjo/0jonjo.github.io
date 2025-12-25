@@ -5,7 +5,7 @@ description: "A hands‑on pipeline: feature engineering, dimensionality reducti
 tags: programming learning ai english
 categories: misc
 youtubeId:
-image:
+image: https://github.com/user-attachments/assets/ecdf1cce-c708-4bf7-966b-a1865aee1480
 ---
 
 "Cat vs. Dog" is the "Hello World" of Computer Vision. But solving it is one thing; understanding the mathematical and statistical foundations behind the solution is another.
@@ -49,10 +49,8 @@ This is where many projects stop, but scientific rigor requires more than just c
 
 The statistical analysis revealed that for this specific dataset, an MLP combined with LBP features offered the best trade-off between predictive power and computational cost, significantly outperforming shape-based approaches (HOG).
 
-You can explore the full step-by-step workflow, organized in sequential Jupyter Notebooks, on my GitHub:
+You can explore the full step-by-step workflow, organized in sequential Jupyter Notebooks, on my GitHub: [https://github.com/0jonjo/cat_dog_ml](https://github.com/0jonjo/cat_dog_ml)
 
-[https://github.com/0jonjo/cat_dog_ml](https://github.com/0jonjo/cat_dog_ml)
-
-<img width="551" height="1023" alt="image" src="https://github.com/user-attachments/assets/3ea8d360-e1a1-4bf3-8f14-1adc3bc68134" />
+<img width="1080" height="522" alt="image" src="https://github.com/user-attachments/assets/ecdf1cce-c708-4bf7-966b-a1865aee1480" />
 
 Image: "Ai is... Banner", Rick Payne and Team. [Better Images of AI, Creative Commons 4.0](https://betterimagesofai.org/images?artist=RickPayneandteam&title=Aiis...Banner)
