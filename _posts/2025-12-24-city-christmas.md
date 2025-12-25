@@ -2,7 +2,7 @@
 layout: post
 title: "A City Called Christmas"
 description: "An evocative stroll through Natal’s past and present, where light and tradition turn ordinary days into celebration"
-tags: english literature
+tags: english history
 categories: misc
 youtubeId: pUjHjIWPj9Y
 image: https://viagem.cnnbrasil.com.br/wp-content/uploads/sites/5/2025/12/arvore-de-mirassol-em-Natal.jpeg?w=1200&h=900&crop=1
