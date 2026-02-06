@@ -7,7 +7,7 @@ youtubeId:
 image: https://github.com/user-attachments/assets/3d0f48df-5cea-4130-8dcc-81d4cf234e89
 ---
 
-Over the last few years, I have been synthesizing a personal checklist for software development. It is a fusion of direct feedback from Tech Leads, observations of teams, and my own background as a professor and academic researcher. This combination of experiences allowed me to solidify a mini framework.
+Over the last few years, I have been synthesizing a personal checklist for software development. It is a fusion of direct feedback from Tech Leads, observations of teams, and operational playbooks — especially from [JetRockets](https://www.linkedin.com/company/jetrockets/) — combined with my own background as a professor and academic researcher. This combination of experiences allowed me to solidify a mini framework
 
 Originating in law and business, "Due Diligence" refers to the comprehensive appraisal of a business or situation prior to signing a contract. It is the rigorous investigation required to ensure that all parties know exactly what they are getting into, minimizing risks and surprises. In an era where AI can plan, code, and review faster than ever, our responsibility to verify increases. We must be prepared to take full ownership of the results and evaluate precisely what we are delivering.
 
@@ -35,7 +35,9 @@ Before writing a single line of code, understand exactly what you are getting in
 
 [ ] Integration: How will the solution plug into the existing project?
 
-[ ] Harmony: Will the approach clash with the codebase’s style? The goal is for the code to look like it has always belonged there.
+[ ] Harmony: Will the approach clash with the codebase’s style? Most of the time goal is for the code to look like it has always belonged there.
+
+💡 The Innovation Caveat: Sometimes, the goal is to break the pattern. Companies hire engineers to think and act, not merely to reproduce—that is how technical diversity and evolution happen. However, swimming against the current requires stronger muscles. If you deviate from the established architecture, your "Due Diligence" must be doubled. Be prepared to defend why the new approach is necessary and superior.
 
 #### The Self-Audit
 
