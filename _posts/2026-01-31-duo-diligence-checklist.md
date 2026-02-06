@@ -4,7 +4,7 @@ title: "The Due Diligence Checklist: a compass for engineering autonomy"
 description: "A practical framework to move from 'task-completer' to intentional engineer. A personal checklist for coding with context and asking better questions in the AI era"
 categories: misc
 youtubeId:
-image:
+image: https://github.com/user-attachments/assets/3d0f48df-5cea-4130-8dcc-81d4cf234e89
 ---
 
 Over the last few years, I have been synthesizing a personal checklist for software development. It is a fusion of direct feedback from Tech Leads, observations of teams, and my own background as a professor and academic researcher. This combination of experiences allowed me to solidify a mini framework.
@@ -76,7 +76,6 @@ Instead, I keep this checklist within eyesight. It serves as my anchor.
 
 When everything is flowing, I might skip a step. But when I feel stuck, when the solution isn't clear, or when I simply run out of ideas, I return to these lists. They force me to pause, breathe, and realign with the process. The idea follows a simple principle: autonomy isn't about being perfect all the time; it's about knowing where to look when you get lost.
 
-<img width="756" height="525" alt="image" src="https://github.com/user-attachments/assets/c4129e7b-8815-451e-bea3-1fc5bfad6c24" />
-
+<img width="1024" height="683" alt="image" src="https://github.com/user-attachments/assets/3d0f48df-5cea-4130-8dcc-81d4cf234e89" />
 
 Image: "Compass" from Johannes Ko. [Open Verse, Creative Commons 2.0](https://openverse.org/image/6dbecb6a-a18a-4f0e-ad33-b8d13da98753)
