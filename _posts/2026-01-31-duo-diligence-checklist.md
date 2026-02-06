@@ -78,4 +78,4 @@ When everything is flowing, I might skip a step. But when I feel stuck, when the
 
 <img width="1024" height="683" alt="image" src="https://github.com/user-attachments/assets/3d0f48df-5cea-4130-8dcc-81d4cf234e89" />
 
-Image: "Compass" from Johannes Ko. [Open Verse, Creative Commons 2.0](https://openverse.org/image/6dbecb6a-a18a-4f0e-ad33-b8d13da98753)
+Image: "Compass" by Johannes Ko. [Open Verse, Creative Commons 2.0](https://openverse.org/image/6dbecb6a-a18a-4f0e-ad33-b8d13da98753)
