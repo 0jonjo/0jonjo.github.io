@@ -273,4 +273,4 @@ Finally, we solved the real-world UX challenges of AI search by implementing ove
 - 📁 [neighbor gem for Rails](https://github.com/ankane/neighbor)
 - 📁 [ruby_llm gem on GitHub](https://github.com/crmne/ruby_llm)
 
-Image: "Word Search" by Morgan Frederick. [Open Verse, Creative Commons 2.0](https://openverse.org/image/6dbecb6a-a18a-4f0e-ad33-b8d13da98753)
+Image: "Word Search" by Morgan Frederick. [Open Verse, Creative Commons 2.0](https://openverse.org/image/79fc1531-5557-43e8-8314-0ef15b6c36b9)
