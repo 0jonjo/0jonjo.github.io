@@ -5,7 +5,7 @@ description: "The calcpace gem just hit 7,000 downloads, so I ran a 5k and built
 tags: programming ruby english
 categories: misc
 youtubeId:
-image:
+image: https://github.com/user-attachments/assets/45e56e58-7039-4121-af7d-c6ab846c2045
 ---
 
 The `calcpace` gem just hit 7,000 downloads, so I celebrated the best way I know how: I ran a 5k and finally built [calcpace.app](https://calcpace.app) to bring those calculations to everyone, no Ruby console required.
@@ -44,4 +44,4 @@ Links:
 - [calcpace gem](https://rubygems.org/gems/calcpace)
 - [GitHub repo](https://github.com/0jonjo/calcpace_web)
 
-Image: "Word Search" by Morgan Frederick. [Open Verse, Creative Commons 2.0](https://openverse.org/image/79fc1531-5557-43e8-8314-0ef15b6c36b9)
+<img width="1535" height="932" alt="image" src="https://github.com/user-attachments/assets/45e56e58-7039-4121-af7d-c6ab846c2045" />
