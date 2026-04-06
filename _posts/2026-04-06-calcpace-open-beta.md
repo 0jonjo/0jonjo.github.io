@@ -5,7 +5,7 @@ description: "From closed beta to open registration: new gem modules, GPS tracki
 tags: programming ruby english
 categories: misc
 youtubeId:
-image: https://live.staticflickr.com/7288/16200993799_0e922ff3c8_b.jpg
+image: https://github.com/user-attachments/assets/da5c62bd-2290-4118-99a4-ddf27140c870
 ---
 
 Calcpace.app is now open to anyone — no invite code needed. This post covers what changed since the closed beta: new gem modules, GPS tracking with maps, bot protection, the infrastructure decisions behind each feature, and a few lessons learned the hard way.
@@ -35,5 +35,7 @@ What's next: internationalization first — the app is English-only for now, but
 - [calcpace.app](https://calcpace.app)
 - [calcpace gem on RubyGems](https://rubygems.org/gems/calcpace)
 - [calcpace_web on GitHub](https://github.com/0jonjo/calcpace_web)
+
+<img width="1024" height="683" alt="image" src="https://github.com/user-attachments/assets/da5c62bd-2290-4118-99a4-ddf27140c870" />
 
 >Image: ["BP Running Track @ Glasgow Airport"](https://openverse.org/image/c512f324-473b-4a6c-b769-0a993b9aa445) by JCDecaux Creative Solutions. [Open Verse, Creative Commons BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
