@@ -164,6 +164,6 @@ While those are great tools, they occupy different niches. Flowbite is fantastic
 Migration isn't just about "fancy" code. It's about reducing cognitive load. Developers can focus on building features using high-level components rather than wrestling with low-level utility classes in every single view. If you're building a modern Rails app, `jet_ui` is the bridge between the flexibility of Tailwind and the structure of a professional design system.
 
 ## Links
-📦 [Jet_UI on RubyGems](https://rubygems.org/gems/jet_ui)
-📁 [Jet_UI Repo](https://github.com/jetrockets/jet_ui)
-🏃 [Calcpace](https://calcpace.app)
+- 📦 [Jet_UI on RubyGems](https://rubygems.org/gems/jet_ui)
+- 📁 [Jet_UI Repo](https://github.com/jetrockets/jet_ui)
+- 🏃 [Calcpace](https://calcpace.app)
