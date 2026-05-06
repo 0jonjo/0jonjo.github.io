@@ -5,7 +5,7 @@ description: "Ar real-world experience migrating Calcpace to Jet UI, a ViewCompo
 tags: programming ruby ai english
 categories: misc
 youtubeId:
-image:
+image: https://github.com/user-attachments/assets/77774ac0-f804-472e-89ae-670751139237
 ---
 
 Last week, I wrote an article about migrating Calcpace views to use jet_ui to [JetRockets blog](https://jetrockets.com/blog/migrating-rails-views-to-jet-ui-a-real-world-guide-with-viewcomponent-and-tailwind-v4). Here is the full article:
@@ -29,7 +29,7 @@ Before the migration, our UI was functional but repetitive. Handling profile pic
 <% end %>
 ```
 
-> [Visual: Side-by-side comparison of the legacy Avatar code vs. the clean `jet_ui.avatar` result]
+<img width="615" height="344" alt="image" src="https://github.com/user-attachments/assets/044907e3-1f49-434f-b929-0edc1e33f210" />
 
 This "inline Tailwind" approach lacks a single source of truth. Changing a border radius meant a tedious search-and-replace across the entire codebase.
 
@@ -98,6 +98,8 @@ Why this approach?
 - Portability: The build works in Docker, CI, and any developer's machine without modifications.
 - Clean Logs: By placing files in `vendor/stylesheets` (which Propshaft ignores by default), the asset pipeline won't try to serve individual component files (like `popover.css`). This prevents the "404 Not Found" noise in production logs for files already bundled into your main CSS.
 
+<img width="734" height="312" alt="image" src="https://github.com/user-attachments/assets/839cb7b0-a01c-4e3b-9765-2cdf2f5176dc" />
+
 ## Customizing the Theme with Tailwind v4
 
 `jet_ui` uses modern CSS variables. Instead of overriding thousands of utility classes, you update the theme variables in your CSS source:
@@ -145,9 +147,9 @@ The World Records page was our "stress test" for displaying dense data. By compo
 <% end %>
 ```
 
-> [Visual: Screenshot of the World Records page showing the Tab + Table composition in action]
-
 This composition proves the architectural leverage: we get a professional data grid with integrated navigation, all following the same design system with zero manual CSS.
+
+<img width="1001" height="514" alt="image" src="https://github.com/user-attachments/assets/77774ac0-f804-472e-89ae-670751139237" />
 
 ## Why jet_ui? (The Alternatives)
 
