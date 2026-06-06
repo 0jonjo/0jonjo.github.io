@@ -5,10 +5,13 @@ description: "The intersection of Backend Development and MLOps, a deep dive int
 tags: programming learning ai english ruby
 categories: misc
 youtubeId:
-image:
+image: https://github.com/user-attachments/assets/75629b8e-47f8-4520-bbfe-42fd8d005b92
+
 ---
 
-By the end of last semester, I was preparing for a deep dive into deployments, monitoring, maintenance, and the operational crossroads where Backend meets DevOps. My goal was to bridge my previous cloud experience—especially with GCP—with the modern stack we rely on at [JetRockets](https://www.linkedin.com/company/jetrockets/), such as [Kamal](https://kamal-deploy.org/), [AppSignal](https://www.appsignal.com/), [DigitalOcean](https://www.digitalocean.com/), and [Cloudflare](https://www.cloudflare.com/). When the syllabus dropped for my second semester in the [Artificial Intelligence program at UFRN](https://pes.imd.ufrn.br/pes/index), I was thrilled to spot MLOps (Machine Learning Operations) on the list. While the name might sound niche, MLOps is essentially the application of strict software engineering and DevOps principles to machine learning, ensuring models aren't just local experiments, but are effectively deployed, monitored, and maintained in production.
+By the end of last semester, I was preparing for a deep dive into deployments, monitoring, maintenance, and the operational crossroads where Backend meets DevOps. My goal was to bridge my previous cloud experience—especially with GCP—with the modern stack we rely on at [JetRockets](https://www.linkedin.com/company/jetrockets/), such as [Kamal](https://kamal-deploy.org/), [AppSignal](https://www.appsignal.com/), [DigitalOcean](https://www.digitalocean.com/), and [Cloudflare](https://www.cloudflare.com/). When the syllabus dropped for my second semester in the [Artificial Intelligence program at UFRN](https://pes.imd.ufrn.br/pes/index), I was thrilled to spot MLOps (Machine Learning Operations) on the list. While the name might sound niche, [MLOps](https://en.wikipedia.org/wiki/MLOps) is essentially the application of strict software engineering and DevOps principles to machine learning, ensuring models aren't just local experiments, but are effectively deployed, monitored, and maintained in production.
+
+<img width="640" height="460" alt="image" src="https://github.com/user-attachments/assets/ae6da9b6-b918-4b44-a468-b3cd89dcf641" />
 
 Going in, I fully expected we'd immediately dive into server clusters, CI/CD pipelines, and configuration files. I'm glad I was wrong. The course actually kicked off with [Design Thinking](https://online.hbs.edu/blog/post/what-is-design-thinking). It forced us to step back from the terminal and discuss the importance of understanding the business problem, the user, and the real-world context before throwing infrastructure at a problem. To solidify this knowledge, my approach was to build a bridge between these MLOps concepts and my daily backend reality.
 
@@ -32,6 +35,6 @@ Here are some highlights of how the MLOps principles we studied mapped directly 
 
 Ultimately, the final deliverable for this discipline isn't a static repository; it's a living, breathing product. MLOps is inherently a continuous cycle of monitoring, maintaining, and iterating. Calcpace is now live for runners globally, and we recently hit a massive milestone: the core Ruby gem just crossed 10,000 downloads. Looking ahead, the architecture is now primed for the next step—integrating real, predictive machine learning models into the Rails backend to provide even deeper performance insights for athletes.
 
-<img width="551" height="1023" alt="image" src="" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/cce45f91-8dce-41e1-92e1-2480d1f9dbd2" />
 
-Image: "Running down the shadows" of Vinoth Chandar. [Open Verse, Creative Commons 2.0](https://openverse.org/image/b85eb957-92f7-43b9-8560-3922b2beb361)
+Images: "Running down the shadows" of Vinoth Chandar. [Open Verse, Creative Commons 2.0](https://openverse.org/image/b85eb957-92f7-43b9-8560-3922b2beb361) and MLops ([Wikipedia](https://en.wikipedia.org/wiki/MLOps)
