@@ -37,4 +37,4 @@ Ultimately, the final deliverable for this discipline isn't a static repository;
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/cce45f91-8dce-41e1-92e1-2480d1f9dbd2" />
 
-Images: "Running down the shadows" of Vinoth Chandar. [Open Verse, Creative Commons 2.0](https://openverse.org/image/b85eb957-92f7-43b9-8560-3922b2beb361) and MLops ([Wikipedia](https://en.wikipedia.org/wiki/MLOps)
+Images: "Running down the shadows" of Vinoth Chandar. [Open Verse, Creative Commons 2.0](https://openverse.org/image/b85eb957-92f7-43b9-8560-3922b2beb361) and MLops ([Wikipedia](https://en.wikipedia.org/wiki/MLOps))
