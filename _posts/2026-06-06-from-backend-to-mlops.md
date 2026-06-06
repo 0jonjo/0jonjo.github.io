@@ -34,7 +34,7 @@ Here are some highlights of how the MLOps principles we studied mapped directly 
 
 7. **DevOps in an AI-Scraped World**: Finally, exposing an API or web app today means dealing with a massive influx of automated traffic. I configured custom WAF (Web Application Firewall) rules to block malicious actors while ensuring the site remains fully accessible to legitimate crawlers. This balance is vital for SEO and for ensuring the content is properly indexed by modern AI search bots.
 
-Ultimately, the final deliverable for this discipline isn't just a static repository; it's a living, breathing product. By building [Calcpace](https://calcpace.app/) — and seeing its core open-source gem cross the 10,000 downloads milestone — I've experienced that the real challenge of AI in production goes way beyond the model. It's about the reliability, the deployment pipeline, and the operational monitoring surrounding it.
+Ultimately, the final deliverable for this discipline isn't just a static repository; it's a living, breathing product. By building [Calcpace](https://calcpace.app/) — and seeing its core open-source gem cross the 10,000 downloads milestone — it reinforced my conviction that a real challenge of a production-ready system lies in reliability, deployment pipelines, and operational monitoring.
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/cce45f91-8dce-41e1-92e1-2480d1f9dbd2" />
 
