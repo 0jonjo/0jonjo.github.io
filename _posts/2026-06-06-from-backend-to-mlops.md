@@ -36,6 +36,13 @@ Here are some highlights of how the MLOps principles we studied mapped directly 
 
 Ultimately, the final deliverable for this discipline isn't just a static repository; it's a living, breathing product. By building [Calcpace](https://calcpace.app/) — and seeing its core open-source gem cross the 10,000 downloads milestone — it reinforced my conviction that a real challenge of a production-ready system lies in reliability, deployment pipelines, and operational monitoring.
 
+### Further Reading
+
+- **[UFRN MLOps Course Repository](https://github.com/adaj/mlops-2026-1)**: The official repository from the MLOps discipline at UFRN. It contains the reference architecture used in our classes, including Python model serving and observability with Kibana.
+- **[How to use Basecamp’s Kamal with AWS and GitHub](https://jetrockets.com/blog/how-to-use-basecamp-s-kamal-with-aws-and-github)**: A practical guide by JetRockets' CTO, Igor Alexandrov, on orchestrating container deployments with Kamal and GitHub Actions.
+- **[Continuous Delivery for Machine Learning (CD4ML)](https://martinfowler.com/articles/cd4ml.html)**: core article on applying standard CI/CD and DevOps practices to ML systems.
+- **[Domain-Driven Design by Eric Evans](https://www.domainlanguage.com/ddd/)**: The foundational book on aligning software models with business reality. It is the basis for how Calcpace approaches running metrics.
+
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/cce45f91-8dce-41e1-92e1-2480d1f9dbd2" />
 
 Images: "Running down the shadows" of Vinoth Chandar. [Open Verse, Creative Commons 2.0](https://openverse.org/image/b85eb957-92f7-43b9-8560-3922b2beb361) and MLops ([Wikipedia](https://en.wikipedia.org/wiki/MLOps))
