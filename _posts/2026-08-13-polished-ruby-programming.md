@@ -58,7 +58,7 @@ The same chapter states the trade-off plainly, and it's a quote I'd gladly put o
 
 Out of curiosity, I eventually ran a search across the entire ebook for the terms "LLM", "AI", and "ChatGPT".
 
-Zero hits. Not a single one in 428 pages.
+I found exactly one hit: a passing sentence about how users search for library documentation. As a guide for building AI features? Zero hits.
 
 And that is the part I keep coming back to. This isn't a book about AI, and that is precisely why it helped so much. A model provider is slow, occasionally unavailable, rate-limited, non-deterministic, and entirely outside your control. We already have decades of solid engineering practices for handling dependencies that behave exactly like that.
 
