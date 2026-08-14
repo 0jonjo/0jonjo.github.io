@@ -54,7 +54,7 @@ The same chapter states the trade-off plainly, and it's a quote I'd gladly put o
 
 > "Slower, reliable tests are better than fast tests that break without reason (false positives) and don't catch actual breakage (false negatives)."
 
-## Zero hits
+## "Zero" hits
 
 Out of curiosity, I eventually ran a search across the entire ebook for the terms "LLM", "AI", and "ChatGPT".
 
