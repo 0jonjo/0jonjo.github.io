@@ -5,7 +5,7 @@ description: "Reviewing the second edition of Jeremy Evans' book: what it covers
 tags: programming ruby ai english
 categories: misc
 youtubeId:
-image: <!-- COLE AQUI O LINK DO GITHUB -->
+image: https://github.com/user-attachments/assets/489984c5-0dbc-40a5-af1e-f1838b7f41c7
 ---
 
 A few weeks ago, someone from [Packt](https://www.packtpub.com/) reached out to me on LinkedIn. They had just released the second edition of [Polished Ruby Programming](https://code.jeremyevans.net/polished-ruby-programming.html) and offered to send me a copy if I was willing to share my thoughts on it. You know I enjoy good tech books and work heavily with Ruby, so here we are. When the ebook arrived, I started skimming through it, expecting a solid, standard refresher on best practices.
@@ -74,6 +74,6 @@ And if you maintain any long-lived applications, Chapter 12 earns the read all o
 
 *Disclosure: Packt sent me a review copy of the book. The opinions here are entirely my own.*
 
-<img width="100%" alt="Collage of a woman in period dress seated beside an early computer, weaving its wires like knitting" src="<!-- COLE AQUI O LINK DO GITHUB -->" />
+<img width="640" height="333" alt="HannaBarakat -CambridgeDiversity FundPas(t)imesin the Computer Lab -640x333" src="https://github.com/user-attachments/assets/489984c5-0dbc-40a5-af1e-f1838b7f41c7" />
 
 Image: "Pas(t)imes in the Computer Lab", Hanna Barakat & Cambridge Diversity Fund. [Better Images of AI, Creative Commons 4.0](https://betterimagesofai.org/images?artist=HannaBarakat&title=Pas%28t%29imesintheComputerLab)
