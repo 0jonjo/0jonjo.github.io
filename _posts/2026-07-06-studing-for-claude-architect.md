@@ -5,7 +5,7 @@ description: "Preparing for the Claude Architect Foundations certification: five
 tags: programming learning ai english
 categories: misc
 youtubeId:
-image: <!-- COLE AQUI O LINK DO GITHUB -->
+image: https://github.com/user-attachments/assets/d95a655f-d120-4c67-8b0b-ade52a251026
 ---
 
 For the past month, I've been preparing for the [Claude Architect Foundations](https://anthropic-partners.skilljar.com/page/partner-certifications) certification. The exam validates your knowledge of the Claude AI model, its architecture, and the best practices for building robust applications. Since any company aiming to complete the [Claude Partner Network program](https://claude.com/partners) needs a minimum number of certified architects, my team at [JetRockets](https://www.linkedin.com/company/jetrockets/) and I are preparing to take it soon. The exam is not free, so the goal is to pass on the first attempt.
@@ -43,7 +43,7 @@ This means that simply reading the docs is not enough. You really need to think 
 In the end, preparing for the Claude Architect Foundations is less about cramming documentation and more about adopting an agentic mindset — putting yourself in the shoes of an AI architect who is constantly balancing efficiency, security, and context limits to solve real-world constraints.
 
 
-<img width="100%" alt="Weaving wires into a computer monitor" src="<!-- COLE AQUI O LINK DO GITHUB -->" />
+<img width="100%" alt="Weaving wires into a computer monitor" src="https://github.com/user-attachments/assets/d95a655f-d120-4c67-8b0b-ade52a251026" />
 
 
-Image: *Weaving Wires 1* by Hanna Barakat / AIxDESIGN / [Better Images of AI](https://betterimagesofai.org)
+Image: *Weaving Wires 1* by Hanna Barakat / AIxDESIGN / [Better Images of AI](https://betterimagesofai.org), Creative-Commons License.
