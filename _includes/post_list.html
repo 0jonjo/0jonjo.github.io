@@ -5,6 +5,7 @@
     <li class="post-list-item" data-lang="{{ post.lang | default: site.lang }}">
       <span class="home-date">{{ post.date | date: site.theme_config.date_format }}&raquo;</span>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      {% include lang_badge.html lang=post.lang %}
     </li>
   {% endfor %}
 </ul>

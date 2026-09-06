@@ -1,0 +1,2 @@
+{% assign badge_lang = include.lang | default: site.lang %}
+<span class="lang-badge" data-lang-badge="{{ badge_lang }}" title="{% if badge_lang == 'en' %}Written in English{% else %}Escrito em português{% endif %}">{{ badge_lang | upcase }}</span>

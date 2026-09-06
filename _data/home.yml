@@ -7,3 +7,7 @@ navbar_entries:
     url: /tags/
   - title: archive
     url: /archive/
+  - title: en
+    url: /en/
+  - title: pt
+    url: /pt/

@@ -1,0 +1,42 @@
+.lang-badge {
+  font-family: var(--font-mono);
+  font-size: 0.65em;
+  padding: 0.1em 0.45em;
+  margin-left: 0.5em;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border-subtle);
+  background-color: var(--bg-subtle);
+  color: var(--text-secondary);
+  vertical-align: middle;
+}
+
+.lang-filter {
+  display: flex;
+  gap: 0.5em;
+  margin: 0.5em 0 1em;
+
+  button {
+    font-family: var(--font-mono);
+    font-size: 0.8em;
+    padding: 0.25em 0.9em;
+    border-radius: 1em;
+    border: 1px solid var(--border);
+    background-color: var(--bg-subtle);
+    color: var(--text-secondary);
+    cursor: pointer;
+
+    &.is-active {
+      border-color: var(--links);
+      color: var(--links);
+      font-weight: 600;
+    }
+  }
+}
+
+.pagination {
+  margin-top: 2em;
+  gap: 1em;
+}
+
+.post-list-item[hidden],
+.tag-section[hidden] { display: none; }
