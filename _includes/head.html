@@ -13,6 +13,9 @@
 
   {% seo title=false %}
   {% feed_meta %}
+  {% if page.feed %}
+    <link rel="alternate" type="application/atom+xml" href="{{ page.feed | absolute_url }}" title="{{ page.title }}" />
+  {% endif %}
 
   <!-- Favicon -->
   <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/images/favicon/apple-touch-icon.png" | relative_url }}">
