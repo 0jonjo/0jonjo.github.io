@@ -3,7 +3,7 @@ layout: post
 lang: pt
 title: "Crescimento e diversidade nas comunidades de tecnologia"
 description: Para uma expansão acolhedora das comunidades
-tags: learning comunidade comunidades
+tags: learning community
 categories: misc
 youtubeId:
 image: https://live.staticflickr.com/4103/5027240951_2f16abde86_b.jpg

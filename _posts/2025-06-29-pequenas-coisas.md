@@ -3,7 +3,7 @@ layout: post
 lang: pt
 title: "Os olhos das pequenas coisas"
 description: "Um crônica que pedala ao amanhacer"
-tags: learning literatura
+tags: learning literature
 categories: misc
 youtubeId:
 image: https://github.com/user-attachments/assets/23959c59-053d-4b54-a086-8e1941fde5aa
