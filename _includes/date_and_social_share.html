@@ -1,0 +1,28 @@
+<div class="post-meta">
+  <div class="post-meta-line">
+    {% if page.author %}
+      <span class="post-meta-author">{{ page.author }}</span>
+      <span class="post-meta-sep">·</span>
+    {% endif %}
+    {% if page.date %}
+      <time class="post-meta-date" datetime="{{ page.date | date_to_xmlschema }}">
+        {{ page.date | date: "%B %-d, %Y" }}
+      </time>
+    {% endif %}
+    {% if site.theme_config.show_reading_time == true %}
+      {% capture words %}{{ content | number_of_words | minus: 180 }}{% endcapture %}
+      {% unless words contains '-' %}
+        <span class="post-meta-sep">·</span>
+        <span class="post-meta-reading">{{ words | plus: 180 | divided_by: 180 }} min read</span>
+      {% endunless %}
+    {% endif %}
+  </div>
+
+  {% if site.theme_config.show_tags == true and page.tags %}
+    <div class="post-meta-tags">
+      {% for tag in page.tags %}
+        <a href="{{ "/tags" | relative_url }}#{{ tag | slugify }}" class="tag">{{ tag }}</a>
+      {% endfor %}
+    </div>
+  {% endif %}
+</div>

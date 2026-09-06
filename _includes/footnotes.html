@@ -1,0 +1,39 @@
+<script>
+(function() {
+  // Render a small tooltip preview when hovering/tapping kramdown-generated
+  // footnote refs (e.g. <a href="#fn:1">1</a>) so readers don't have to
+  // scroll to the bottom of the post.
+  var refs = document.querySelectorAll('a.footnote, sup a[href^="#fn"]');
+  if (!refs.length) return;
+
+  var tip = document.createElement('div');
+  tip.className = 'fn-tooltip';
+  tip.setAttribute('role', 'tooltip');
+  document.body.appendChild(tip);
+
+  function show(ref) {
+    var id = ref.getAttribute('href').slice(1);
+    var fn = document.getElementById(id);
+    if (!fn) return;
+    var clone = fn.cloneNode(true);
+    var back = clone.querySelector('.reversefootnote, a[href^="#fnref"]');
+    if (back) back.remove();
+    tip.innerHTML = clone.innerHTML;
+
+    var rect = ref.getBoundingClientRect();
+    var top = window.scrollY + rect.bottom + 8;
+    var left = Math.max(12, window.scrollX + rect.left - 12);
+    tip.style.top = top + 'px';
+    tip.style.left = left + 'px';
+    tip.classList.add('visible');
+  }
+  function hide() { tip.classList.remove('visible'); }
+
+  refs.forEach(function(ref) {
+    ref.addEventListener('mouseenter', function() { show(ref); });
+    ref.addEventListener('mouseleave', hide);
+    ref.addEventListener('focus', function() { show(ref); });
+    ref.addEventListener('blur', hide);
+  });
+})();
+</script>

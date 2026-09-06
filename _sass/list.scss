@@ -1,0 +1,75 @@
+ul.horizontal-list {
+  display: flex;
+  margin-top: 0em;
+  padding-left: 0;
+  list-style: none;
+  flex-wrap: wrap;
+  font-family: var(--font-sans);
+  gap: 0.8em;
+
+  li {
+    display: inline;
+  }
+
+  li a {
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  li:not(.card) {
+    margin-right: 1em;
+  }
+}
+
+.card {
+  padding: 1.1em 1.15em;
+  border: 1px solid var(--border);
+  width: calc(33.333% - 0.6em);
+  box-sizing: border-box;
+  height: auto;
+  text-align: left;
+  font-size: 1em;
+  align-items: flex-start;
+  background-color: var(--bg-subtle);
+  border-radius: var(--radius-md);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.06);
+    border-color: var(--links);
+  }
+
+  .header {
+    color: var(--links);
+    font-weight: 600;
+    letter-spacing: -0.005em;
+  }
+
+  .body {
+    font-size: 0.85em;
+    color: var(--text-secondary);
+    line-height: 1.55;
+  }
+
+  hr {
+    margin: 0.5em 0;
+    border: none;
+    border-top: 1px solid var(--border-subtle);
+  }
+}
+
+/* Responsive cards - one column layout on small screens */
+@media screen and (max-width: 600px) {
+  ul.horizontal-list li.card {
+    width: 100%;
+    display: block;
+    a, .header {
+      font-size: 1em;
+    }
+  }
+  .card:hover {
+    transform: none;
+    box-shadow: none;
+  }
+}

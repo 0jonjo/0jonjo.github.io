@@ -1,50 +1,39 @@
-### your site title here
-
 title: João Gilberto Saraiva
+author: João Gilberto Saraiva
 description: software engineer | professor | writer
-
-baseurl: #name of GitHub repository
 url: https://0jonjo.github.io
+baseurl: ""
+lang: pt
 email: jgilbertons@gmail.com
-# Pagination
-paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
-
-# Social media links in footer
 linkedin: 0jonjo
 github: 0jonjo
 
+permalink: /blog/:year/:title/
+paginate: 4
+paginate_path: /blog/page:num/
 
-# Markdown
-highlighter: rouge
+theme_config:
+  appearance: "light"
+  appearance_toggle: true
+  date_format: "%Y-%m-%d"
+  show_description: true
+  show_navbar: true
+  show_footer: true
+  show_copyright: true
+  show_reading_time: true
+  show_tags: true
+  show_code_copy: true
+  show_progress_bar: true
+  show_back_to_top: true
+  show_post_nav: true
+  show_toc: true
+  show_footnote_tooltips: true
+  show_link_previews: false
+
 markdown: kramdown
-
-# Tracker
-analytics:
-
-# optimization -> compress.html
-compress_html:
-  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
-  comments: ["<!-- ", " -->"]
-  endings: [all]
-  ignore:
-    envs: [local]
-  blanklines: false
-  profile: false
-  startings: []
-
-#collection
-collections:
-  projects:
-    output: true
-    permalink: /projects/:name/
-    order:
-      - shortProject.md
-      - longerProjectTitle.md
+highlighter: rouge
 
 sass:
-  sass_dir: /assets/css/_sass
   style: compressed
 
 include:
@@ -52,10 +41,17 @@ include:
 
 exclude:
   - README.md
-  - LICENSE.md
+  - LICENSE
+  - docs
+  - script
+  - Gemfile
+  - Gemfile.lock
+  - vendor
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
   - jekyll-paginate
   - jekyll-email-protect
   - jekyll-target-blank
