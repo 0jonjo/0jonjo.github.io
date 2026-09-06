@@ -419,7 +419,7 @@ title: Archive
 Copy `$SCRATCH/moonwalk/tags.html` over `tags.html`, then:
 - front matter `permalink: /tags` → `permalink: /tags/`
 - replace the Moonwalk back-link `<a ...>...</a>` block (the 5 lines after the front matter) with `{% include back_link.html %}`
-- inside each `tag-section`, replace the `<ul> ... </ul>` block with `{% include post_list.html posts=tag[1] %}`
+- inside each `tag-section`, replace the `<ul> ... </ul>` block with `{% assign tag_posts = tag[1] %}{% include post_list.html posts=tag_posts %}` (Jekyll include params cannot contain `[`)
 
 - [ ] **Step 10: `_pages/projects.md`** (URL kept, content is the Calcpace highlight)
 
