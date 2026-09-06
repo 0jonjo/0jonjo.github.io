@@ -1,8 +1,9 @@
 ---
 layout: post
+lang: en
 title: "Calcpace: open beta, maps, bot protection and a growing gem"
 description: "From closed beta to open registration: new gem modules, GPS tracking with maps, bot protection, and the infrastructure decisions behind each feature."
-tags: programming ruby english
+tags: programming ruby
 categories: misc
 youtubeId:
 image: https://github.com/user-attachments/assets/da5c62bd-2290-4118-99a4-ddf27140c870

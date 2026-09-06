@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: pt
 title: "Associações polimórficas no Ruby on Rails"
 description: Uma introdução ao tema
 tags: ruby polimorfismo rubyonrails campuscode

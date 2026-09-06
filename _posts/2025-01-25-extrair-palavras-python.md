@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: pt
 title: "Extraindo palavras com Python"
 description: "Tutorial do Programming Historian para extrair palavras de um texto usando Python"
 tags: python

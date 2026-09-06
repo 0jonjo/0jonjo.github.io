@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: pt
 title: "The Due Diligence Checklist: a compass for engineering autonomy"
 description: "A practical framework to move from 'task-completer' to intentional engineer. A personal checklist for coding with context and asking better questions in the AI era"
 categories: misc

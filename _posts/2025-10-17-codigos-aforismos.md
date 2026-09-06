@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: pt
 title: "Códigos e Aforismos: lições da programação para a escrita nas Ciências Humanas"
 description: "Como a clareza e a simplicidade da programação podem transformar a escrita acadêmica nas Ciências Humanas"
 tags: history programming ensino python

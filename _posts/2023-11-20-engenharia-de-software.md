@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: pt
 title: "Diplomado 3 anos depois do primeiro if-else"
 description: Agradecimentos da conclusão da Especialização em Engenharia de Software
 tags: learning

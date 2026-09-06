@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: pt
 title: "Os olhos das pequenas coisas"
 description: "Um crônica que pedala ao amanhacer"
 tags: learning literatura

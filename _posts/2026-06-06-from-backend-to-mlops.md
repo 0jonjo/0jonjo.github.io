@@ -1,8 +1,9 @@
 ---
 layout: post
+lang: en
 title: "From Backend to MLOps: a runner’s road to business rules, deployments and monitoring"
 description: "The intersection of Backend Development and MLOps, a deep dive into applying DevOps principles, Design Thinking, and deployment strategies to machine learning systems using the Calcpace app."
-tags: programming learning ai english ruby
+tags: programming learning ai ruby
 categories: misc
 youtubeId:
 image: https://github.com/user-attachments/assets/75629b8e-47f8-4520-bbfe-42fd8d005b92

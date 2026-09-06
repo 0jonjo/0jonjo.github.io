@@ -1,8 +1,9 @@
 ---
 layout: post
+lang: en
 title: "Updating Calcpace with Gemini CLI"
 description: "Exploring Google's Generative AI Command Line Interface"
-tags: programming english ruby
+tags: programming ruby
 categories: misc
 youtubeId:
 image: https://github.com/user-attachments/assets/f062ff72-314b-4f33-9b95-b3b4cfbb2bdf

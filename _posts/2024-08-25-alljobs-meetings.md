@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: pt
 title: "A beleza do erro: primeiros passos em um app Spring Boot"
 description: "Aprendizados projetando e implementando um sistema de reuniões para um balcão de empregos"
 tags: programming java

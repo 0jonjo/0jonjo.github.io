@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: pt
 title: "Crescimento e diversidade nas comunidades de tecnologia"
 description: Para uma expansão acolhedora das comunidades
 tags: learning comunidade comunidades

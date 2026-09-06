@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: pt
 title: "Encontrar, conhecer e celebrar: dois dedos de café e prosa"
 description: A oportunidade de conhecer e brindar com as pessoas
 tags: learning

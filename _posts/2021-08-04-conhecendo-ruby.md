@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: pt
 title: "Conhecendo Ruby"
 description: Livro que estamos utilizando no curso de programação
 tags: ruby

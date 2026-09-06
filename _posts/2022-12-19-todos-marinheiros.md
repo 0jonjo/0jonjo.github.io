@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: pt
 title: "Ponte para todos os marinheiros"
 description: "Resenha do livro Navegando no Universo da Programação de William Oliveira"
 tags: programming
