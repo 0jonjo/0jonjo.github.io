@@ -4,7 +4,7 @@ title: João Gilberto Saraiva
 description: software engineer | professor | writer
 
 baseurl: #name of GitHub repository
-url: #custom url to be used instead of GitHub repository
+url: https://0jonjo.github.io
 email: jgilbertons@gmail.com
 # Pagination
 paginate: 4
