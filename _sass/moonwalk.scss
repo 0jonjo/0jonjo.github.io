@@ -273,10 +273,6 @@ mark {
   gap: 0.4em;
   .tag { margin-right: 0; }
 }
-.post-meta .soopr-btn {
-  margin-top: 1rem;
-}
-
 // -------------- DROP CAP (opt-in via dropcap: true) -------------- //
 .has-dropcap > p:first-of-type::first-letter {
   font-family: var(--font-sans);

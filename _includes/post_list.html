@@ -1,4 +1,5 @@
-{% assign posts = include.posts | default: site.posts %}
+{% if include.posts %}{% assign posts = include.posts %}{% else %}{% assign posts = site.posts %}{% endif %}
+{% if posts.size > 0 %}
 <ul class="post-list" data-post-list>
   {% for post in posts %}
     <li class="post-list-item" data-lang="{{ post.lang | default: site.lang }}">
@@ -7,3 +8,4 @@
     </li>
   {% endfor %}
 </ul>
+{% endif %}

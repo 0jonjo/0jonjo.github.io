@@ -10,9 +10,11 @@ title: Posts
 {% include post_list.html posts=paginator.posts %}
 
 {% if paginator.total_pages > 1 %}
-<nav class="pagination horizontal-list">
-  {% if paginator.previous_page %}<a href="{{ paginator.previous_page_path | relative_url }}">&laquo; prev</a>{% endif %}
-  <span>page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}<a href="{{ paginator.next_page_path | relative_url }}">next &raquo;</a>{% endif %}
+<nav class="pagination" aria-label="Pagination">
+  <ul class="horizontal-list">
+    {% if paginator.previous_page %}<li><a href="{{ paginator.previous_page_path | relative_url }}">&laquo; prev</a></li>{% endif %}
+    <li>page {{ paginator.page }} of {{ paginator.total_pages }}</li>
+    {% if paginator.next_page %}<li><a href="{{ paginator.next_page_path | relative_url }}">next &raquo;</a></li>{% endif %}
+  </ul>
 </nav>
 {% endif %}
