@@ -1,5 +1,7 @@
 ---
 layout: post
+lang: pt
+locale: pt_BR
 title: "Um estranho e incrível guia de programação"
 description: Aprendendo com o Poignant Guide to Ruby
 tags: ruby

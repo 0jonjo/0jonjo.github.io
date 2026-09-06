@@ -1,0 +1,16 @@
+---
+layout: default
+title: Posts em português
+permalink: /pt/
+lang: pt
+feed: /pt/feed.xml
+---
+
+{% include back_link.html %}
+
+<header><h1>Posts em português</h1></header>
+
+{% assign posts = site.posts | where: "lang", "pt" %}
+{% include post_list.html posts=posts %}
+
+<p><a href="{{ "/pt/feed.xml" | relative_url }}">Feed Atom dos posts em português</a></p>

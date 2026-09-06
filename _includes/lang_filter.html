@@ -1,0 +1,51 @@
+<div class="lang-filter" data-lang-filter role="group" aria-label="Filter posts by language">
+  <button type="button" data-lang="all" class="is-active" aria-pressed="true">All</button>
+  <button type="button" data-lang="en" aria-pressed="false">EN</button>
+  <button type="button" data-lang="pt" aria-pressed="false">PT</button>
+</div>
+<script>
+(function () {
+  var KEY = "postLang";
+
+  function init() {
+    var filter = document.querySelector("[data-lang-filter]");
+    if (!filter) return;
+
+    function apply(lang) {
+      document.querySelectorAll("[data-post-list] [data-lang]").forEach(function (li) {
+        li.hidden = lang !== "all" && li.dataset.lang !== lang;
+      });
+      document.querySelectorAll(".tag-section").forEach(function (section) {
+        section.hidden = !section.querySelector("[data-lang]:not([hidden])");
+      });
+      document.querySelectorAll(".tag-cloud-item").forEach(function (item) {
+        var target = document.getElementById(item.getAttribute("href").slice(1));
+        var section = target && target.closest(".tag-section");
+        item.hidden = !!(section && section.hidden);
+      });
+      filter.querySelectorAll("button").forEach(function (button) {
+        var active = button.dataset.lang === lang;
+        button.classList.toggle("is-active", active);
+        button.setAttribute("aria-pressed", active);
+      });
+    }
+
+    var saved = "all";
+    try { saved = localStorage.getItem(KEY) || "all"; } catch (e) {}
+    apply(saved);
+
+    filter.addEventListener("click", function (event) {
+      var button = event.target.closest("button[data-lang]");
+      if (!button) return;
+      try { localStorage.setItem(KEY, button.dataset.lang); } catch (e) {}
+      apply(button.dataset.lang);
+    });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init);
+  } else {
+    init();
+  }
+})();
+</script>

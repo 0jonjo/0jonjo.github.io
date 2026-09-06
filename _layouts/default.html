@@ -1,50 +1,43 @@
----
-# layout: compress
----
 <!DOCTYPE html>
-<html>
+<html lang="{{ page.lang | default: site.lang }}" class="html" data-theme="{{ site.theme_config.appearance | default: "auto" }}">
+        {%- include head.html -%}
+  <body>
+    {%- if site.theme_config.show_progress_bar and page.layout == "post" -%}
+      {% include progress_bar.html %}
+    {%- endif -%}
+    <main class="page-content" aria-label="Content">
+      <div class="w">
+        {{ content }}
+        {% if site.theme_config.appearance_toggle %}
+          {% include toggle_theme_button.html %}
+        {% endif %}
+        <div class="credits">
+          {%- if site.theme_config.show_copyright == true -%}
+          &copy;&nbsp;{{ "now" | date: "%Y" }}&nbsp;{{site.author}}
+          &nbsp;
+          •
+          &nbsp;
+          {%- endif -%}
+          Theme&nbsp; <a href="https://github.com/abhinavs/moonwalk" target="_blank" rel="noopener noreferrer">Moonwalk</a>
+        </div>
+      </div>
+    </main>
 
-    <head>
-        <meta charset="utf-8">
-        <meta content="width=device-width, initial-scale=1" name="viewport">
-        <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css">
+    {%- if page.layout == "post" -%}
+      {% include github_alerts.html %}
+    {%- endif -%}
 
-        <h1 class="post-headline">{{site.title}}</h1>
-        <p class="post-description">{{site.description}}</p>
+    {%- if site.theme_config.show_code_copy and page.layout == "post" -%}
+      {% include code_copy.html %}
+    {%- endif -%}
 
-        {% include navigation.html %}
+    {%- if site.theme_config.show_footnote_tooltips and page.layout == "post" -%}
+      {% include footnotes.html %}
+    {%- endif -%}
 
-        {% seo %}
+    {%- if site.theme_config.show_back_to_top and page.layout == "post" -%}
+      {% include back_to_top.html %}
+    {%- endif -%}
 
-        {% include favicon.html %}
-
-        {% include mathjax.html %}
-
-        <!-- Load fontawesome here for faster loadtimes: https://stackoverflow.com/a/35880730/9523246 -->
-        <script type="text/javascript"> (function() { var css = document.createElement('link'); css.href = 'https://use.fontawesome.com/releases/v5.11.0/css/all.css'; css.rel = 'stylesheet'; css.type = 'text/css'; document.getElementsByTagName('head')[0].appendChild(css); })(); </script>
-    </head>
-
-    <body>
-        <main>
-            <article>
-                {{ content }}
-            </article>
-        </main>
-
-        <footer>
-          <p class="copy">
-            <small> &copy; {{site.title}} {{ site.time | date: '%Y' }}
-                    | Powered by Jekyll and
-                    <a target="_blank" href="https://github.com/jitinnair1/gradfolio/">Gradfolio</a>.
-            </small>
-          </p>
-
-        {% include social-footer.html %}
-
-        </footer>
-
-        {% include analytics.html %}
-
-    </body>
-
+  </body>
 </html>

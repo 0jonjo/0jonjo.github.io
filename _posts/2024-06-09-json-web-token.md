@@ -1,8 +1,10 @@
 ---
 layout: post
+lang: en
+locale: en_US
 title: "Implementing JSON Web Token in Ruby on Rails"
 description: "How to code and decode JWT tokens in a Rest API"
-tags: ruby english
+tags: ruby
 categories: misc
 image: https://nordicapis.com/wp-content/uploads/Why-Cant-I-Just-Send-JWTs-Without-OAuth-JWT.png
 ---
@@ -17,7 +19,7 @@ JWT works like a ping-pong game between the client and the server. The client se
 
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tr><td align="center">
-  <img src="https://www.bluebash.co/blog/content/images/2021/12/image-5.png" width="450">
+  <img src="https://www.bluebash.co/blog/content/images/2021/12/image-5.png" width="450" alt="Diagram of the JWT request-response flow between client and server">
 </td></tr>
 </table>
 
@@ -31,7 +33,7 @@ Image with JWT token parts from [Nordic APIs](https://nordicapis.com/):
 
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tr><td align="center">
-  <img src="https://nordicapis.com/wp-content/uploads/Why-Cant-I-Just-Send-JWTs-Without-OAuth-JWT.png" width="450">
+  <img src="https://nordicapis.com/wp-content/uploads/Why-Cant-I-Just-Send-JWTs-Without-OAuth-JWT.png" width="450" alt="Diagram showing the header, payload, and signature parts that make up a JWT">
 </td></tr>
 </table>
 

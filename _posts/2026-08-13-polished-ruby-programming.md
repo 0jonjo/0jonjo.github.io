@@ -1,8 +1,10 @@
 ---
 layout: post
+lang: en
+locale: en_US
 title: "Polished Ruby Programming: A book about fundamentals that landed right in my AI work"
 description: "Reviewing the second edition of Jeremy Evans' book: what it covers, and the two chapters that answered questions I had been chewing on all year while shipping AI features in Rails."
-tags: programming ruby ai english
+tags: programming ruby ai
 categories: misc
 youtubeId:
 image: https://github.com/user-attachments/assets/489984c5-0dbc-40a5-af1e-f1838b7f41c7

@@ -1,5 +1,7 @@
 ---
 layout: post
+lang: pt
+locale: pt_BR
 title: "Diplomado 3 anos depois do primeiro if-else"
 description: Agradecimentos da conclusão da Especialização em Engenharia de Software
 tags: learning
@@ -18,7 +20,7 @@ Aprendi a programar com minha filha crescendo na barriga da mãe. Não por acaso
 
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tr><td align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Ada_lovelace.jpg" width="350">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Ada_lovelace.jpg" width="350" alt="Retrato de Ada Lovelace">
 </td></tr>
 </table>
 

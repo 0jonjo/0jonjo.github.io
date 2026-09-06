@@ -1,8 +1,10 @@
 ---
 layout: post
+lang: en
+locale: en_US
 title: "Cat vs. Dog: A Machine Learning Experiment"
 description: "A hands‑on pipeline: feature engineering, dimensionality reduction, model tuning and statistical comparison — step‑by‑step notebooks linked"
-tags: programming learning ai english
+tags: programming learning ai
 categories: misc
 youtubeId:
 image: https://github.com/user-attachments/assets/ecdf1cce-c708-4bf7-966b-a1865aee1480

@@ -1,5 +1,7 @@
 ---
 layout: post
+lang: pt
+locale: pt_BR
 title: "A beleza do erro: primeiros passos em um app Spring Boot"
 description: "Aprendizados projetando e implementando um sistema de reuniões para um balcão de empregos"
 tags: programming java
@@ -27,7 +29,7 @@ Antes da etapa 1, foi necessário revisar o básico de Java e aprender como cria
 
 O objetivo não foi seguir um livro de receitas, mas sim começar a pensar e escrever com a cabeça de um desenvolvedor dessas tecnologias. Entender como são pensados os objetos, as classes e interfaces, e como eles se comunicam entre si. No processo, tive que me questionar diversas vezes: - Como as pessoas fazem isso no Spring Boot? Onde colocam essa checagem? Qual a melhor forma de persistir esses dados no banco? Algo que seria trivial em Ruby ou Python se torna um pequeno desafio na nova linguagem e framework. Ai está a beleza da coisa: a repetição de erros que leva a aprender.
 
-Entre a etapa 1 e 2, chega o momento dos jardins que se bifurcam - como bem previu [Borges](https://brasil.elpais.com/brasil/2018/09/11/cultura/1536655170_142491.html). Não existe um único modo de implementar checagens de existência de usuários no banco de dados, e não há um modo estritamente melhor ou pior, mas sim o que é mais adequado para o contexto do projeto. É uma oportunidade para ["gastar tempo" estudando](../aprendiz/) e implementando diferentes abordagens Clicar para o projeto realizar o build e ver ele quebrar de novo e de novo, cada vez com um erro diferente. Ou então funcionar e nos testes manuais descobrir que o resultado não é o esperado. Foi o momento de explorar as possibilidades do Spring Boot, as anotações, os métodos, os testes, etc.
+Entre a etapa 1 e 2, chega o momento dos jardins que se bifurcam - como bem previu [Borges](https://brasil.elpais.com/brasil/2018/09/11/cultura/1536655170_142491.html). Não existe um único modo de implementar checagens de existência de usuários no banco de dados, e não há um modo estritamente melhor ou pior, mas sim o que é mais adequado para o contexto do projeto. É uma oportunidade para ["gastar tempo" estudando]({% post_url 2023-08-13-aprendiz %}) e implementando diferentes abordagens Clicar para o projeto realizar o build e ver ele quebrar de novo e de novo, cada vez com um erro diferente. Ou então funcionar e nos testes manuais descobrir que o resultado não é o esperado. Foi o momento de explorar as possibilidades do Spring Boot, as anotações, os métodos, os testes, etc.
 
 Para salvar as preferências de horários dos usuários foi necessário de um lado estudar os modos pelos quais é possível gerir datas e horários nos bancos de dados  - utilizado no ecossistema Alljobs - e de outro, como é possível manipular esses dados no Spring Boot.
 

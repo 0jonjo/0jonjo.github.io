@@ -1,8 +1,10 @@
 ---
 layout: post
+lang: pt
+locale: pt_BR
 title: "Os olhos das pequenas coisas"
 description: "Um crônica que pedala ao amanhacer"
-tags: learning literatura
+tags: learning literature
 categories: misc
 youtubeId:
 image: https://github.com/user-attachments/assets/23959c59-053d-4b54-a086-8e1941fde5aa
@@ -20,7 +22,7 @@ Uma década depois, já sob calor matinal da minha cidade natal, Ada me ensinou 
 
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tr><td align="center">
-  <img src="https://github.com/user-attachments/assets/23959c59-053d-4b54-a086-8e1941fde5aa" width="450">
+  <img src="https://github.com/user-attachments/assets/23959c59-053d-4b54-a086-8e1941fde5aa" width="450" alt="João e Ada a caminho da escola de bicicleta">
 </td></tr>
 </table>
 

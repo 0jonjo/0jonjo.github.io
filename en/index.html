@@ -1,0 +1,17 @@
+---
+layout: default
+title: Posts in English
+permalink: /en/
+lang: en
+locale: en_US
+feed: /en/feed.xml
+---
+
+{% include back_link.html %}
+
+<header><h1>Posts in English</h1></header>
+
+{% assign posts = site.posts | where: "lang", "en" %}
+{% include post_list.html posts=posts %}
+
+<p><a href="{{ "/en/feed.xml" | relative_url }}">Atom feed for English posts</a></p>

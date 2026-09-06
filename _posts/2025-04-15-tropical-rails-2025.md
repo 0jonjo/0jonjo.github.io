@@ -1,8 +1,10 @@
 ---
 layout: post
+lang: en
+locale: en_US
 title: "Tropical on Rails 2025 - What an incredible event!"
 description: "The Rails community of the World is in São Paulo, Brazil!"
-tags: programming english
+tags: programming
 categories: misc
 youtubeId:
 image: https://github.com/user-attachments/assets/9980c90b-9b37-4fc4-a09e-d22b5a8e17e9

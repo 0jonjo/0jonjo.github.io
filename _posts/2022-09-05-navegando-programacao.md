@@ -1,8 +1,10 @@
 ---
 layout: post
+lang: pt
+locale: pt_BR
 title: "Lendo/Navegando o universo da programação"
 description: Primeira metade do novo livro de William Oliveira
-tags:  livro psicologia carreira programming
+tags: books psychology career programming
 categories: misc
 youtubeId:
 image: https://user-images.githubusercontent.com/64807181/188456645-0de07f8e-e845-4682-8857-ec6aa720bf54.png 

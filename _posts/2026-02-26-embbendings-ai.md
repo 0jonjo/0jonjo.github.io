@@ -1,8 +1,10 @@
 ---
 layout: post
+lang: en
+locale: en_US
 title: "Building Semantic Search with AI and Vector Embedding in Rails"
 description: "Creating semantic search with vector embeddings in Ruby using the ruby_llm gem and PostgreSQL's pgvector extension."
-tags: programming ruby ai english
+tags: programming ruby ai
 categories: misc
 youtubeId:
 image: https://github.com/user-attachments/assets/22ee97d1-ed97-4db9-8bbb-700d9c94f83d

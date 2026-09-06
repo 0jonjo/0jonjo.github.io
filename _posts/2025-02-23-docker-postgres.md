@@ -1,8 +1,10 @@
 ---
 layout: post
+lang: en
+locale: en_US
 title: "A Quick Guide to PostgreSQL with Docker"
 description: "A easy way to use a PostgreSQL database in a container to run tests and development"
-tags: programming english
+tags: programming
 categories: misc
 image: https://live.staticflickr.com/65535/51936373085_d70f7e8117_b.jpg
 ---
@@ -47,7 +49,7 @@ And that's it! It's easy and fast and you can follow the same steps to use other
 
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tr><td align="center">
-  <img src="https://live.staticflickr.com/65535/51936373085_d70f7e8117_b.jpg" width="450">
+  <img src="https://live.staticflickr.com/65535/51936373085_d70f7e8117_b.jpg" width="450" alt="Stacks of colorful shipping containers next to a rail crossing sign">
 </td></tr>
 </table>
 

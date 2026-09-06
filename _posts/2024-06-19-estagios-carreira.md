@@ -1,5 +1,7 @@
 ---
 layout: post
+lang: pt
+locale: pt_BR
 title: "O que fazer? Como evoluir em cada estágio da carreira?"
 description: "Dica de palestra com dicas para cada estágio da carreira"
 tags: learning

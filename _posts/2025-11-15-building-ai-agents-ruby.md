@@ -1,8 +1,10 @@
 ---
 layout: post
+lang: en
+locale: en_US
 title: "Building Robust AI Agents with Ruby_LLM"
 description: "A roundup of my two new technical posts on building robust AI in Ruby. Learn about intelligent Function Calling and building resilient, fault-tolerant clients"
-tags: programming ruby ai english
+tags: programming ruby ai
 categories: misc
 youtubeId:
 image: https://github.com/user-attachments/assets/c4129e7b-8815-451e-bea3-1fc5bfad6c24

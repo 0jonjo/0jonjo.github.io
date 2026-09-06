@@ -1,8 +1,10 @@
 ---
 layout: post
+lang: pt
+locale: pt_BR
 title: "Crescimento e diversidade nas comunidades de tecnologia"
 description: Para uma expansão acolhedora das comunidades
-tags: learning comunidade comunidades
+tags: learning community
 categories: misc
 youtubeId:
 image: https://live.staticflickr.com/4103/5027240951_2f16abde86_b.jpg
@@ -27,5 +29,5 @@ Algumas iniciativas legais relacionadas a diversidade no mundo da tecnologia:
 - [WomakersCode](https://womakerscode.org/)
 - [Woman Techmakers Brasil](https://gxgbrasil.github.io/wtmbr/)
 
-<img src="https://live.staticflickr.com/4103/5027240951_2f16abde86_b.jpg" width="350">
+<img src="https://live.staticflickr.com/4103/5027240951_2f16abde86_b.jpg" width="350" alt="Trabalhadores instalando um piso de paralelepípedos em uma calçada urbana">
 >Imagem: [Communication - ArtPrize 2010](https://openverse.org/image/02315cdd-988a-4086-aae5-73708fee70fe). Fonte: [Open Verse, Creative Commons 2.0](https://openverse.org/)

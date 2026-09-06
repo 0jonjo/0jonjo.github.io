@@ -1,17 +1,33 @@
 ---
 layout: default
+title: Tags
+permalink: /tags/
 ---
 
-{% assign sorted_tags = site.tags | sort %}
-{% for tag in sorted_tags %}
-  {% if tag[1].size > 3 %}
-    <h3>{{ tag[0] }}</h3>
-    <ul>
-        {% for post in tag[1] %}
-          <li><a href="{{ post.url }}">{{ post.title }}</a> <small> {{post.date | date: '%d-%m-%Y'}} </small></li>
-        {% endfor %}
-    </ul>
-  {% endif %}
-{% endfor %}
+{% include back_link.html %}
 
+<header><h1>Tags</h1></header>
 
+{% include lang_filter.html %}
+
+{% assign tags = site.tags | sort %}
+
+<div class="tag-cloud">
+  {% for tag in tags %}{% if tag[1].size > 3 %}
+    {% assign count = tag[1].size %}
+    <a href="#{{ tag[0] | slugify }}" class="tag tag-cloud-item" data-count="{{ count }}" style="font-size: {{ count | times: 0.05 | plus: 0.78 }}rem;">
+      {{ tag[0] }}<span class="tag-count">{{ count }}</span>
+    </a>
+  {% endif %}{% endfor %}
+</div>
+
+{% for tag in tags %}{% if tag[1].size > 3 %}
+  <section class="tag-section">
+    <h2 id="{{ tag[0] | slugify }}" class="tag-section-title">
+      {{ tag[0] }}
+      <span class="tag-section-count">{{ tag[1].size }} {% if tag[1].size == 1 %}post{% else %}posts{% endif %}</span>
+    </h2>
+    {% assign tag_posts = tag[1] %}
+    {% include post_list.html posts=tag_posts %}
+  </section>
+{% endif %}{% endfor %}

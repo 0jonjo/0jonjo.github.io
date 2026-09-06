@@ -1,8 +1,10 @@
 ---
 layout: post
+lang: pt
+locale: pt_BR
 title: "Códigos e Aforismos: lições da programação para a escrita nas Ciências Humanas"
 description: "Como a clareza e a simplicidade da programação podem transformar a escrita acadêmica nas Ciências Humanas"
-tags: history programming ensino python
+tags: history programming teaching python
 categories: misc
 youtubeId:
 image: https://arteref.com/wp-content/uploads/2017/03/capa-copy-2.jpg

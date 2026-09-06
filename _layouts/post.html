@@ -1,14 +1,19 @@
 ---
 layout: default
 ---
-<h1 class="post-headline">{{ page.title }}</h1>
-<p class="meta"><small>{{ page.date | date: '%d-%m-%Y' }}</small></p>
 
-{{content}}
+{% include back_link.html %}
+<h1 class="post-title">{{ page.title }}</h1>
+{% include date_and_social_share.html %}
 
-<!-- Comments only for posts -->
-{% if page.path contains '_posts' %}
-    {% if site.disqus-shortname %}
-        {% include disqus.html %}
-    {% endif %}
-{% endif %}
+{%- if site.theme_config.show_toc and page.toc -%}
+  {% include toc.html %}
+{%- endif -%}
+
+<div class="post-content{% if page.dropcap %} has-dropcap{% endif %}">
+  {{ content }}
+</div>
+
+{%- if site.theme_config.show_post_nav -%}
+  {% include post_nav.html %}
+{%- endif -%}

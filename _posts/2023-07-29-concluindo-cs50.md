@@ -1,5 +1,7 @@
 ---
 layout: post
+lang: pt
+locale: pt_BR
 title: "Concluindo a jornada do CS50"
 description: "Último exercício da famosa disciplina de Harvard"
 tags: python

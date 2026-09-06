@@ -1,0 +1,42 @@
+{% assign headers = content | split: '<h' %}
+{% assign toc_items = "" %}
+{% for header in headers %}
+  {% assign first_char = header | slice: 0, 1 %}
+  {% if first_char == "2" or first_char == "3" %}
+    {% assign id_start = header | split: 'id="' %}
+    {% if id_start.size > 1 %}
+      {% assign id_rest = id_start[1] | split: '"' %}
+      {% assign header_id = id_rest[0] %}
+      {% assign text_start = header | split: '>' %}
+      {% assign text_rest = text_start[1] | split: '</h' %}
+      {% assign header_text = text_rest[0] %}
+      {% if first_char == "2" %}
+        {% assign toc_items = toc_items | append: "2|" | append: header_id | append: "|" | append: header_text | append: ";;;" %}
+      {% else %}
+        {% assign toc_items = toc_items | append: "3|" | append: header_id | append: "|" | append: header_text | append: ";;;" %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% assign items = toc_items | split: ";;;" %}
+{% if items.size > 0 %}
+<details class="toc" open>
+  <summary>Table of Contents</summary>
+  <ul>
+    {% for item in items %}
+      {% if item != "" %}
+        {% assign parts = item | split: "|" %}
+        {% assign level = parts[0] %}
+        {% assign id = parts[1] %}
+        {% assign text = parts[2] %}
+        {% if level == "2" %}
+          <li><a href="#{{ id }}">{{ text }}</a></li>
+        {% else %}
+          <li class="toc-sub"><a href="#{{ id }}">{{ text }}</a></li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+</details>
+{% endif %}

@@ -1,0 +1,31 @@
+---
+layout: default
+title: Page not found
+permalink: /404.html
+---
+
+<div class="not-found">
+  <div class="not-found-code">404</div>
+  <h1 class="not-found-title">You took a wrong turn.</h1>
+  <p class="not-found-lede">
+    The page you were looking for is not here. Maybe it moved, maybe it never existed.
+  </p>
+
+  <div class="not-found-actions">
+    <a href="{{ "/" | relative_url }}" class="not-found-cta">← Head back home</a>
+    {% if site.posts.size > 0 %}
+      {% assign random_post = site.posts | sample %}
+      <a href="{{ random_post.url | relative_url }}" class="not-found-cta not-found-cta-secondary">
+        Read something random →
+      </a>
+    {% endif %}
+  </div>
+
+  {% if site.posts.size > 0 %}
+    <div class="not-found-recent">
+      <h3>Or pick one of these:</h3>
+      {% assign recent = site.posts | slice: 0, 5 %}
+      {% include post_list.html posts=recent %}
+    </div>
+  {% endif %}
+</div>
