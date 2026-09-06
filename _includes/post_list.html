@@ -1,0 +1,9 @@
+{% assign posts = include.posts | default: site.posts %}
+<ul class="post-list" data-post-list>
+  {% for post in posts %}
+    <li class="post-list-item" data-lang="{{ post.lang | default: site.lang }}">
+      <span class="home-date">{{ post.date | date: site.theme_config.date_format }}&raquo;</span>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

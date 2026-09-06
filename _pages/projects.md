@@ -1,45 +1,14 @@
 ---
-title:
+title: Projects
 layout: default
 permalink: /projects/
-published: true
 ---
 
+{% include back_link.html %}
 
-<div class="ProjectContainer">
+<header><h1>Projects</h1></header>
 
-	<div class="gallery">
-
-
-  {% for project in site.projects %}
-
-  {% if project.redirect %}
-  <div class="projectTile">
-          <a href="{{ project.redirect }}" target="_blank">
-          <span>
-              <h2>{{ project.title }}</h2>
-              <br/>
-              <p>{{ project.description }}</p>
-          </span>
-          </a>
-  </div>
-
-  {% else %}
-
-  <div class="projectTile">
-          <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
-          <span>
-              <h2>{{ project.title }}</h2>
-              <br/>
-              <p>{{ project.description }}</p>
-          </span>
-          </a>
-  </div>
-
-  {% endif %}
-
-  {% endfor %}
-
-	</div>
-
-</div>
+<ul>
+  <li><a href="https://calcpace.app" target="_blank" rel="noopener noreferrer">Calcpace</a> — pace, distance and time calculator for runners and cyclists.</li>
+  <li><a href="https://github.com/0jonjo/calcpace" target="_blank" rel="noopener noreferrer">calcpace gem</a> — the Ruby library behind it: pace math and unit conversion.</li>
+</ul>

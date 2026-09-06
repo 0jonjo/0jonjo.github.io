@@ -1,0 +1,9 @@
+navbar_entries:
+  - title: home
+    url: /
+  - title: posts
+    url: /blog/
+  - title: tags
+    url: /tags/
+  - title: archive
+    url: /archive/
