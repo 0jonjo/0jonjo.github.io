@@ -1,0 +1,15 @@
+<nav class="site-nav" aria-label="Main">
+  <details class="site-nav-mobile">
+    <summary>menu</summary>
+    <ul>
+      {% for item in site.data.home.navbar_entries %}
+        <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </details>
+  <ul class="horizontal-list site-nav-desktop">
+    {% for item in site.data.home.navbar_entries %}
+      <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>

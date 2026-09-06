@@ -724,7 +724,7 @@ html[data-theme="dark"] {
 // -------------- COLLAPSIBLE / DETAILS -------------- //
 // Polish the native <details> element so it feels intentional. Use it for
 // asides, "long version" expansions, spoilers, etc.
-details:not(.toc):not([class*="markdown-alert"]) {
+details:not(.toc):not([class*="markdown-alert"]):not(.site-nav-mobile) {
   margin: 1.5em 0;
   padding: 0.75em 1.15em;
   background-color: var(--bg-subtle);
