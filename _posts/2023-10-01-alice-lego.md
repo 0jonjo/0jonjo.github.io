@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: pt
+locale: pt_BR
 title: "Da Alice ao Lego: aprendendo para além da superfície"
 description: "Um convite à curiosidade e experimentação"
 tags: learning

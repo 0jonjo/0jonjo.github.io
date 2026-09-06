@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: pt
+locale: pt_BR
 title: "Removendo código legado: algumas dicas práticas"
 description: "Notas para remoções e refatorações em grandes projetos"
 tags: refactoring project programming

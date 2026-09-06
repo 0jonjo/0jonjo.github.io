@@ -97,7 +97,6 @@ GEM
     jekyll-email-protect (1.1.0)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-paginate (1.1.0)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
     jekyll-seo-tag (2.9.0)
@@ -200,7 +199,6 @@ DEPENDENCIES
   jekyll (~> 4.4)
   jekyll-email-protect
   jekyll-feed
-  jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-target-blank
@@ -249,7 +247,6 @@ CHECKSUMS
   jekyll (4.4.1) sha256=4c1144d857a5b2b80d45b8cf5138289579a9f8136aadfa6dd684b31fe2bc18c1
   jekyll-email-protect (1.1.0) sha256=00d620939c710788ae3f71188ef913e0aa7ff0a5a39f48249213ea6215558c8d
   jekyll-feed (0.17.0) sha256=689aab16c877949bb9e7a5c436de6278318a51ecb974792232fd94d8b3acfcc3
-  jekyll-paginate (1.1.0) sha256=880aadf4b02529a93541d508c5cbb744f014cbfc071d0263a31f25ec9066eb64
   jekyll-sass-converter (3.1.0) sha256=83925d84f1d134410c11d0c6643b0093e82e3a3cf127e90757a85294a3862443
   jekyll-seo-tag (2.9.0) sha256=0260015a8e1df9bf195cdfb0c675b7b2883fd8cbf12556e1c1cbe36a831c6852
   jekyll-sitemap (1.4.0) sha256=0de08c5debc185ea5a8f980e1025c7cd3f8e0c35c8b6ef592f15c46235cf4218

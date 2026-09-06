@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: en
+locale: en_US
 title: "Implementing JSON Web Token in Ruby on Rails"
 description: "How to code and decode JWT tokens in a Rest API"
 tags: ruby

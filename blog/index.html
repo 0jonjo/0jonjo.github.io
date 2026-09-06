@@ -1,20 +1,12 @@
 ---
 layout: default
 title: Posts
+permalink: /blog/
 ---
 
 {% include back_link.html %}
 
 <header><h1>Posts</h1></header>
 
-{% include post_list.html posts=paginator.posts %}
-
-{% if paginator.total_pages > 1 %}
-<nav class="pagination" aria-label="Pagination">
-  <ul class="horizontal-list">
-    {% if paginator.previous_page %}<li><a href="{{ paginator.previous_page_path | relative_url }}">&laquo; prev</a></li>{% endif %}
-    <li>page {{ paginator.page }} of {{ paginator.total_pages }}</li>
-    {% if paginator.next_page %}<li><a href="{{ paginator.next_page_path | relative_url }}">next &raquo;</a></li>{% endif %}
-  </ul>
-</nav>
-{% endif %}
+{% include lang_filter.html %}
+{% include post_list.html %}

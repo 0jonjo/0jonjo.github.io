@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: en
+locale: en_US
 title: "Updating Calcpace with Gemini CLI"
 description: "Exploring Google's Generative AI Command Line Interface"
 tags: programming ruby

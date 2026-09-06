@@ -13,4 +13,14 @@ Pushes to `main` and a daily cron (09:00 UTC) run `.github/workflows/pages.yml`,
 
 ## Writing
 
-Posts live in `_posts/YYYY-MM-DD-slug.md` with `lang: en` or `lang: pt` in the front matter. Tags are lowercase English words.
+Posts live in `_posts/YYYY-MM-DD-slug.md`. Front matter:
+
+    layout: post
+    lang: en          # or pt
+    locale: en_US     # or pt_BR (used for og:locale)
+    title: "..."
+    description: "..."
+    tags: programming ruby
+    image: https://...
+
+Tags are lowercase English words. The tags page only lists tags with more than 3 posts.

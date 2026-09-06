@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: pt
+locale: pt_BR
 title: "A arte do onboarding"
 description: "Cinco pontos para acelerar e qualificar seu onboarding"
 tags: learning

@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: en
+locale: en_US
 title: "Calcpace Web: the calculator now in the browser"
 description: "The calcpace gem just hit 7,000 downloads, so I ran a 5k and built calcpace.app to bring those calculations to everyone, no Ruby required."
 tags: programming ruby

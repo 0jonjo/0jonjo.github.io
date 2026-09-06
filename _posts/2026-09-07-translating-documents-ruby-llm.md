@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: en
+locale: en_US
 title: "Translating rich documents with AI using ruby_llm"
 description: "A production-ready Ruby pipeline that translates whole documents with LLMs while keeping markup, links and structure intact: extract, batch, translate, validate, apply."
 tags: programming ruby ai

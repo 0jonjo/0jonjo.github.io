@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: en
+locale: en_US
 title: "Migrating Rails views to Jet UI: a guide with ViewComponent and Tailwind v4"
 description: "Ar real-world experience migrating Calcpace to Jet UI, a ViewComponent-based library built on Tailwind CSS v4. How we standardized our UI, leveraged generators, and solved production gotchas."
 tags: programming ruby ai

@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: en
+locale: en_US
 title: "Five resources and one strategy for Claude Certification"
 description: "Preparing for the Claude Architect Foundations certification: five essential study resources, a dynamic learning strategy, and the mindset needed to pass the exam."
 tags: programming learning ai

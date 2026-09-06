@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: en
+locale: en_US
 title: "The Art of Onboarding"
 description: "Five tips to accelerate and enhance your onboarding experience"
 tags: programming

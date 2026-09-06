@@ -9,8 +9,6 @@ linkedin: 0jonjo
 github: 0jonjo
 
 permalink: /blog/:year/:title/
-paginate: 4
-paginate_path: /blog/page:num/
 
 theme_config:
   appearance: "light"
@@ -52,6 +50,12 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-paginate
   - jekyll-email-protect
   - jekyll-target-blank
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/og-default.png
+      locale: pt_BR

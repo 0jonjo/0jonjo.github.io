@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: en
+locale: en_US
 title: "A City Called Christmas"
 description: "An evocative stroll through Natal’s past and present, where light and tradition turn ordinary days into celebration"
 tags: history

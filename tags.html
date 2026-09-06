@@ -13,15 +13,15 @@ permalink: /tags/
 {% assign tags = site.tags | sort %}
 
 <div class="tag-cloud">
-  {% for tag in tags %}
+  {% for tag in tags %}{% if tag[1].size > 3 %}
     {% assign count = tag[1].size %}
     <a href="#{{ tag[0] | slugify }}" class="tag tag-cloud-item" data-count="{{ count }}" style="font-size: {{ count | times: 0.05 | plus: 0.78 }}rem;">
       {{ tag[0] }}<span class="tag-count">{{ count }}</span>
     </a>
-  {% endfor %}
+  {% endif %}{% endfor %}
 </div>
 
-{% for tag in tags %}
+{% for tag in tags %}{% if tag[1].size > 3 %}
   <section class="tag-section">
     <h2 id="{{ tag[0] | slugify }}" class="tag-section-title">
       {{ tag[0] }}
@@ -30,4 +30,4 @@ permalink: /tags/
     {% assign tag_posts = tag[1] %}
     {% include post_list.html posts=tag_posts %}
   </section>
-{% endfor %}
+{% endif %}{% endfor %}

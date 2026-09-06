@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: pt
+locale: pt_BR
 title: "Lendo/Navegando o universo da programação"
 description: Primeira metade do novo livro de William Oliveira
 tags: books psychology career programming

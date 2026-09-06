@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: en
+locale: en_US
 title: "In Clouds - getting certified as Associate Cloud Engineer"
 description: "Learning in classes, exercises, and practical labs of Google Cloud"
 tags: programming

@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: en
+locale: en_US
 title: "Immersing in AI: Notes from a Developer Studying Machine Learning, Ethics and Data"
 description: "Parallels between an AI course and work as a developer on AI projects"
 tags: programming learning ai
