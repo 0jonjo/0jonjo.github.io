@@ -19,7 +19,7 @@ Semana passada tive a rara oportunidade de conhecer pessoalmente a sede e o time
 
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tr><td align="center">
-  <img src="https://live.staticflickr.com/7308/16195370169_0ab5cb9808_b.jpg" width="450">
+  <img src="https://live.staticflickr.com/7308/16195370169_0ab5cb9808_b.jpg" width="450" alt="Máscaras de argila com rostos variados conectadas por fios coloridos em uma instalação de arte">
 </td></tr>
 </table>
 

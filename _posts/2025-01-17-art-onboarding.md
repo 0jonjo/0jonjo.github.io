@@ -35,7 +35,7 @@ In conclusion, onboarding is a journey of discovery that can be both exciting an
 
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tr><td align="center">
-  <img src="https://live.staticflickr.com/1784/42898374451_c6cb68dd17_b.jpg" width="450">
+  <img src="https://live.staticflickr.com/1784/42898374451_c6cb68dd17_b.jpg" width="450" alt="Painted door with a white rabbit set into a tree trunk, evoking a new beginning">
 </td></tr>
 </table>
 

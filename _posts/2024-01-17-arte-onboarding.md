@@ -50,7 +50,7 @@ Em resumo, o onboarding é um processo de descoberta que pode gerar ansiedade, e
 
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tr><td align="center">
-  <img src="https://live.staticflickr.com/1784/42898374451_c6cb68dd17_b.jpg" width="450">
+  <img src="https://live.staticflickr.com/1784/42898374451_c6cb68dd17_b.jpg" width="450" alt="Porta pintada com um coelho branco em um tronco de árvore, remetendo a um novo começo">
 </td></tr>
 </table>
 

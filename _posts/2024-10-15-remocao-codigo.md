@@ -34,7 +34,7 @@ Uma dica final é atentar para dois pontos de vista ao mesmo tempo: o da luneta 
 
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tr><td align="center">
-  <img src="https://live.staticflickr.com/6179/6173981823_438e8634f6_b.jpg" width="450">
+  <img src="https://live.staticflickr.com/6179/6173981823_438e8634f6_b.jpg" width="450" alt="Trabalhadores de obra assentando paralelepípedos em uma rua">
 </td></tr>
 </table>
 

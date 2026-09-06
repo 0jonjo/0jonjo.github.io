@@ -20,7 +20,7 @@ Link para o tutorial: [Utilizar Gazetteers para Extrair Conjuntos de Palavras-ch
 
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tr><td align="center">
-  <img src="https://programminghistorian.org/images/website/index/woman-using-tabulator.png" width="450">
+  <img src="https://programminghistorian.org/images/website/index/woman-using-tabulator.png" width="450" alt="Ilustração antiga de uma mulher usando uma máquina tabuladora, cercada por pilhas de cartões perfurados">
 </td></tr>
 </table>
 
