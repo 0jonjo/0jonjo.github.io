@@ -27,3 +27,5 @@ All the math is the [calcpace gem](https://rubygems.org/gems/calcpace). The UI i
 ## Next up: iPhone
 
 Next is the iPhone app, with the same Hotwire Native approach.
+
+<img width="800" height="999" alt="image" src="https://github.com/user-attachments/assets/713abc88-f2c1-4d0d-8d67-41f4990e493e" />
